@@ -1,0 +1,501 @@
+Farmer_ID,State,District,Temperature_C,Humidity_%,Rainfall_mm,Soil_Type,Water_Availability,Farm_Size_Acres,Feed_Budget_INR,Medical_Budget_INR,Disease_History,Vaccination_Status,Livestock_Purpose,Organic_Farming,Climate_Zone,Productivity_Goal,Recommended_Breed
+F0001,Tamil Nadu,Erode,30,45,1355,Black,Medium,15.7,39448,7095,Brucellosis,No,Milk,Yes,Dry,High Milk,Gir
+F0002,Maharashtra,Kolhapur,34,59,385,Red,Medium,6.1,41036,11490,Mastitis,Yes,Dual,No,Dry,High Milk,Gir
+F0003,Karnataka,Belagavi,22,72,1165,Red,High,2.7,44055,3000,Mastitis,No,Dual,Yes,Semi-Arid,Low Cost,Gir
+F0004,Maharashtra,Pune,39,48,1449,Red,High,11.8,37115,2355,None,Yes,Dual,No,Humid,Low Cost,Gir
+F0005,Tamil Nadu,Tiruppur,29,40,1643,Laterite,Medium,1.1,20307,14807,Mastitis,Yes,Dual,Yes,Semi-Arid,Low Cost,Gir
+F0006,Maharashtra,Nashik,33,45,1339,Alluvial,Medium,6.4,43366,2224,Mastitis,No,Meat,No,Dry,High Milk,Gir
+F0007,Karnataka,Mysuru,28,60,659,Black,Low,19.7,25986,6665,Mastitis,No,Meat,Yes,Semi-Arid,Low Cost,Sahiwal
+F0008,Andhra Pradesh,Anantapur,27,89,1225,Alluvial,High,17.4,49729,9772,Lumpy Skin,No,Meat,No,Semi-Arid,High Milk,Gir
+F0009,Andhra Pradesh,Nellore,29,50,1190,Alluvial,Low,7.2,24238,11573,Lumpy Skin,No,Milk,Yes,Tropical,Sustainable,Kangayam
+F0010,Andhra Pradesh,Anantapur,33,54,623,Laterite,Low,2.5,42088,2056,Mastitis,Yes,Meat,Yes,Dry,Sustainable,Kangayam
+F0011,Andhra Pradesh,Nellore,33,77,1550,Red,Medium,5.6,19105,10318,Brucellosis,Yes,Milk,Yes,Tropical,High Milk,Gir
+F0012,Tamil Nadu,Coimbatore,31,54,358,Red,Low,14.1,17023,8430,Mastitis,Yes,Meat,No,Humid,Disease Resistant,Kangayam
+F0013,Karnataka,Mandya,31,81,1444,Alluvial,Low,8.9,21601,3248,Mastitis,No,Dual,No,Humid,Sustainable,Kangayam
+F0014,Karnataka,Belagavi,23,83,609,Alluvial,Low,12.8,46821,6651,Mastitis,No,Milk,No,Humid,Low Cost,Gir
+F0015,Maharashtra,Pune,29,50,1083,Black,Medium,15.9,14168,6526,Mastitis,No,Meat,Yes,Semi-Arid,Low Cost,Gir
+F0016,Tamil Nadu,Coimbatore,27,73,1532,Red,Medium,11.1,41100,3003,Mastitis,No,Dual,No,Tropical,High Milk,Gir
+F0017,Andhra Pradesh,Guntur,38,47,1647,Red,High,9.7,20922,12718,Brucellosis,Yes,Meat,Yes,Tropical,Low Cost,Sahiwal
+F0018,Tamil Nadu,Madurai,39,43,1389,Laterite,Medium,8.3,30166,2743,Brucellosis,No,Milk,Yes,Humid,Disease Resistant,Kangayam
+F0019,Andhra Pradesh,Anantapur,28,47,1208,Red,High,15.2,22834,4323,Brucellosis,Yes,Milk,No,Dry,Low Cost,Sahiwal
+F0020,Andhra Pradesh,Nellore,34,45,1071,Black,Medium,9.2,10837,5049,Brucellosis,Yes,Dual,No,Humid,Sustainable,Kangayam
+F0021,Maharashtra,Nashik,34,42,1322,Red,Low,12.5,24512,6479,Mastitis,Yes,Milk,No,Tropical,Sustainable,Kangayam
+F0022,Andhra Pradesh,Nellore,29,61,1573,Red,Medium,7.3,45052,8428,Lumpy Skin,Yes,Dual,Yes,Humid,High Milk,Gir
+F0023,Tamil Nadu,Salem,36,58,1209,Laterite,Medium,9.1,31988,7150,Brucellosis,Yes,Milk,Yes,Semi-Arid,Disease Resistant,Kangayam
+F0024,Karnataka,Mandya,22,46,381,Alluvial,High,1.3,23802,2292,FMD,No,Meat,No,Tropical,Sustainable,Kangayam
+F0025,Karnataka,Mysuru,35,72,1667,Black,Medium,10.6,41372,10594,None,Yes,Meat,Yes,Humid,High Milk,Gir
+F0026,Andhra Pradesh,Anantapur,35,77,1262,Red,Low,11.8,40121,2213,FMD,No,Dual,No,Humid,Low Cost,Ongole
+F0027,Tamil Nadu,Salem,32,42,1467,Alluvial,Low,18.1,36167,8785,Mastitis,Yes,Meat,No,Dry,Low Cost,Sahiwal
+F0028,Maharashtra,Kolhapur,31,74,1524,Red,High,8.2,18134,8182,None,Yes,Dual,Yes,Dry,High Milk,Gir
+F0029,Karnataka,Belagavi,26,58,944,Laterite,Medium,9.4,32341,3622,Mastitis,Yes,Meat,No,Dry,Sustainable,Kangayam
+F0030,Andhra Pradesh,Guntur,28,50,966,Black,High,7.0,38868,14794,FMD,Yes,Dual,Yes,Humid,Disease Resistant,Kangayam
+F0031,Tamil Nadu,Madurai,27,85,1337,Alluvial,Low,9.2,24041,2630,Mastitis,Yes,Meat,No,Humid,Disease Resistant,Kangayam
+F0032,Tamil Nadu,Coimbatore,38,72,1737,Laterite,Medium,5.0,42343,13703,None,No,Meat,No,Humid,Disease Resistant,Kangayam
+F0033,Karnataka,Mysuru,31,44,1231,Laterite,Low,18.6,22983,11361,Mastitis,Yes,Meat,No,Tropical,Low Cost,Gir
+F0034,Maharashtra,Nashik,27,81,1685,Black,Medium,16.2,43739,10162,Mastitis,Yes,Milk,Yes,Tropical,High Milk,Gir
+F0035,Maharashtra,Pune,26,57,1368,Alluvial,High,5.8,22744,6032,Brucellosis,Yes,Milk,Yes,Tropical,Sustainable,Kangayam
+F0036,Maharashtra,Nashik,32,55,752,Black,High,15.8,27812,12574,Brucellosis,Yes,Milk,No,Humid,Disease Resistant,Kangayam
+F0037,Maharashtra,Kolhapur,29,40,1121,Alluvial,Medium,16.0,45207,5082,Mastitis,Yes,Meat,No,Humid,Disease Resistant,Kangayam
+F0038,Karnataka,Belagavi,40,85,1397,Black,Low,15.7,37804,5677,Mastitis,No,Dual,Yes,Tropical,Disease Resistant,Kangayam
+F0039,Maharashtra,Pune,37,59,459,Alluvial,Low,15.2,24565,14492,Lumpy Skin,Yes,Milk,Yes,Humid,Low Cost,Ongole
+F0040,Maharashtra,Nashik,27,46,561,Laterite,Low,10.4,42711,3505,Lumpy Skin,No,Milk,No,Humid,High Milk,Gir
+F0041,Andhra Pradesh,Anantapur,24,79,1266,Black,High,15.6,46143,8642,FMD,Yes,Meat,No,Humid,Sustainable,Kangayam
+F0042,Maharashtra,Pune,24,71,1591,Alluvial,High,9.2,14693,9282,Brucellosis,Yes,Dual,No,Humid,Disease Resistant,Kangayam
+F0043,Andhra Pradesh,Guntur,29,76,1058,Black,High,7.7,11089,11292,None,No,Dual,Yes,Tropical,High Milk,Gir
+F0044,Karnataka,Mandya,31,62,661,Laterite,Low,11.8,42068,8159,Mastitis,Yes,Dual,Yes,Humid,High Milk,Gir
+F0045,Andhra Pradesh,Anantapur,22,85,471,Laterite,High,16.7,28763,6627,None,No,Meat,Yes,Semi-Arid,High Milk,Gir
+F0046,Karnataka,Belagavi,30,53,1532,Laterite,Low,18.6,14298,3057,Brucellosis,No,Milk,No,Semi-Arid,Low Cost,Gir
+F0047,Maharashtra,Pune,22,61,625,Black,Low,11.8,30406,10370,None,Yes,Meat,No,Semi-Arid,Sustainable,Kangayam
+F0048,Maharashtra,Pune,31,48,1693,Black,Medium,3.7,45479,9909,FMD,Yes,Milk,Yes,Semi-Arid,Low Cost,Kangayam
+F0049,Maharashtra,Pune,22,75,932,Red,Low,16.9,29064,11259,Lumpy Skin,Yes,Dual,No,Humid,Sustainable,Kangayam
+F0050,Karnataka,Belagavi,28,46,764,Red,High,6.1,44692,6608,None,No,Milk,Yes,Semi-Arid,Sustainable,Kangayam
+F0051,Maharashtra,Nashik,31,59,756,Black,High,8.0,21575,5327,Mastitis,Yes,Milk,No,Dry,Low Cost,Kangayam
+F0052,Karnataka,Mysuru,34,44,620,Red,High,14.3,44479,3453,Brucellosis,Yes,Dual,No,Tropical,Sustainable,Kangayam
+F0053,Tamil Nadu,Tiruppur,40,79,659,Black,Low,3.9,46715,9772,Mastitis,No,Meat,Yes,Humid,High Milk,Ongole
+F0054,Maharashtra,Pune,28,70,979,Red,High,10.2,35616,13618,Brucellosis,No,Dual,No,Semi-Arid,Sustainable,Kangayam
+F0055,Maharashtra,Kolhapur,32,64,1076,Red,High,8.0,45684,9731,FMD,Yes,Meat,Yes,Humid,High Milk,Gir
+F0056,Andhra Pradesh,Guntur,25,42,1589,Laterite,Low,2.8,37964,11254,Brucellosis,No,Meat,Yes,Tropical,Disease Resistant,Kangayam
+F0057,Andhra Pradesh,Nellore,32,84,608,Black,High,7.6,38790,10350,Lumpy Skin,No,Milk,Yes,Dry,Low Cost,Kangayam
+F0058,Andhra Pradesh,Guntur,36,66,1761,Alluvial,Low,8.8,21477,2657,FMD,Yes,Meat,No,Humid,Disease Resistant,Kangayam
+F0059,Tamil Nadu,Erode,24,53,1399,Black,Medium,13.8,45014,11206,Brucellosis,No,Dual,Yes,Tropical,Disease Resistant,Kangayam
+F0060,Tamil Nadu,Erode,31,68,915,Laterite,Low,14.7,41387,3896,None,Yes,Meat,No,Tropical,High Milk,Gir
+F0061,Tamil Nadu,Tiruppur,23,68,865,Black,Low,3.7,26422,8839,Mastitis,No,Dual,Yes,Semi-Arid,Low Cost,Kangayam
+F0062,Tamil Nadu,Tiruppur,36,61,934,Laterite,Low,15.7,45114,5526,FMD,No,Milk,Yes,Tropical,Disease Resistant,Kangayam
+F0063,Maharashtra,Kolhapur,37,71,1277,Red,Medium,5.9,46727,2700,Mastitis,No,Dual,No,Dry,High Milk,Gir
+F0064,Maharashtra,Pune,33,79,973,Black,Medium,1.6,12681,11269,Lumpy Skin,No,Meat,Yes,Dry,Sustainable,Kangayam
+F0065,Andhra Pradesh,Nellore,26,74,556,Black,High,17.9,12485,13867,Lumpy Skin,Yes,Dual,No,Dry,High Milk,Sahiwal
+F0066,Tamil Nadu,Coimbatore,37,76,391,Alluvial,Medium,13.0,43258,9335,None,No,Milk,No,Dry,Low Cost,Kangayam
+F0067,Tamil Nadu,Erode,28,90,1303,Red,Medium,11.5,35422,13311,Brucellosis,Yes,Dual,No,Dry,High Milk,Gir
+F0068,Andhra Pradesh,Anantapur,37,63,533,Red,High,9.5,31364,14542,None,Yes,Milk,No,Humid,High Milk,Kangayam
+F0069,Maharashtra,Pune,31,78,1752,Alluvial,Low,5.6,32236,6349,Mastitis,No,Meat,Yes,Semi-Arid,Low Cost,Gir
+F0070,Maharashtra,Nashik,29,65,728,Laterite,High,12.2,38538,2121,FMD,Yes,Meat,No,Tropical,Low Cost,Sahiwal
+F0071,Andhra Pradesh,Guntur,36,59,1452,Alluvial,Low,17.4,24805,10410,Mastitis,No,Meat,No,Semi-Arid,Sustainable,Ongole
+F0072,Tamil Nadu,Madurai,39,65,547,Alluvial,Medium,5.3,36850,9279,FMD,No,Dual,No,Semi-Arid,Low Cost,Kangayam
+F0073,Andhra Pradesh,Anantapur,24,90,1508,Red,High,18.2,11961,10409,Brucellosis,Yes,Dual,No,Tropical,Disease Resistant,Kangayam
+F0074,Andhra Pradesh,Anantapur,29,68,1760,Red,Medium,14.1,12907,3839,Brucellosis,Yes,Dual,No,Dry,Sustainable,Kangayam
+F0075,Karnataka,Belagavi,39,83,802,Red,High,3.1,28183,5371,None,Yes,Dual,Yes,Tropical,High Milk,Kangayam
+F0076,Tamil Nadu,Salem,32,52,446,Black,Medium,7.8,30827,6777,Mastitis,Yes,Dual,No,Tropical,Disease Resistant,Kangayam
+F0077,Karnataka,Mysuru,24,55,1023,Black,Low,6.9,27818,4066,None,No,Meat,No,Tropical,Sustainable,Kangayam
+F0078,Tamil Nadu,Salem,38,82,882,Black,Medium,2.1,39534,7974,Brucellosis,Yes,Milk,Yes,Dry,Low Cost,Gir
+F0079,Maharashtra,Kolhapur,29,75,421,Red,Low,13.8,23433,8449,Mastitis,No,Meat,No,Semi-Arid,High Milk,Gir
+F0080,Maharashtra,Nashik,26,45,1150,Black,Medium,6.8,43811,14019,Mastitis,Yes,Milk,Yes,Semi-Arid,Sustainable,Kangayam
+F0081,Maharashtra,Nashik,39,75,1515,Black,Low,5.8,48094,7337,Brucellosis,Yes,Milk,No,Tropical,Disease Resistant,Kangayam
+F0082,Andhra Pradesh,Guntur,26,56,1752,Black,High,19.1,33868,8639,Mastitis,Yes,Dual,Yes,Tropical,Low Cost,Kangayam
+F0083,Tamil Nadu,Coimbatore,36,87,943,Laterite,High,11.3,16246,8991,Brucellosis,Yes,Milk,No,Tropical,High Milk,Sahiwal
+F0084,Maharashtra,Pune,26,40,949,Red,High,2.6,19990,10569,Brucellosis,No,Meat,No,Semi-Arid,Low Cost,Kangayam
+F0085,Tamil Nadu,Coimbatore,30,65,1595,Laterite,Low,7.7,21495,10592,Brucellosis,Yes,Dual,Yes,Dry,Sustainable,Kangayam
+F0086,Andhra Pradesh,Guntur,39,62,328,Red,Medium,10.3,26021,10886,Brucellosis,No,Milk,No,Humid,Low Cost,Gir
+F0087,Tamil Nadu,Madurai,39,83,375,Black,High,9.8,39845,11378,Brucellosis,Yes,Dual,No,Dry,Disease Resistant,Kangayam
+F0088,Tamil Nadu,Tiruppur,32,57,514,Alluvial,Low,7.6,40782,2580,Mastitis,No,Dual,Yes,Semi-Arid,High Milk,Gir
+F0089,Andhra Pradesh,Anantapur,29,64,1794,Alluvial,Medium,15.1,49385,4677,Lumpy Skin,No,Milk,Yes,Tropical,Low Cost,Kangayam
+F0090,Maharashtra,Kolhapur,32,69,1071,Black,Low,11.2,38297,13756,Lumpy Skin,No,Milk,No,Dry,Low Cost,Gir
+F0091,Maharashtra,Kolhapur,27,46,1660,Red,Medium,7.5,31963,13404,Lumpy Skin,No,Meat,No,Tropical,Sustainable,Kangayam
+F0092,Karnataka,Belagavi,36,87,1491,Red,Medium,8.7,36993,7319,FMD,Yes,Meat,Yes,Humid,Disease Resistant,Kangayam
+F0093,Andhra Pradesh,Guntur,35,67,1466,Red,Low,6.4,30770,14418,Brucellosis,Yes,Milk,No,Dry,Disease Resistant,Kangayam
+F0094,Karnataka,Mandya,36,50,1102,Laterite,Medium,13.8,15197,13767,Mastitis,No,Milk,No,Tropical,Disease Resistant,Kangayam
+F0095,Maharashtra,Pune,30,74,961,Alluvial,Low,12.2,17577,6385,None,No,Dual,No,Dry,High Milk,Gir
+F0096,Tamil Nadu,Salem,32,57,1716,Red,Low,8.1,17138,10928,FMD,Yes,Meat,No,Semi-Arid,Low Cost,Gir
+F0097,Maharashtra,Kolhapur,38,88,411,Red,Medium,5.4,17069,7158,Lumpy Skin,No,Dual,Yes,Semi-Arid,Sustainable,Kangayam
+F0098,Karnataka,Mysuru,30,77,762,Laterite,Medium,12.2,25422,2025,None,No,Meat,Yes,Semi-Arid,High Milk,Kangayam
+F0099,Maharashtra,Nashik,34,78,1650,Laterite,Low,13.9,12333,7784,Mastitis,Yes,Dual,No,Semi-Arid,Disease Resistant,Kangayam
+F0100,Tamil Nadu,Madurai,31,81,867,Laterite,Medium,17.9,35568,4500,None,Yes,Dual,Yes,Semi-Arid,High Milk,Gir
+F0101,Tamil Nadu,Tiruppur,29,46,1589,Laterite,Low,2.6,28151,14753,Brucellosis,No,Milk,Yes,Semi-Arid,High Milk,Kangayam
+F0102,Andhra Pradesh,Nellore,33,72,488,Red,Low,19.8,47667,6112,FMD,No,Dual,Yes,Humid,Disease Resistant,Kangayam
+F0103,Karnataka,Mandya,38,56,1755,Red,Low,14.4,34457,12780,Brucellosis,Yes,Meat,Yes,Tropical,High Milk,Ongole
+F0104,Karnataka,Mandya,37,52,350,Laterite,High,14.2,15187,7028,FMD,Yes,Meat,Yes,Semi-Arid,Low Cost,Gir
+F0105,Maharashtra,Kolhapur,22,85,1543,Red,High,3.9,36575,14578,None,No,Dual,No,Humid,High Milk,Gir
+F0106,Maharashtra,Kolhapur,28,58,1387,Black,High,8.8,40021,2282,FMD,Yes,Dual,Yes,Tropical,Disease Resistant,Kangayam
+F0107,Tamil Nadu,Coimbatore,37,64,1105,Black,High,9.8,25161,14842,None,Yes,Milk,No,Humid,Sustainable,Kangayam
+F0108,Maharashtra,Nashik,39,65,758,Black,Medium,10.5,45184,14453,Lumpy Skin,Yes,Milk,Yes,Humid,Sustainable,Kangayam
+F0109,Maharashtra,Pune,30,90,425,Red,Low,9.7,33002,8510,Brucellosis,No,Meat,No,Humid,Disease Resistant,Kangayam
+F0110,Andhra Pradesh,Anantapur,27,77,1689,Red,Low,16.8,39790,13786,Mastitis,Yes,Dual,Yes,Dry,Disease Resistant,Kangayam
+F0111,Maharashtra,Kolhapur,35,72,1543,Red,High,18.4,32828,2079,FMD,Yes,Dual,No,Humid,Low Cost,Gir
+F0112,Tamil Nadu,Coimbatore,33,73,1175,Red,High,4.0,38369,2073,None,Yes,Dual,Yes,Humid,High Milk,Gir
+F0113,Karnataka,Mysuru,32,79,476,Laterite,Low,17.8,28417,4283,Brucellosis,No,Milk,Yes,Dry,Sustainable,Kangayam
+F0114,Karnataka,Belagavi,35,55,1509,Alluvial,Medium,9.4,31113,8706,Brucellosis,Yes,Milk,No,Dry,Low Cost,Kangayam
+F0115,Andhra Pradesh,Guntur,22,85,615,Black,Medium,10.1,39538,11079,Lumpy Skin,Yes,Meat,Yes,Humid,Disease Resistant,Kangayam
+F0116,Tamil Nadu,Tiruppur,33,66,1236,Red,Low,11.8,24458,13116,Lumpy Skin,Yes,Meat,Yes,Semi-Arid,High Milk,Kangayam
+F0117,Karnataka,Mandya,27,41,708,Laterite,Low,7.4,28099,9895,Brucellosis,Yes,Dual,No,Dry,High Milk,Gir
+F0118,Andhra Pradesh,Nellore,36,43,303,Black,Low,16.0,43884,6594,Brucellosis,Yes,Milk,Yes,Humid,Low Cost,Ongole
+F0119,Maharashtra,Nashik,24,54,1610,Alluvial,High,17.3,44824,12460,Brucellosis,No,Milk,Yes,Dry,Sustainable,Kangayam
+F0120,Tamil Nadu,Erode,39,90,1539,Red,Medium,3.6,38639,7107,FMD,No,Milk,No,Humid,Low Cost,Gir
+F0121,Tamil Nadu,Coimbatore,37,75,1353,Black,Medium,6.9,33646,6137,None,Yes,Dual,No,Semi-Arid,Sustainable,Kangayam
+F0122,Andhra Pradesh,Anantapur,24,59,962,Red,Medium,13.8,32593,6254,Mastitis,No,Meat,Yes,Tropical,Low Cost,Sahiwal
+F0123,Tamil Nadu,Madurai,40,77,1045,Laterite,Low,5.9,36406,10781,Brucellosis,No,Dual,No,Dry,Low Cost,Ongole
+F0124,Andhra Pradesh,Anantapur,32,81,1539,Laterite,Medium,12.6,11344,6758,Lumpy Skin,No,Milk,No,Dry,Sustainable,Kangayam
+F0125,Andhra Pradesh,Nellore,24,88,1497,Alluvial,Medium,18.0,24235,7063,Mastitis,Yes,Milk,No,Semi-Arid,Low Cost,Kangayam
+F0126,Tamil Nadu,Tiruppur,26,73,1705,Alluvial,Low,12.6,33037,14654,Mastitis,No,Dual,Yes,Humid,High Milk,Gir
+F0127,Karnataka,Mandya,24,56,1780,Alluvial,High,4.2,13098,7402,Lumpy Skin,No,Meat,Yes,Humid,High Milk,Kangayam
+F0128,Andhra Pradesh,Guntur,31,64,1478,Red,High,3.0,21159,3215,Brucellosis,No,Dual,Yes,Tropical,Low Cost,Gir
+F0129,Andhra Pradesh,Nellore,25,63,1000,Black,Low,18.7,35201,4218,None,Yes,Meat,No,Tropical,High Milk,Gir
+F0130,Tamil Nadu,Madurai,35,84,1087,Alluvial,High,6.1,47842,3543,FMD,No,Dual,Yes,Tropical,Low Cost,Gir
+F0131,Andhra Pradesh,Guntur,33,90,798,Red,High,9.0,15856,3197,FMD,Yes,Dual,No,Tropical,Disease Resistant,Kangayam
+F0132,Andhra Pradesh,Guntur,33,77,612,Alluvial,High,7.9,44230,5153,Brucellosis,No,Milk,Yes,Dry,High Milk,Gir
+F0133,Tamil Nadu,Coimbatore,30,63,1467,Alluvial,Low,15.9,25438,10779,FMD,No,Meat,No,Semi-Arid,Low Cost,Gir
+F0134,Maharashtra,Kolhapur,31,69,1521,Alluvial,Low,3.0,41916,2601,Brucellosis,No,Dual,Yes,Tropical,Disease Resistant,Kangayam
+F0135,Andhra Pradesh,Nellore,40,77,660,Laterite,Low,6.1,44021,7707,Mastitis,Yes,Milk,Yes,Humid,Low Cost,Ongole
+F0136,Karnataka,Mysuru,37,44,1780,Alluvial,Low,3.8,19082,9707,Brucellosis,No,Meat,Yes,Humid,High Milk,Ongole
+F0137,Karnataka,Belagavi,37,66,832,Alluvial,Low,12.7,17830,11673,FMD,Yes,Dual,Yes,Humid,Low Cost,Ongole
+F0138,Andhra Pradesh,Anantapur,32,50,1126,Alluvial,Low,17.3,21149,3618,None,No,Dual,Yes,Semi-Arid,High Milk,Gir
+F0139,Tamil Nadu,Coimbatore,30,58,1661,Laterite,Low,9.0,16147,2085,Lumpy Skin,No,Meat,No,Humid,Disease Resistant,Kangayam
+F0140,Andhra Pradesh,Anantapur,28,51,1573,Alluvial,Low,12.6,28807,6728,Brucellosis,No,Meat,Yes,Humid,High Milk,Kangayam
+F0141,Tamil Nadu,Madurai,29,47,445,Red,High,9.2,46785,6240,Lumpy Skin,Yes,Dual,No,Humid,Disease Resistant,Kangayam
+F0142,Andhra Pradesh,Guntur,36,49,900,Red,Medium,7.9,12969,2848,Mastitis,No,Milk,Yes,Semi-Arid,Disease Resistant,Kangayam
+F0143,Andhra Pradesh,Guntur,30,72,967,Laterite,Low,5.8,15058,6078,Mastitis,Yes,Dual,Yes,Dry,Sustainable,Kangayam
+F0144,Karnataka,Mysuru,29,46,1447,Laterite,High,5.5,40487,12684,Mastitis,Yes,Milk,No,Dry,Low Cost,Gir
+F0145,Maharashtra,Nashik,29,88,1379,Laterite,Low,11.1,39015,11182,None,Yes,Milk,Yes,Tropical,High Milk,Gir
+F0146,Maharashtra,Kolhapur,25,66,333,Laterite,High,18.7,49190,9448,Lumpy Skin,No,Milk,No,Semi-Arid,Disease Resistant,Kangayam
+F0147,Karnataka,Belagavi,37,80,576,Laterite,Low,19.1,38382,5030,Brucellosis,No,Dual,No,Dry,Sustainable,Ongole
+F0148,Karnataka,Mandya,29,84,1769,Black,Medium,17.3,41483,9978,Brucellosis,Yes,Meat,No,Humid,High Milk,Gir
+F0149,Karnataka,Belagavi,40,60,1096,Alluvial,High,17.3,30532,3729,None,Yes,Meat,Yes,Tropical,Sustainable,Kangayam
+F0150,Tamil Nadu,Tiruppur,22,53,1019,Alluvial,Medium,8.6,14487,9809,Brucellosis,No,Dual,Yes,Tropical,Low Cost,Sahiwal
+F0151,Tamil Nadu,Salem,23,69,339,Red,Low,19.9,16139,12403,None,No,Dual,No,Humid,Disease Resistant,Kangayam
+F0152,Maharashtra,Kolhapur,35,75,754,Laterite,Low,6.2,21821,4364,Brucellosis,Yes,Dual,No,Semi-Arid,Low Cost,Ongole
+F0153,Karnataka,Belagavi,39,66,1224,Alluvial,High,3.3,15767,8124,Brucellosis,Yes,Dual,No,Semi-Arid,Disease Resistant,Kangayam
+F0154,Tamil Nadu,Salem,40,71,1517,Alluvial,High,16.3,28938,8983,Mastitis,No,Dual,No,Humid,Disease Resistant,Kangayam
+F0155,Karnataka,Mysuru,36,46,1591,Black,Low,8.4,31147,3363,Lumpy Skin,Yes,Meat,Yes,Semi-Arid,Disease Resistant,Kangayam
+F0156,Tamil Nadu,Madurai,25,59,969,Laterite,Low,6.8,43473,6535,Mastitis,Yes,Meat,Yes,Tropical,Sustainable,Kangayam
+F0157,Andhra Pradesh,Nellore,22,61,951,Black,High,6.2,35237,9766,Mastitis,No,Meat,No,Dry,Sustainable,Kangayam
+F0158,Tamil Nadu,Erode,24,56,396,Black,Medium,4.1,33395,9308,Brucellosis,Yes,Meat,No,Semi-Arid,Disease Resistant,Kangayam
+F0159,Maharashtra,Pune,30,50,951,Laterite,Medium,7.4,20200,4136,None,Yes,Meat,No,Humid,Low Cost,Sahiwal
+F0160,Maharashtra,Kolhapur,25,63,765,Black,Low,5.1,27957,10385,Lumpy Skin,No,Dual,No,Dry,Sustainable,Kangayam
+F0161,Andhra Pradesh,Guntur,39,49,343,Red,Low,2.9,27847,7591,Brucellosis,Yes,Milk,Yes,Semi-Arid,High Milk,Ongole
+F0162,Tamil Nadu,Madurai,32,66,829,Alluvial,Low,17.9,47770,7478,Mastitis,No,Dual,Yes,Tropical,High Milk,Gir
+F0163,Tamil Nadu,Salem,36,53,475,Laterite,Low,5.4,35919,6971,Brucellosis,Yes,Dual,Yes,Humid,Disease Resistant,Kangayam
+F0164,Karnataka,Mandya,24,81,376,Alluvial,Low,7.0,19365,12754,None,No,Milk,No,Semi-Arid,High Milk,Kangayam
+F0165,Karnataka,Belagavi,22,41,1241,Red,Medium,12.2,11737,11063,Brucellosis,Yes,Meat,No,Tropical,Disease Resistant,Kangayam
+F0166,Andhra Pradesh,Anantapur,28,57,1545,Black,Medium,14.9,32407,8385,None,Yes,Meat,Yes,Tropical,Low Cost,Sahiwal
+F0167,Karnataka,Mandya,27,56,492,Alluvial,Low,13.8,43456,4387,Mastitis,Yes,Dual,Yes,Humid,Sustainable,Kangayam
+F0168,Tamil Nadu,Madurai,24,84,329,Red,Low,2.4,12534,5526,Mastitis,No,Dual,Yes,Tropical,Disease Resistant,Kangayam
+F0169,Karnataka,Mysuru,39,70,1696,Laterite,High,3.5,26380,14194,Mastitis,No,Dual,No,Humid,Disease Resistant,Kangayam
+F0170,Andhra Pradesh,Nellore,31,54,1345,Alluvial,Low,5.8,37318,9049,Brucellosis,No,Milk,Yes,Humid,Disease Resistant,Kangayam
+F0171,Tamil Nadu,Salem,32,65,1137,Black,High,17.9,18933,9503,None,Yes,Meat,Yes,Dry,Sustainable,Kangayam
+F0172,Maharashtra,Kolhapur,23,56,588,Laterite,Low,1.6,33803,9026,Lumpy Skin,No,Meat,No,Semi-Arid,Sustainable,Kangayam
+F0173,Maharashtra,Pune,24,46,499,Black,High,5.6,24990,8641,Lumpy Skin,Yes,Meat,No,Dry,Sustainable,Kangayam
+F0174,Maharashtra,Nashik,36,87,1769,Laterite,High,14.5,47640,8590,FMD,No,Meat,No,Humid,Disease Resistant,Kangayam
+F0175,Andhra Pradesh,Guntur,25,43,780,Laterite,Low,15.6,33403,10660,Lumpy Skin,Yes,Milk,No,Dry,Disease Resistant,Kangayam
+F0176,Karnataka,Mysuru,40,76,1370,Alluvial,High,1.2,28847,12258,None,Yes,Dual,No,Semi-Arid,Sustainable,Kangayam
+F0177,Tamil Nadu,Erode,26,58,697,Alluvial,Medium,10.7,40639,8520,Lumpy Skin,Yes,Meat,No,Semi-Arid,Low Cost,Sahiwal
+F0178,Maharashtra,Kolhapur,34,90,1662,Red,Medium,1.0,39606,11599,None,No,Milk,Yes,Dry,Sustainable,Kangayam
+F0179,Maharashtra,Nashik,26,81,1694,Laterite,Medium,11.7,49281,2514,None,Yes,Milk,Yes,Tropical,Disease Resistant,Kangayam
+F0180,Tamil Nadu,Erode,31,85,1284,Red,Low,4.0,21491,12875,Mastitis,Yes,Meat,Yes,Tropical,High Milk,Kangayam
+F0181,Tamil Nadu,Madurai,34,84,1469,Red,Medium,5.1,34416,3141,FMD,Yes,Meat,No,Tropical,Sustainable,Kangayam
+F0182,Maharashtra,Nashik,23,83,535,Black,Low,15.1,35284,7180,Brucellosis,No,Dual,Yes,Dry,Low Cost,Kangayam
+F0183,Tamil Nadu,Salem,22,47,797,Red,High,11.1,25093,10956,Lumpy Skin,Yes,Dual,No,Dry,Low Cost,Gir
+F0184,Tamil Nadu,Tiruppur,39,74,674,Laterite,High,2.3,45069,4014,None,No,Dual,Yes,Tropical,High Milk,Gir
+F0185,Tamil Nadu,Madurai,40,59,872,Red,Low,18.3,42708,9785,Lumpy Skin,No,Milk,Yes,Tropical,Low Cost,Ongole
+F0186,Maharashtra,Nashik,31,48,528,Laterite,Low,11.8,45268,7961,Mastitis,Yes,Milk,No,Semi-Arid,Sustainable,Kangayam
+F0187,Andhra Pradesh,Guntur,38,82,1000,Black,High,14.7,30070,2798,Brucellosis,No,Meat,No,Humid,Low Cost,Kangayam
+F0188,Tamil Nadu,Madurai,38,82,404,Red,Medium,4.3,38996,9906,Mastitis,No,Milk,No,Humid,High Milk,Gir
+F0189,Maharashtra,Nashik,27,54,1554,Red,Medium,4.4,34363,6993,Mastitis,Yes,Meat,No,Tropical,Sustainable,Kangayam
+F0190,Karnataka,Mysuru,39,86,1476,Alluvial,Medium,18.4,28687,11305,Mastitis,Yes,Dual,Yes,Dry,Sustainable,Kangayam
+F0191,Tamil Nadu,Coimbatore,37,62,487,Red,High,16.1,10192,13998,Mastitis,Yes,Dual,No,Semi-Arid,High Milk,Gir
+F0192,Karnataka,Belagavi,23,78,1571,Black,Medium,12.9,30162,6471,FMD,No,Dual,No,Dry,Disease Resistant,Kangayam
+F0193,Andhra Pradesh,Nellore,40,88,791,Black,Medium,17.7,30024,3469,FMD,No,Milk,No,Dry,Sustainable,Kangayam
+F0194,Andhra Pradesh,Nellore,24,60,323,Black,Low,11.3,43625,8926,Mastitis,No,Meat,Yes,Tropical,Disease Resistant,Kangayam
+F0195,Karnataka,Mysuru,34,79,526,Alluvial,Medium,8.5,37240,7886,Mastitis,No,Dual,Yes,Humid,Sustainable,Kangayam
+F0196,Tamil Nadu,Erode,29,74,1207,Laterite,Low,1.6,26655,2772,Lumpy Skin,No,Milk,Yes,Tropical,Low Cost,Gir
+F0197,Tamil Nadu,Tiruppur,29,43,635,Alluvial,High,17.5,38437,13674,None,Yes,Meat,No,Semi-Arid,Disease Resistant,Kangayam
+F0198,Karnataka,Mandya,26,90,902,Alluvial,Low,11.7,21968,4435,Mastitis,Yes,Milk,Yes,Semi-Arid,Disease Resistant,Kangayam
+F0199,Karnataka,Mandya,36,75,1340,Alluvial,High,8.9,22837,12154,None,Yes,Meat,No,Humid,Disease Resistant,Kangayam
+F0200,Tamil Nadu,Tiruppur,22,87,1011,Black,Medium,11.2,25556,12618,None,Yes,Dual,No,Humid,Sustainable,Kangayam
+F0201,Tamil Nadu,Tiruppur,26,63,1083,Alluvial,Medium,13.1,28716,12439,None,Yes,Milk,No,Semi-Arid,Low Cost,Sahiwal
+F0202,Karnataka,Mandya,40,88,509,Laterite,Low,5.6,32324,9858,None,Yes,Dual,Yes,Humid,Low Cost,Ongole
+F0203,Tamil Nadu,Madurai,30,80,860,Laterite,Low,8.2,29598,2989,Lumpy Skin,No,Dual,Yes,Dry,Disease Resistant,Kangayam
+F0204,Andhra Pradesh,Anantapur,30,43,600,Laterite,Low,9.3,49527,2975,None,No,Milk,No,Humid,Sustainable,Kangayam
+F0205,Maharashtra,Nashik,36,88,866,Red,High,14.8,47555,10211,None,Yes,Milk,No,Semi-Arid,Low Cost,Sahiwal
+F0206,Maharashtra,Pune,29,64,1369,Laterite,Medium,10.1,33847,11177,Lumpy Skin,No,Meat,Yes,Humid,Low Cost,Kangayam
+F0207,Tamil Nadu,Madurai,22,79,967,Red,Low,17.6,24591,9236,Lumpy Skin,Yes,Dual,No,Tropical,Low Cost,Kangayam
+F0208,Andhra Pradesh,Guntur,35,90,306,Black,High,2.6,25255,10675,None,Yes,Milk,No,Tropical,Sustainable,Kangayam
+F0209,Karnataka,Belagavi,28,47,809,Laterite,High,9.3,36248,3290,None,Yes,Dual,No,Semi-Arid,Disease Resistant,Kangayam
+F0210,Karnataka,Belagavi,39,61,383,Red,High,16.9,30138,8458,Lumpy Skin,Yes,Dual,No,Humid,Low Cost,Sahiwal
+F0211,Karnataka,Mysuru,34,75,826,Alluvial,Medium,6.8,48233,2879,Brucellosis,Yes,Milk,No,Dry,Sustainable,Kangayam
+F0212,Karnataka,Belagavi,27,44,459,Red,Low,3.5,37151,3442,Brucellosis,No,Dual,Yes,Tropical,Disease Resistant,Kangayam
+F0213,Maharashtra,Kolhapur,39,59,1202,Alluvial,Low,17.3,46471,3374,Mastitis,Yes,Milk,Yes,Humid,High Milk,Ongole
+F0214,Karnataka,Mandya,26,57,359,Black,Low,18.5,28929,5909,Mastitis,Yes,Milk,Yes,Humid,Low Cost,Sahiwal
+F0215,Karnataka,Mysuru,30,74,945,Laterite,High,7.0,12107,12584,None,Yes,Milk,No,Dry,High Milk,Kangayam
+F0216,Maharashtra,Pune,37,70,1785,Black,Low,14.2,35441,5961,FMD,Yes,Milk,Yes,Tropical,Low Cost,Ongole
+F0217,Andhra Pradesh,Nellore,39,45,520,Laterite,Medium,14.4,34152,7060,Mastitis,Yes,Milk,No,Semi-Arid,High Milk,Sahiwal
+F0218,Andhra Pradesh,Nellore,37,48,961,Laterite,Medium,14.3,45960,10097,Lumpy Skin,No,Milk,Yes,Tropical,Disease Resistant,Kangayam
+F0219,Tamil Nadu,Tiruppur,27,88,881,Alluvial,High,4.0,11639,6878,Brucellosis,No,Milk,No,Tropical,High Milk,Kangayam
+F0220,Andhra Pradesh,Anantapur,35,40,1738,Laterite,Medium,19.7,48912,14745,Mastitis,No,Milk,Yes,Dry,Low Cost,Sahiwal
+F0221,Andhra Pradesh,Anantapur,29,70,1212,Red,High,9.4,24923,7002,Brucellosis,Yes,Milk,No,Humid,Low Cost,Gir
+F0222,Karnataka,Belagavi,30,59,893,Red,High,15.4,22482,6313,FMD,Yes,Milk,No,Humid,High Milk,Kangayam
+F0223,Andhra Pradesh,Anantapur,33,80,1647,Alluvial,Low,5.4,23818,9574,Lumpy Skin,Yes,Milk,Yes,Humid,High Milk,Sahiwal
+F0224,Andhra Pradesh,Nellore,36,68,1591,Black,Low,5.3,31309,11517,FMD,Yes,Meat,No,Dry,Sustainable,Ongole
+F0225,Andhra Pradesh,Nellore,28,62,1219,Laterite,High,10.2,21391,9522,Brucellosis,No,Dual,No,Semi-Arid,Sustainable,Kangayam
+F0226,Karnataka,Mandya,23,44,1309,Black,High,16.1,15080,5327,None,No,Milk,No,Humid,High Milk,Kangayam
+F0227,Maharashtra,Kolhapur,35,78,520,Laterite,High,1.1,23804,6644,FMD,Yes,Meat,Yes,Humid,Sustainable,Kangayam
+F0228,Karnataka,Belagavi,30,84,1029,Laterite,High,7.9,47188,2668,None,No,Meat,No,Humid,Disease Resistant,Kangayam
+F0229,Tamil Nadu,Coimbatore,32,65,1219,Alluvial,High,8.8,13857,12529,FMD,No,Dual,No,Tropical,Disease Resistant,Kangayam
+F0230,Andhra Pradesh,Nellore,35,48,1145,Alluvial,High,7.9,29175,10457,None,No,Dual,No,Tropical,Sustainable,Kangayam
+F0231,Tamil Nadu,Coimbatore,38,84,739,Alluvial,Medium,5.3,15877,3652,Mastitis,No,Milk,No,Humid,Disease Resistant,Kangayam
+F0232,Karnataka,Mysuru,38,66,1275,Laterite,Low,3.6,37037,13027,None,Yes,Dual,No,Tropical,High Milk,Ongole
+F0233,Maharashtra,Nashik,35,70,1336,Black,Medium,7.4,20068,8367,Brucellosis,Yes,Meat,Yes,Tropical,Low Cost,Gir
+F0234,Tamil Nadu,Tiruppur,35,76,326,Black,Low,2.5,47550,12640,None,Yes,Milk,Yes,Humid,Low Cost,Ongole
+F0235,Karnataka,Mysuru,39,47,1287,Laterite,High,16.4,30835,13775,Lumpy Skin,Yes,Dual,Yes,Semi-Arid,Low Cost,Kangayam
+F0236,Karnataka,Mandya,40,78,1513,Red,Low,19.4,49999,14170,None,Yes,Milk,No,Humid,High Milk,Ongole
+F0237,Maharashtra,Kolhapur,23,52,1731,Laterite,Low,2.8,31297,3910,Brucellosis,No,Meat,No,Humid,Disease Resistant,Kangayam
+F0238,Andhra Pradesh,Anantapur,24,85,1589,Red,Medium,3.9,29495,4006,Lumpy Skin,Yes,Milk,No,Semi-Arid,Sustainable,Kangayam
+F0239,Tamil Nadu,Coimbatore,24,61,902,Black,High,12.9,30283,5890,Brucellosis,Yes,Dual,Yes,Semi-Arid,Sustainable,Kangayam
+F0240,Karnataka,Belagavi,26,73,803,Laterite,Medium,6.3,26469,2873,Mastitis,Yes,Meat,No,Humid,High Milk,Gir
+F0241,Andhra Pradesh,Nellore,23,77,408,Laterite,High,4.5,18554,3324,Mastitis,No,Dual,No,Semi-Arid,Low Cost,Kangayam
+F0242,Karnataka,Mysuru,25,76,900,Black,Low,14.8,13035,8330,Mastitis,Yes,Milk,No,Semi-Arid,High Milk,Gir
+F0243,Karnataka,Mysuru,30,78,1716,Red,Low,11.7,46862,12777,None,No,Milk,Yes,Tropical,Disease Resistant,Kangayam
+F0244,Karnataka,Belagavi,35,68,1677,Black,High,14.9,32505,13827,Brucellosis,No,Dual,Yes,Semi-Arid,High Milk,Sahiwal
+F0245,Andhra Pradesh,Nellore,38,60,1681,Alluvial,High,19.0,32351,7016,Brucellosis,No,Meat,Yes,Semi-Arid,Disease Resistant,Kangayam
+F0246,Tamil Nadu,Salem,28,90,1361,Black,Medium,15.3,45755,2459,None,Yes,Dual,No,Dry,Disease Resistant,Kangayam
+F0247,Andhra Pradesh,Anantapur,23,86,921,Alluvial,High,4.7,32011,4531,None,Yes,Dual,No,Humid,High Milk,Gir
+F0248,Andhra Pradesh,Guntur,34,65,406,Laterite,High,17.8,31544,9391,Lumpy Skin,Yes,Meat,No,Semi-Arid,Sustainable,Kangayam
+F0249,Andhra Pradesh,Nellore,33,71,1317,Alluvial,Low,7.9,20304,3556,Mastitis,No,Milk,Yes,Semi-Arid,High Milk,Gir
+F0250,Maharashtra,Nashik,27,48,529,Laterite,Medium,13.8,47554,3011,None,No,Meat,Yes,Dry,Disease Resistant,Kangayam
+F0251,Tamil Nadu,Madurai,37,62,1348,Laterite,Medium,19.5,33089,11819,None,No,Milk,Yes,Tropical,High Milk,Kangayam
+F0252,Tamil Nadu,Tiruppur,25,75,1665,Red,Medium,18.4,44480,12817,Brucellosis,Yes,Dual,No,Tropical,Low Cost,Sahiwal
+F0253,Tamil Nadu,Tiruppur,38,73,1260,Laterite,Low,16.7,12304,14117,Brucellosis,Yes,Meat,Yes,Dry,High Milk,Ongole
+F0254,Karnataka,Mandya,26,45,744,Laterite,Medium,18.3,21702,2958,None,Yes,Dual,No,Humid,Low Cost,Gir
+F0255,Andhra Pradesh,Anantapur,23,63,1202,Black,Medium,2.9,49678,7730,Lumpy Skin,Yes,Meat,Yes,Dry,High Milk,Gir
+F0256,Andhra Pradesh,Anantapur,27,49,1369,Black,Medium,1.2,43571,7819,Brucellosis,Yes,Dual,Yes,Humid,Sustainable,Kangayam
+F0257,Andhra Pradesh,Nellore,31,85,781,Red,Medium,18.7,29346,9419,FMD,Yes,Meat,No,Semi-Arid,High Milk,Kangayam
+F0258,Andhra Pradesh,Guntur,22,87,1324,Laterite,High,18.1,18397,7608,Lumpy Skin,No,Dual,No,Dry,Sustainable,Kangayam
+F0259,Andhra Pradesh,Anantapur,33,52,358,Black,Low,9.5,18784,4077,Brucellosis,Yes,Dual,No,Humid,Low Cost,Sahiwal
+F0260,Karnataka,Belagavi,23,62,1758,Black,Medium,3.1,11528,3043,None,No,Meat,Yes,Semi-Arid,Sustainable,Kangayam
+F0261,Tamil Nadu,Coimbatore,23,48,354,Black,Low,18.8,21412,10187,None,Yes,Dual,No,Humid,Sustainable,Kangayam
+F0262,Karnataka,Mandya,25,55,1286,Red,Medium,3.0,20406,13363,Brucellosis,Yes,Dual,No,Tropical,Low Cost,Kangayam
+F0263,Andhra Pradesh,Guntur,26,63,1258,Red,Low,2.6,49325,5879,None,Yes,Meat,No,Semi-Arid,Low Cost,Kangayam
+F0264,Tamil Nadu,Coimbatore,34,65,1393,Laterite,High,12.1,46418,6667,Brucellosis,No,Milk,No,Semi-Arid,Disease Resistant,Kangayam
+F0265,Karnataka,Mandya,24,82,1656,Black,Medium,18.0,22616,9795,Mastitis,Yes,Dual,No,Semi-Arid,Low Cost,Kangayam
+F0266,Andhra Pradesh,Anantapur,25,73,352,Laterite,Medium,11.5,45904,9988,Mastitis,No,Milk,Yes,Humid,Low Cost,Kangayam
+F0267,Karnataka,Mandya,39,50,1523,Laterite,Medium,6.7,30272,8483,Lumpy Skin,No,Milk,Yes,Humid,Low Cost,Gir
+F0268,Tamil Nadu,Tiruppur,37,54,1322,Black,Medium,2.4,18817,8870,Mastitis,Yes,Dual,Yes,Dry,Disease Resistant,Kangayam
+F0269,Tamil Nadu,Tiruppur,28,48,913,Red,Medium,17.4,31017,7460,FMD,No,Dual,No,Dry,Disease Resistant,Kangayam
+F0270,Maharashtra,Kolhapur,40,65,581,Laterite,Low,16.3,37593,3189,Brucellosis,No,Dual,No,Dry,Disease Resistant,Kangayam
+F0271,Maharashtra,Pune,30,47,1575,Red,Medium,7.2,19814,12206,Mastitis,Yes,Milk,Yes,Semi-Arid,Disease Resistant,Kangayam
+F0272,Tamil Nadu,Madurai,26,70,921,Red,Low,19.4,26488,6024,Lumpy Skin,No,Dual,Yes,Dry,High Milk,Sahiwal
+F0273,Andhra Pradesh,Guntur,35,65,1425,Black,High,10.3,29232,3000,None,Yes,Dual,Yes,Dry,Low Cost,Kangayam
+F0274,Tamil Nadu,Coimbatore,39,58,1437,Red,Low,9.9,49857,4287,None,No,Milk,No,Dry,Disease Resistant,Kangayam
+F0275,Maharashtra,Pune,31,74,943,Laterite,Medium,17.9,44741,7854,None,No,Dual,Yes,Tropical,Low Cost,Sahiwal
+F0276,Andhra Pradesh,Nellore,28,58,624,Alluvial,Low,2.9,39788,4585,Lumpy Skin,Yes,Meat,No,Semi-Arid,Disease Resistant,Kangayam
+F0277,Maharashtra,Kolhapur,28,56,1546,Alluvial,High,8.9,24568,7204,FMD,Yes,Milk,No,Dry,Low Cost,Sahiwal
+F0278,Andhra Pradesh,Guntur,23,67,1334,Black,Low,12.3,42275,7426,Mastitis,Yes,Milk,Yes,Dry,Sustainable,Kangayam
+F0279,Andhra Pradesh,Anantapur,23,65,935,Red,Medium,1.3,43990,9681,Brucellosis,Yes,Meat,No,Dry,Sustainable,Kangayam
+F0280,Andhra Pradesh,Nellore,37,50,1636,Red,Medium,9.5,34844,4157,Brucellosis,Yes,Meat,No,Humid,High Milk,Gir
+F0281,Karnataka,Mysuru,36,74,361,Black,Low,4.1,30042,3497,None,Yes,Dual,Yes,Semi-Arid,Disease Resistant,Kangayam
+F0282,Karnataka,Mandya,28,53,1367,Black,High,5.7,22613,8607,Brucellosis,No,Dual,Yes,Tropical,Low Cost,Kangayam
+F0283,Tamil Nadu,Madurai,29,56,1751,Red,High,1.2,37689,7114,Brucellosis,Yes,Meat,No,Humid,High Milk,Gir
+F0284,Maharashtra,Nashik,34,70,365,Black,Medium,18.3,20319,4518,Mastitis,No,Milk,Yes,Semi-Arid,High Milk,Gir
+F0285,Maharashtra,Pune,29,58,904,Laterite,Low,3.7,41943,9947,Lumpy Skin,No,Milk,No,Dry,Disease Resistant,Kangayam
+F0286,Maharashtra,Pune,32,61,856,Laterite,Medium,16.9,29171,12338,Lumpy Skin,No,Milk,No,Semi-Arid,High Milk,Gir
+F0287,Tamil Nadu,Tiruppur,33,42,327,Red,High,18.9,12606,10668,Mastitis,No,Meat,No,Humid,High Milk,Sahiwal
+F0288,Andhra Pradesh,Anantapur,34,86,1726,Alluvial,Low,16.8,11776,3670,Brucellosis,Yes,Meat,No,Dry,Sustainable,Kangayam
+F0289,Andhra Pradesh,Anantapur,23,87,578,Black,Low,10.8,11475,5457,Brucellosis,Yes,Milk,Yes,Semi-Arid,Sustainable,Kangayam
+F0290,Tamil Nadu,Coimbatore,32,50,457,Red,High,17.5,36241,7059,None,No,Dual,Yes,Tropical,Sustainable,Kangayam
+F0291,Tamil Nadu,Tiruppur,25,70,736,Alluvial,High,6.3,15893,8920,Mastitis,No,Meat,Yes,Humid,Low Cost,Gir
+F0292,Maharashtra,Pune,28,50,427,Laterite,High,6.0,30545,5561,FMD,No,Dual,Yes,Tropical,Low Cost,Kangayam
+F0293,Andhra Pradesh,Nellore,39,72,685,Red,Medium,11.9,35675,10207,FMD,Yes,Meat,Yes,Semi-Arid,Low Cost,Gir
+F0294,Karnataka,Mandya,39,54,944,Black,High,19.6,39321,11286,Lumpy Skin,No,Milk,Yes,Tropical,Sustainable,Kangayam
+F0295,Andhra Pradesh,Anantapur,38,61,1468,Black,High,7.9,39780,13140,Lumpy Skin,No,Meat,Yes,Dry,Low Cost,Sahiwal
+F0296,Tamil Nadu,Coimbatore,23,41,684,Laterite,Low,9.7,46035,5313,FMD,Yes,Milk,No,Dry,Low Cost,Sahiwal
+F0297,Maharashtra,Kolhapur,24,62,710,Black,Medium,9.7,31644,4304,Brucellosis,No,Meat,No,Humid,Disease Resistant,Kangayam
+F0298,Maharashtra,Kolhapur,40,60,1330,Alluvial,Medium,10.1,19701,8536,Lumpy Skin,Yes,Milk,No,Dry,Low Cost,Sahiwal
+F0299,Maharashtra,Kolhapur,34,86,1408,Red,High,2.3,18769,13832,Brucellosis,No,Meat,Yes,Semi-Arid,Low Cost,Gir
+F0300,Tamil Nadu,Madurai,38,90,1289,Laterite,Low,17.9,33038,9792,FMD,Yes,Meat,No,Humid,Sustainable,Ongole
+F0301,Karnataka,Mandya,40,71,362,Black,Low,12.6,29625,10416,Brucellosis,Yes,Milk,No,Dry,Sustainable,Ongole
+F0302,Andhra Pradesh,Guntur,29,76,901,Laterite,Low,14.0,27381,11537,Lumpy Skin,No,Dual,No,Tropical,Low Cost,Kangayam
+F0303,Karnataka,Belagavi,32,67,1048,Red,High,13.9,33173,3728,Lumpy Skin,No,Dual,No,Semi-Arid,Disease Resistant,Kangayam
+F0304,Karnataka,Belagavi,33,71,1337,Alluvial,High,13.0,13948,13254,Mastitis,No,Milk,No,Tropical,Sustainable,Kangayam
+F0305,Andhra Pradesh,Anantapur,27,47,1077,Red,Medium,19.3,32407,2506,Mastitis,Yes,Dual,Yes,Dry,Low Cost,Sahiwal
+F0306,Maharashtra,Pune,32,50,803,Laterite,High,5.8,25157,5101,Brucellosis,No,Dual,No,Humid,Sustainable,Kangayam
+F0307,Karnataka,Belagavi,35,58,536,Laterite,Low,1.7,46443,8564,Mastitis,Yes,Dual,No,Tropical,Low Cost,Ongole
+F0308,Maharashtra,Kolhapur,32,55,736,Laterite,Low,16.7,11308,4515,Brucellosis,Yes,Dual,No,Semi-Arid,Sustainable,Kangayam
+F0309,Tamil Nadu,Tiruppur,31,43,1303,Laterite,High,12.7,35497,4292,Mastitis,Yes,Meat,No,Tropical,Low Cost,Kangayam
+F0310,Andhra Pradesh,Guntur,28,69,305,Black,Medium,6.6,42787,4549,Lumpy Skin,Yes,Meat,No,Humid,Low Cost,Kangayam
+F0311,Karnataka,Mandya,34,58,1230,Red,Low,18.9,36036,12255,Brucellosis,No,Dual,No,Semi-Arid,Disease Resistant,Kangayam
+F0312,Karnataka,Mysuru,30,70,1565,Laterite,Medium,7.5,14435,6047,None,Yes,Meat,No,Dry,Low Cost,Kangayam
+F0313,Karnataka,Mandya,36,86,1400,Alluvial,Low,16.5,47739,11727,None,Yes,Milk,Yes,Semi-Arid,Disease Resistant,Kangayam
+F0314,Andhra Pradesh,Guntur,35,63,435,Black,High,17.2,41334,13408,Brucellosis,No,Meat,No,Dry,Disease Resistant,Kangayam
+F0315,Maharashtra,Kolhapur,34,59,1476,Black,Medium,17.2,48444,5057,FMD,No,Dual,No,Humid,Disease Resistant,Kangayam
+F0316,Tamil Nadu,Tiruppur,34,43,1053,Laterite,High,10.8,14386,7939,Brucellosis,No,Milk,No,Dry,Disease Resistant,Kangayam
+F0317,Karnataka,Belagavi,40,59,1797,Black,Medium,1.5,15626,10108,Lumpy Skin,Yes,Milk,No,Humid,Sustainable,Kangayam
+F0318,Andhra Pradesh,Nellore,25,58,715,Laterite,Low,2.6,38512,6736,FMD,No,Dual,No,Semi-Arid,Low Cost,Sahiwal
+F0319,Andhra Pradesh,Anantapur,34,73,1095,Alluvial,High,16.0,30877,8846,Lumpy Skin,Yes,Dual,No,Tropical,Low Cost,Gir
+F0320,Tamil Nadu,Madurai,32,61,784,Red,Medium,15.0,33555,11844,Brucellosis,No,Dual,No,Tropical,High Milk,Kangayam
+F0321,Maharashtra,Pune,37,83,931,Alluvial,Low,8.4,45969,8650,Lumpy Skin,No,Meat,Yes,Tropical,High Milk,Ongole
+F0322,Maharashtra,Nashik,40,57,1290,Laterite,Medium,12.8,12638,7309,Mastitis,Yes,Dual,No,Dry,Disease Resistant,Kangayam
+F0323,Tamil Nadu,Coimbatore,40,58,687,Alluvial,High,15.1,32986,3659,Mastitis,Yes,Dual,No,Tropical,Disease Resistant,Kangayam
+F0324,Tamil Nadu,Coimbatore,25,86,1310,Red,Low,12.6,46193,8852,Mastitis,No,Dual,Yes,Dry,Sustainable,Kangayam
+F0325,Maharashtra,Pune,37,82,500,Red,High,14.5,38839,12674,Brucellosis,No,Milk,No,Dry,High Milk,Gir
+F0326,Tamil Nadu,Tiruppur,26,64,1432,Laterite,Low,14.5,15855,11716,FMD,No,Dual,No,Semi-Arid,Low Cost,Sahiwal
+F0327,Karnataka,Mysuru,23,69,1657,Alluvial,Medium,17.6,35343,8480,FMD,Yes,Milk,Yes,Dry,High Milk,Gir
+F0328,Maharashtra,Kolhapur,40,74,1243,Red,Medium,14.3,39680,11732,Brucellosis,No,Dual,Yes,Dry,Sustainable,Kangayam
+F0329,Andhra Pradesh,Nellore,29,78,1475,Red,High,8.9,20303,7845,FMD,Yes,Dual,Yes,Dry,Sustainable,Kangayam
+F0330,Maharashtra,Nashik,40,90,1670,Black,High,12.8,14377,11330,FMD,Yes,Meat,No,Dry,Disease Resistant,Kangayam
+F0331,Tamil Nadu,Tiruppur,36,60,391,Alluvial,Low,4.3,39686,6772,FMD,Yes,Meat,No,Humid,Low Cost,Ongole
+F0332,Tamil Nadu,Coimbatore,31,86,1556,Laterite,Low,15.8,37354,4555,Mastitis,No,Dual,No,Semi-Arid,Disease Resistant,Kangayam
+F0333,Andhra Pradesh,Guntur,37,50,1257,Black,Low,20.0,38098,4769,Brucellosis,No,Milk,Yes,Semi-Arid,High Milk,Ongole
+F0334,Maharashtra,Kolhapur,25,59,1325,Laterite,High,8.4,42123,4861,Brucellosis,Yes,Meat,Yes,Semi-Arid,Disease Resistant,Kangayam
+F0335,Andhra Pradesh,Guntur,38,81,1175,Alluvial,High,2.5,14555,11831,FMD,No,Dual,Yes,Humid,Sustainable,Kangayam
+F0336,Andhra Pradesh,Nellore,29,56,1620,Laterite,Medium,19.3,39302,8966,None,Yes,Milk,No,Semi-Arid,High Milk,Gir
+F0337,Maharashtra,Pune,28,55,1246,Laterite,Medium,16.3,30264,14783,Brucellosis,Yes,Milk,No,Humid,Low Cost,Gir
+F0338,Karnataka,Mandya,33,51,1258,Red,High,17.5,15924,8929,None,Yes,Dual,Yes,Humid,Disease Resistant,Kangayam
+F0339,Tamil Nadu,Erode,27,83,1789,Laterite,High,16.1,38168,7717,None,No,Milk,Yes,Tropical,Sustainable,Kangayam
+F0340,Andhra Pradesh,Nellore,29,46,949,Alluvial,Low,16.7,25223,2862,None,Yes,Milk,Yes,Tropical,Disease Resistant,Kangayam
+F0341,Karnataka,Mandya,22,72,1650,Laterite,Low,5.1,41855,9210,Mastitis,Yes,Milk,Yes,Semi-Arid,Disease Resistant,Kangayam
+F0342,Andhra Pradesh,Guntur,29,68,970,Alluvial,Medium,12.9,38459,10849,Lumpy Skin,No,Meat,No,Semi-Arid,Disease Resistant,Kangayam
+F0343,Tamil Nadu,Coimbatore,30,71,1576,Red,High,14.8,34382,12547,Brucellosis,No,Meat,Yes,Tropical,High Milk,Gir
+F0344,Maharashtra,Kolhapur,23,48,1273,Red,Low,2.3,23079,2350,Mastitis,No,Milk,No,Humid,High Milk,Gir
+F0345,Tamil Nadu,Coimbatore,23,89,1528,Laterite,Low,12.6,25307,8632,Lumpy Skin,No,Dual,Yes,Tropical,High Milk,Kangayam
+F0346,Tamil Nadu,Tiruppur,32,42,1078,Red,Low,18.6,19195,5143,Brucellosis,Yes,Milk,No,Semi-Arid,Disease Resistant,Kangayam
+F0347,Maharashtra,Pune,23,53,1356,Red,Medium,5.4,46403,5756,Mastitis,Yes,Milk,Yes,Dry,High Milk,Gir
+F0348,Andhra Pradesh,Anantapur,25,60,1765,Black,High,12.3,16161,3906,Lumpy Skin,Yes,Meat,Yes,Semi-Arid,Disease Resistant,Kangayam
+F0349,Karnataka,Mandya,30,58,610,Red,Medium,2.5,48839,3070,None,Yes,Dual,No,Dry,Sustainable,Kangayam
+F0350,Maharashtra,Pune,28,90,1389,Red,High,7.5,34297,4494,FMD,No,Dual,Yes,Tropical,Disease Resistant,Kangayam
+F0351,Andhra Pradesh,Nellore,35,62,1498,Alluvial,Low,9.6,14343,9036,Brucellosis,No,Meat,Yes,Semi-Arid,Sustainable,Ongole
+F0352,Tamil Nadu,Madurai,33,89,1254,Alluvial,Medium,3.2,38787,6866,Lumpy Skin,No,Meat,No,Semi-Arid,Low Cost,Gir
+F0353,Andhra Pradesh,Anantapur,35,73,1769,Laterite,Medium,18.1,47446,6593,Lumpy Skin,No,Dual,No,Semi-Arid,Sustainable,Kangayam
+F0354,Maharashtra,Nashik,34,83,337,Laterite,High,12.5,24749,10364,FMD,No,Milk,No,Semi-Arid,Disease Resistant,Kangayam
+F0355,Karnataka,Mysuru,26,55,1519,Alluvial,High,6.1,38337,4169,Brucellosis,No,Dual,Yes,Semi-Arid,Sustainable,Kangayam
+F0356,Andhra Pradesh,Guntur,39,65,477,Laterite,High,8.7,13260,14939,Mastitis,Yes,Dual,No,Semi-Arid,Sustainable,Kangayam
+F0357,Karnataka,Mandya,33,68,1474,Black,Low,9.9,16493,9248,Brucellosis,Yes,Milk,No,Dry,Low Cost,Sahiwal
+F0358,Maharashtra,Nashik,26,45,1139,Black,High,15.7,23147,3077,None,No,Milk,No,Dry,Disease Resistant,Kangayam
+F0359,Andhra Pradesh,Guntur,30,70,1387,Black,Medium,10.8,15435,3027,Lumpy Skin,No,Milk,Yes,Tropical,Low Cost,Gir
+F0360,Maharashtra,Kolhapur,33,73,1191,Laterite,Medium,17.3,25229,6537,None,No,Meat,Yes,Semi-Arid,Sustainable,Kangayam
+F0361,Maharashtra,Nashik,36,76,1515,Alluvial,Medium,5.6,20798,11847,FMD,Yes,Dual,Yes,Dry,Disease Resistant,Kangayam
+F0362,Andhra Pradesh,Nellore,22,43,1498,Laterite,Low,1.5,48459,11222,Mastitis,No,Meat,No,Humid,High Milk,Gir
+F0363,Andhra Pradesh,Anantapur,25,59,1185,Laterite,High,14.2,26766,3270,Brucellosis,Yes,Milk,No,Humid,Disease Resistant,Kangayam
+F0364,Karnataka,Mandya,40,59,599,Alluvial,High,14.2,49020,14878,Brucellosis,Yes,Milk,No,Dry,Low Cost,Kangayam
+F0365,Karnataka,Mandya,24,60,393,Alluvial,Medium,6.0,39307,2330,Lumpy Skin,Yes,Milk,Yes,Tropical,Low Cost,Gir
+F0366,Tamil Nadu,Madurai,32,41,841,Red,Medium,12.9,11196,11144,None,No,Dual,Yes,Semi-Arid,Low Cost,Sahiwal
+F0367,Karnataka,Mandya,27,80,1540,Red,Low,6.5,32602,4538,Brucellosis,No,Milk,No,Humid,Sustainable,Kangayam
+F0368,Andhra Pradesh,Anantapur,33,41,981,Red,Medium,16.0,19360,6686,FMD,Yes,Dual,No,Dry,Disease Resistant,Kangayam
+F0369,Karnataka,Belagavi,26,90,1106,Laterite,Low,8.7,37745,11816,Brucellosis,No,Dual,Yes,Dry,Sustainable,Kangayam
+F0370,Andhra Pradesh,Guntur,39,76,362,Black,Medium,18.1,15885,11041,Lumpy Skin,Yes,Milk,No,Semi-Arid,High Milk,Kangayam
+F0371,Tamil Nadu,Salem,27,75,849,Red,Medium,5.1,30294,6773,Lumpy Skin,No,Dual,Yes,Tropical,Low Cost,Sahiwal
+F0372,Karnataka,Belagavi,22,45,528,Black,High,4.1,27662,11735,Mastitis,Yes,Meat,No,Humid,Low Cost,Gir
+F0373,Maharashtra,Pune,30,73,1233,Alluvial,High,6.8,42845,9057,Lumpy Skin,No,Dual,Yes,Tropical,Disease Resistant,Kangayam
+F0374,Tamil Nadu,Coimbatore,28,75,446,Black,High,18.4,33133,10813,None,Yes,Meat,No,Dry,Disease Resistant,Kangayam
+F0375,Karnataka,Belagavi,30,62,528,Red,Medium,11.9,31936,5493,None,No,Meat,Yes,Dry,Low Cost,Gir
+F0376,Andhra Pradesh,Nellore,25,48,859,Red,Medium,13.4,38704,14288,Lumpy Skin,Yes,Milk,No,Semi-Arid,Disease Resistant,Kangayam
+F0377,Tamil Nadu,Coimbatore,38,40,578,Alluvial,Low,5.9,30337,4307,Brucellosis,Yes,Meat,No,Tropical,Sustainable,Ongole
+F0378,Maharashtra,Kolhapur,25,74,571,Black,Low,8.9,30891,6614,Lumpy Skin,No,Dual,Yes,Semi-Arid,High Milk,Kangayam
+F0379,Tamil Nadu,Erode,38,61,590,Red,Medium,14.5,33630,3972,Lumpy Skin,Yes,Milk,Yes,Dry,High Milk,Kangayam
+F0380,Maharashtra,Kolhapur,25,52,796,Alluvial,Low,19.3,23839,9479,Mastitis,Yes,Dual,Yes,Semi-Arid,Sustainable,Kangayam
+F0381,Maharashtra,Kolhapur,32,86,1266,Red,Low,3.3,20031,9297,Mastitis,Yes,Dual,No,Dry,Disease Resistant,Kangayam
+F0382,Andhra Pradesh,Nellore,32,57,1276,Red,Medium,13.3,18624,12557,FMD,Yes,Milk,Yes,Tropical,Low Cost,Gir
+F0383,Karnataka,Mandya,22,64,903,Red,High,15.6,48047,10419,Mastitis,Yes,Meat,No,Tropical,Low Cost,Kangayam
+F0384,Maharashtra,Pune,25,56,1341,Black,Low,2.3,19316,6215,Mastitis,No,Dual,Yes,Tropical,Low Cost,Gir
+F0385,Andhra Pradesh,Anantapur,25,41,1183,Black,High,18.2,26919,7308,Brucellosis,No,Milk,Yes,Semi-Arid,Low Cost,Kangayam
+F0386,Andhra Pradesh,Guntur,26,83,1767,Alluvial,Low,2.8,43170,13315,Brucellosis,No,Milk,No,Humid,High Milk,Gir
+F0387,Tamil Nadu,Tiruppur,25,45,1752,Alluvial,High,18.3,34513,10918,FMD,Yes,Dual,Yes,Semi-Arid,High Milk,Gir
+F0388,Karnataka,Mandya,36,86,1007,Alluvial,High,17.1,47200,8673,FMD,Yes,Dual,No,Semi-Arid,Sustainable,Kangayam
+F0389,Karnataka,Mysuru,33,52,639,Alluvial,Low,18.1,29849,6960,Mastitis,Yes,Milk,Yes,Tropical,High Milk,Sahiwal
+F0390,Tamil Nadu,Madurai,36,57,342,Laterite,Medium,14.2,41743,10251,FMD,No,Dual,Yes,Humid,Disease Resistant,Kangayam
+F0391,Karnataka,Belagavi,35,77,1316,Red,Medium,14.4,38288,5321,Brucellosis,No,Meat,No,Dry,Disease Resistant,Kangayam
+F0392,Karnataka,Belagavi,26,64,685,Black,Low,12.7,33208,6398,None,Yes,Dual,No,Semi-Arid,High Milk,Kangayam
+F0393,Karnataka,Mysuru,37,61,363,Laterite,Low,9.8,13908,2120,None,No,Milk,Yes,Humid,Disease Resistant,Kangayam
+F0394,Andhra Pradesh,Anantapur,30,87,628,Red,Low,9.6,29923,9744,Lumpy Skin,No,Dual,No,Semi-Arid,High Milk,Sahiwal
+F0395,Tamil Nadu,Madurai,23,85,1778,Red,High,17.2,33625,7976,Mastitis,Yes,Milk,No,Tropical,Disease Resistant,Kangayam
+F0396,Maharashtra,Nashik,34,44,1246,Laterite,Medium,17.4,42868,13032,FMD,No,Milk,Yes,Dry,Disease Resistant,Kangayam
+F0397,Andhra Pradesh,Nellore,34,41,569,Alluvial,Low,1.1,48392,4835,Lumpy Skin,No,Milk,No,Tropical,Disease Resistant,Kangayam
+F0398,Maharashtra,Pune,39,64,1309,Black,Low,8.6,28622,5979,Mastitis,Yes,Meat,Yes,Dry,High Milk,Ongole
+F0399,Andhra Pradesh,Nellore,25,88,1413,Red,Medium,18.2,49166,10230,FMD,Yes,Milk,No,Dry,Disease Resistant,Kangayam
+F0400,Maharashtra,Pune,33,73,385,Laterite,High,4.7,48015,11970,Brucellosis,No,Milk,No,Tropical,High Milk,Gir
+F0401,Tamil Nadu,Madurai,35,49,785,Black,Low,17.7,12874,12587,Mastitis,Yes,Milk,Yes,Humid,Disease Resistant,Kangayam
+F0402,Karnataka,Belagavi,29,87,1323,Alluvial,Low,16.1,39672,6403,FMD,No,Dual,No,Humid,Sustainable,Kangayam
+F0403,Maharashtra,Kolhapur,38,45,1592,Red,Low,18.1,20888,7761,Brucellosis,No,Meat,Yes,Dry,Low Cost,Ongole
+F0404,Andhra Pradesh,Anantapur,38,70,1234,Laterite,Low,18.7,47989,2678,Mastitis,No,Meat,Yes,Tropical,Disease Resistant,Kangayam
+F0405,Tamil Nadu,Erode,40,70,1044,Red,High,16.7,15192,12239,Brucellosis,Yes,Milk,No,Tropical,Sustainable,Kangayam
+F0406,Tamil Nadu,Coimbatore,40,70,625,Laterite,Low,14.6,31625,6494,Lumpy Skin,Yes,Milk,Yes,Humid,Disease Resistant,Kangayam
+F0407,Maharashtra,Nashik,23,49,1263,Black,High,5.7,21168,12831,Lumpy Skin,No,Meat,Yes,Humid,Low Cost,Sahiwal
+F0408,Andhra Pradesh,Guntur,40,67,1121,Red,High,8.8,15977,6955,Brucellosis,No,Milk,Yes,Humid,Sustainable,Kangayam
+F0409,Tamil Nadu,Coimbatore,39,78,398,Black,Low,17.7,48475,6229,Mastitis,No,Meat,Yes,Dry,High Milk,Ongole
+F0410,Maharashtra,Kolhapur,36,66,1387,Alluvial,Low,13.7,49797,10114,Brucellosis,No,Dual,No,Semi-Arid,Low Cost,Ongole
+F0411,Maharashtra,Nashik,37,51,1690,Red,Low,18.6,29080,10382,Lumpy Skin,Yes,Milk,No,Semi-Arid,Disease Resistant,Kangayam
+F0412,Andhra Pradesh,Nellore,38,40,727,Black,Medium,4.4,49100,12923,Mastitis,Yes,Milk,Yes,Semi-Arid,Sustainable,Kangayam
+F0413,Andhra Pradesh,Anantapur,27,77,1729,Alluvial,High,18.3,37858,4594,Lumpy Skin,Yes,Milk,Yes,Humid,Low Cost,Kangayam
+F0414,Karnataka,Mandya,37,74,1578,Red,Medium,10.9,29893,9452,None,No,Dual,Yes,Humid,Sustainable,Kangayam
+F0415,Andhra Pradesh,Nellore,27,59,1637,Laterite,Medium,19.8,17161,6275,Lumpy Skin,Yes,Milk,No,Dry,Sustainable,Kangayam
+F0416,Maharashtra,Kolhapur,25,63,1788,Red,Medium,16.0,33981,5914,Brucellosis,Yes,Meat,No,Humid,High Milk,Sahiwal
+F0417,Karnataka,Mandya,34,40,540,Laterite,Medium,16.4,45446,13505,Mastitis,No,Dual,No,Tropical,Sustainable,Kangayam
+F0418,Karnataka,Mandya,40,88,889,Black,High,6.7,11181,13172,Lumpy Skin,No,Meat,Yes,Semi-Arid,Sustainable,Kangayam
+F0419,Tamil Nadu,Tiruppur,34,46,754,Red,High,9.4,17818,5157,None,No,Dual,No,Dry,High Milk,Kangayam
+F0420,Maharashtra,Kolhapur,27,41,751,Alluvial,Medium,14.8,30457,3189,None,No,Milk,No,Semi-Arid,Disease Resistant,Kangayam
+F0421,Karnataka,Mysuru,32,68,1455,Red,Medium,12.8,22108,2889,Brucellosis,No,Dual,No,Humid,Disease Resistant,Kangayam
+F0422,Tamil Nadu,Tiruppur,37,86,935,Red,High,2.1,34423,12099,None,No,Meat,No,Dry,Sustainable,Kangayam
+F0423,Maharashtra,Kolhapur,27,71,1505,Laterite,Low,19.0,10734,9041,Brucellosis,Yes,Dual,Yes,Humid,Sustainable,Kangayam
+F0424,Andhra Pradesh,Anantapur,30,67,1216,Alluvial,High,8.9,38364,11130,FMD,Yes,Meat,Yes,Dry,High Milk,Gir
+F0425,Maharashtra,Kolhapur,28,71,479,Laterite,High,14.6,33990,7035,Lumpy Skin,No,Dual,No,Semi-Arid,High Milk,Sahiwal
+F0426,Tamil Nadu,Coimbatore,34,85,1093,Alluvial,Low,5.7,25448,9082,Lumpy Skin,Yes,Meat,No,Tropical,High Milk,Sahiwal
+F0427,Andhra Pradesh,Anantapur,38,85,452,Laterite,Medium,15.3,15053,2701,Lumpy Skin,No,Milk,Yes,Tropical,Disease Resistant,Kangayam
+F0428,Andhra Pradesh,Nellore,30,50,1674,Alluvial,High,12.5,26424,7859,None,No,Meat,No,Humid,Disease Resistant,Kangayam
+F0429,Andhra Pradesh,Anantapur,36,90,1011,Alluvial,High,18.6,38133,2320,Brucellosis,Yes,Meat,No,Tropical,Disease Resistant,Kangayam
+F0430,Karnataka,Mysuru,27,72,836,Red,Low,8.5,47057,11303,Lumpy Skin,No,Meat,No,Humid,High Milk,Gir
+F0431,Andhra Pradesh,Nellore,30,44,838,Red,Medium,7.3,30154,14889,Mastitis,No,Dual,No,Dry,Low Cost,Gir
+F0432,Andhra Pradesh,Nellore,25,72,607,Laterite,High,5.9,42892,4301,Brucellosis,Yes,Dual,Yes,Humid,Disease Resistant,Kangayam
+F0433,Tamil Nadu,Tiruppur,34,67,909,Laterite,High,4.3,19237,14546,None,No,Dual,Yes,Tropical,Disease Resistant,Kangayam
+F0434,Maharashtra,Pune,27,76,1463,Red,Low,3.0,41877,9134,FMD,No,Milk,No,Semi-Arid,Disease Resistant,Kangayam
+F0435,Karnataka,Mysuru,32,49,1007,Red,Medium,19.7,13518,14953,None,No,Meat,No,Humid,High Milk,Kangayam
+F0436,Karnataka,Mandya,36,46,1254,Red,Medium,9.9,31011,2950,FMD,Yes,Meat,Yes,Semi-Arid,Sustainable,Kangayam
+F0437,Karnataka,Mysuru,34,41,703,Red,High,4.6,28003,2901,FMD,Yes,Meat,Yes,Tropical,High Milk,Gir
+F0438,Maharashtra,Pune,36,85,1243,Alluvial,Low,11.1,29978,6896,Mastitis,No,Dual,Yes,Humid,High Milk,Ongole
+F0439,Tamil Nadu,Erode,26,58,1317,Alluvial,Medium,9.2,45578,10461,Mastitis,No,Dual,No,Tropical,High Milk,Gir
+F0440,Karnataka,Mandya,22,40,382,Red,High,4.3,48183,12340,None,No,Dual,Yes,Dry,Disease Resistant,Kangayam
+F0441,Karnataka,Belagavi,36,81,643,Red,High,11.4,10530,2657,Lumpy Skin,Yes,Milk,No,Semi-Arid,Sustainable,Kangayam
+F0442,Maharashtra,Nashik,30,47,1227,Black,High,11.8,45353,8995,Mastitis,No,Dual,No,Dry,High Milk,Gir
+F0443,Andhra Pradesh,Guntur,39,78,1194,Laterite,Medium,2.5,34103,7343,Lumpy Skin,No,Dual,Yes,Dry,Sustainable,Kangayam
+F0444,Andhra Pradesh,Nellore,35,81,1175,Black,High,13.4,48844,13417,Brucellosis,No,Meat,Yes,Dry,Low Cost,Gir
+F0445,Tamil Nadu,Erode,24,71,310,Black,Medium,19.1,10320,6278,Mastitis,Yes,Meat,Yes,Semi-Arid,Sustainable,Kangayam
+F0446,Karnataka,Mysuru,38,57,333,Red,High,11.6,41200,10304,Brucellosis,Yes,Dual,No,Dry,Disease Resistant,Kangayam
+F0447,Tamil Nadu,Salem,30,51,1368,Alluvial,High,10.9,38069,3051,Brucellosis,No,Dual,No,Dry,Sustainable,Kangayam
+F0448,Maharashtra,Nashik,36,68,1626,Laterite,Medium,16.7,48937,12061,Lumpy Skin,No,Meat,Yes,Tropical,Low Cost,Sahiwal
+F0449,Karnataka,Mandya,39,62,886,Black,High,15.4,34117,5985,Mastitis,No,Milk,Yes,Dry,Low Cost,Gir
+F0450,Tamil Nadu,Coimbatore,37,50,1081,Alluvial,Medium,10.1,21107,5914,Brucellosis,Yes,Dual,Yes,Humid,Disease Resistant,Kangayam
+F0451,Maharashtra,Kolhapur,37,52,1210,Laterite,Medium,13.5,32720,2471,FMD,Yes,Meat,Yes,Semi-Arid,High Milk,Gir
+F0452,Andhra Pradesh,Guntur,25,44,1387,Red,High,1.3,17712,3753,FMD,Yes,Milk,No,Humid,Disease Resistant,Kangayam
+F0453,Tamil Nadu,Salem,22,62,1019,Laterite,Low,1.3,24038,12287,Lumpy Skin,Yes,Meat,No,Humid,Low Cost,Sahiwal
+F0454,Karnataka,Mysuru,37,85,1660,Laterite,High,8.7,35587,11937,None,Yes,Milk,Yes,Humid,High Milk,Gir
+F0455,Tamil Nadu,Coimbatore,22,62,952,Laterite,High,3.9,11303,5648,None,Yes,Dual,Yes,Dry,Low Cost,Sahiwal
+F0456,Karnataka,Mandya,40,77,1637,Black,Low,1.4,45393,12874,None,Yes,Dual,Yes,Humid,Disease Resistant,Kangayam
+F0457,Maharashtra,Pune,36,52,1434,Red,Low,11.5,38992,9551,Mastitis,No,Dual,Yes,Tropical,Low Cost,Ongole
+F0458,Andhra Pradesh,Nellore,22,54,1353,Red,High,16.3,17779,13485,None,No,Dual,Yes,Semi-Arid,Low Cost,Gir
+F0459,Karnataka,Mysuru,27,42,1153,Black,Medium,4.4,46668,12930,Lumpy Skin,No,Milk,No,Semi-Arid,Disease Resistant,Kangayam
+F0460,Tamil Nadu,Erode,35,42,315,Red,High,12.8,11203,6362,Lumpy Skin,Yes,Dual,No,Semi-Arid,Disease Resistant,Kangayam
+F0461,Andhra Pradesh,Nellore,40,50,355,Black,Medium,9.6,33714,4368,None,Yes,Milk,No,Dry,High Milk,Sahiwal
+F0462,Karnataka,Belagavi,38,77,1413,Red,High,8.5,45387,14464,Brucellosis,Yes,Dual,Yes,Semi-Arid,High Milk,Gir
+F0463,Tamil Nadu,Salem,30,44,1383,Black,Medium,7.8,41925,12705,Brucellosis,Yes,Meat,No,Dry,Sustainable,Kangayam
+F0464,Tamil Nadu,Erode,26,42,662,Red,Medium,19.4,16269,13360,Brucellosis,Yes,Dual,No,Tropical,Low Cost,Sahiwal
+F0465,Karnataka,Mandya,32,73,1684,Laterite,Medium,12.2,41367,7984,Lumpy Skin,Yes,Dual,No,Humid,Low Cost,Kangayam
+F0466,Andhra Pradesh,Guntur,33,66,1486,Red,High,17.1,18345,9975,None,Yes,Milk,Yes,Tropical,Disease Resistant,Kangayam
+F0467,Maharashtra,Nashik,24,56,736,Black,Medium,13.6,40994,14398,None,No,Dual,No,Dry,Sustainable,Kangayam
+F0468,Andhra Pradesh,Guntur,22,63,567,Red,Medium,10.8,27999,10315,Lumpy Skin,No,Meat,No,Humid,Low Cost,Sahiwal
+F0469,Tamil Nadu,Madurai,22,81,1259,Alluvial,High,18.0,39654,8494,FMD,Yes,Dual,Yes,Humid,Sustainable,Kangayam
+F0470,Karnataka,Mandya,33,85,707,Red,Low,10.6,33433,5180,Brucellosis,No,Dual,Yes,Semi-Arid,Disease Resistant,Kangayam
+F0471,Maharashtra,Pune,33,54,1122,Alluvial,Low,10.5,38988,5041,FMD,Yes,Dual,Yes,Dry,Sustainable,Kangayam
+F0472,Andhra Pradesh,Guntur,23,70,677,Black,Low,6.4,39599,4655,Mastitis,Yes,Milk,No,Semi-Arid,Sustainable,Kangayam
+F0473,Tamil Nadu,Tiruppur,35,85,1575,Laterite,Low,2.4,48248,13161,Brucellosis,No,Milk,No,Dry,High Milk,Ongole
+F0474,Andhra Pradesh,Nellore,24,78,1145,Black,Medium,12.3,20400,8090,Mastitis,No,Meat,No,Humid,High Milk,Gir
+F0475,Tamil Nadu,Madurai,32,49,992,Laterite,Medium,2.2,10577,6697,FMD,No,Meat,No,Dry,Disease Resistant,Kangayam
+F0476,Karnataka,Mysuru,36,78,729,Black,Medium,3.6,36481,13473,FMD,Yes,Meat,No,Tropical,Sustainable,Kangayam
+F0477,Andhra Pradesh,Guntur,29,61,964,Black,High,2.0,25992,11708,Brucellosis,Yes,Milk,No,Semi-Arid,Sustainable,Kangayam
+F0478,Andhra Pradesh,Nellore,35,75,482,Laterite,High,10.2,49386,11723,Mastitis,No,Meat,No,Tropical,Disease Resistant,Kangayam
+F0479,Karnataka,Mandya,35,76,1251,Black,Medium,5.6,21920,13858,Brucellosis,No,Meat,No,Dry,Low Cost,Gir
+F0480,Maharashtra,Pune,33,61,455,Laterite,Low,5.4,38195,5070,Lumpy Skin,Yes,Dual,No,Semi-Arid,Low Cost,Sahiwal
+F0481,Maharashtra,Nashik,27,55,1548,Black,Medium,4.3,23198,13612,FMD,No,Dual,No,Dry,High Milk,Kangayam
+F0482,Karnataka,Mysuru,38,70,501,Black,High,13.1,10865,9883,None,Yes,Dual,Yes,Semi-Arid,High Milk,Kangayam
+F0483,Tamil Nadu,Madurai,30,47,1681,Laterite,High,4.7,11345,9755,None,No,Dual,No,Tropical,High Milk,Gir
+F0484,Andhra Pradesh,Guntur,40,49,826,Alluvial,Low,1.6,24030,4130,Brucellosis,Yes,Meat,No,Tropical,Sustainable,Ongole
+F0485,Andhra Pradesh,Guntur,29,84,442,Alluvial,High,14.8,35077,6541,None,Yes,Meat,No,Semi-Arid,Low Cost,Gir
+F0486,Maharashtra,Kolhapur,32,63,1216,Black,Medium,6.8,38565,11818,FMD,No,Meat,No,Dry,Disease Resistant,Kangayam
+F0487,Maharashtra,Nashik,26,77,1573,Laterite,Low,14.3,25682,5800,FMD,Yes,Milk,Yes,Humid,Low Cost,Kangayam
+F0488,Karnataka,Mandya,37,85,1292,Red,Medium,10.5,49607,5555,Mastitis,No,Meat,No,Humid,Sustainable,Kangayam
+F0489,Andhra Pradesh,Nellore,22,57,538,Laterite,High,8.5,47036,12170,Lumpy Skin,Yes,Milk,Yes,Tropical,Low Cost,Kangayam
+F0490,Andhra Pradesh,Anantapur,39,76,399,Red,High,4.9,27868,7612,None,Yes,Dual,No,Tropical,High Milk,Sahiwal
+F0491,Andhra Pradesh,Anantapur,25,69,882,Red,Medium,5.7,31939,3466,Lumpy Skin,Yes,Meat,No,Humid,Low Cost,Gir
+F0492,Tamil Nadu,Erode,29,69,539,Red,High,17.0,43292,2478,FMD,No,Milk,No,Semi-Arid,High Milk,Gir
+F0493,Tamil Nadu,Madurai,37,68,1761,Alluvial,Low,14.8,11996,4457,FMD,Yes,Meat,No,Humid,Disease Resistant,Kangayam
+F0494,Tamil Nadu,Madurai,34,49,1706,Alluvial,Medium,12.8,13708,7354,Lumpy Skin,No,Milk,Yes,Semi-Arid,Low Cost,Gir
+F0495,Tamil Nadu,Salem,40,72,1281,Alluvial,High,1.5,24554,5845,Lumpy Skin,Yes,Milk,No,Semi-Arid,Disease Resistant,Kangayam
+F0496,Maharashtra,Pune,28,51,725,Alluvial,Medium,10.9,49262,14970,None,Yes,Dual,Yes,Tropical,Sustainable,Kangayam
+F0497,Tamil Nadu,Salem,40,84,694,Red,High,1.5,48335,6526,FMD,No,Dual,No,Tropical,Disease Resistant,Kangayam
+F0498,Karnataka,Belagavi,38,63,1312,Red,Low,2.7,45700,14902,FMD,No,Dual,No,Tropical,Sustainable,Ongole
+F0499,Andhra Pradesh,Nellore,22,50,397,Alluvial,High,14.2,12761,3287,None,Yes,Meat,No,Humid,Sustainable,Kangayam
+F0500,Andhra Pradesh,Nellore,28,48,1285,Laterite,Low,18.3,14924,3238,FMD,Yes,Milk,Yes,Dry,Low Cost,Sahiwal

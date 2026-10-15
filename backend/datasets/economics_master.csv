@@ -1,0 +1,151 @@
+Economics_ID,Breed_Name,Purpose,Purchase_Cost_INR,Daily_Feed_Cost_INR,Monthly_Maintenance_Cost_INR,Annual_Medical_Cost_INR,Average_Milk_Yield_Liters_Day,Average_Meat_Yield_Kg,Annual_Income_INR,Net_Profit_INR,ROI_Percentage,Break_Even_Months,Sustainability_Score,Investment_Level,Risk_Level,Recommended_For
+E001,Kangayam,Dual Purpose,98365,314,2997,2400,21,262,424847,271873,276.4,35,90,Medium,Medium,Commercial Farms
+E002,Malabari Goat,Dual Purpose,112769,266,5591,2450,8,146,192682,26050,23.1,34,76,Medium,High,Commercial Farms
+E003,Crossbred HF,Dual Purpose,53716,118,7998,10542,13,50,311572,161984,301.6,28,80,Low,High,Small Farmers
+E004,Kangayam,Meat,85061,281,5866,3262,11,20,166559,-9660,-11.4,15,81,High,Medium,Organic Farms
+E005,Gir,Dairy,54498,136,3926,5270,18,92,219209,117187,215.0,35,79,Medium,High,Small Farmers
+E006,Ongole,Dual Purpose,41481,98,5712,10272,4,282,520360,405774,978.2,23,87,Medium,Low,Organic Farms
+E007,Malabari Goat,Meat,81243,186,4095,4230,9,41,479828,358568,441.4,19,81,Medium,Low,Organic Farms
+E008,Holstein Friesian,Dairy,72201,208,4903,11653,20,280,475289,328880,455.5,12,84,Low,Medium,Commercial Farms
+E009,Jersey,Meat,89516,311,5259,4507,5,40,554272,373142,416.8,29,85,High,Medium,Commercial Farms
+E010,Gir,Dairy,100441,123,3187,1554,21,154,326292,241599,240.5,25,76,Medium,Low,Small Farmers
+E011,Sahiwal,Meat,59476,297,8777,2041,5,311,416623,200853,337.7,25,75,High,High,Small Farmers
+E012,Brown Swiss,Dairy,116321,304,2724,10857,19,198,205385,50880,43.7,31,97,High,Medium,Organic Farms
+E013,Brown Swiss,Dual Purpose,63160,112,8475,6187,19,335,547628,398861,631.5,28,96,Low,Medium,Commercial Farms
+E014,Brown Swiss,Dual Purpose,79310,303,2804,3558,2,81,374177,226376,285.4,34,73,Low,High,Small Farmers
+E015,Crossbred HF,Dairy,118598,249,4159,5537,30,41,318637,172307,145.3,10,81,Low,Medium,Organic Farms
+E016,Malabari Goat,Meat,76259,179,4987,4205,6,264,209911,80527,105.6,29,79,High,Medium,Commercial Farms
+E017,Kangayam,Meat,85186,308,4636,3668,14,178,217511,45791,53.8,23,81,Medium,High,Commercial Farms
+E018,Holstein Friesian,Dual Purpose,51394,168,3036,5211,25,37,237322,134359,261.4,9,93,Medium,Medium,Organic Farms
+E019,Jersey,Dairy,89268,238,2851,7952,29,165,311851,182817,204.8,28,97,Low,Low,Organic Farms
+E020,Gir,Dual Purpose,40204,280,8635,1683,4,243,196445,-11058,-27.5,15,83,Medium,High,Commercial Farms
+E021,Brown Swiss,Meat,63788,294,5658,8859,7,335,480085,296020,464.1,10,71,High,Low,Small Farmers
+E022,Jersey,Meat,102946,314,3874,7196,26,153,511276,342982,333.2,18,92,High,High,Organic Farms
+E023,Kangayam,Meat,109879,135,5926,2348,25,196,446318,323583,294.5,31,81,Medium,High,Organic Farms
+E024,Brown Swiss,Dual Purpose,107357,98,5527,3204,3,132,393527,288229,268.5,17,91,Low,Low,Commercial Farms
+E025,Gir,Dairy,119440,312,3520,3226,30,139,290260,130914,109.6,34,72,Low,Medium,Commercial Farms
+E026,Brown Swiss,Dairy,118438,271,4032,4077,16,39,496287,344911,291.2,34,82,Low,Medium,Organic Farms
+E027,Kangayam,Dual Purpose,65694,277,3324,9690,28,218,555098,404415,615.6,17,89,High,Medium,Commercial Farms
+E028,Holstein Friesian,Dairy,100055,304,7136,9048,15,282,506952,301312,301.1,20,86,High,High,Small Farmers
+E029,Gir,Meat,82979,268,7574,6219,17,202,300429,105502,127.1,21,85,High,Low,Commercial Farms
+E030,Crossbred Jersey,Dairy,65847,238,3411,11897,25,108,239653,99954,151.8,8,73,High,Low,Organic Farms
+E031,Jersey,Dairy,114267,103,8379,2429,1,349,213471,72899,63.8,8,80,Low,Medium,Commercial Farms
+E032,Crossbred Jersey,Dual Purpose,105178,226,6987,10971,14,349,261785,84480,80.3,21,90,High,High,Organic Farms
+E033,Crossbred HF,Dual Purpose,89508,299,2602,8823,24,250,320452,171270,191.3,12,72,High,High,Small Farmers
+E034,Sahiwal,Meat,109618,315,8892,8335,13,258,526137,296123,270.1,23,73,Medium,Low,Commercial Farms
+E035,Ongole,Meat,78401,84,6918,2228,23,202,319846,203942,260.1,35,73,High,Medium,Organic Farms
+E036,Malabari Goat,Dairy,63941,294,4973,11938,15,329,449375,270451,423.0,14,86,Medium,High,Commercial Farms
+E037,Gir,Dual Purpose,78464,206,7829,10233,12,45,494285,314914,401.3,36,85,Medium,Low,Organic Farms
+E038,Jersey,Dual Purpose,67167,264,6756,3359,5,142,160085,-20706,-30.8,26,72,Medium,High,Small Farmers
+E039,Kangayam,Meat,110680,113,7611,10305,10,149,468092,325210,293.8,20,87,Medium,Low,Commercial Farms
+E040,Kangayam,Meat,51117,218,7691,3877,7,280,326150,150411,294.2,9,79,High,Medium,Small Farmers
+E041,Sahiwal,Dairy,111494,318,7434,5210,5,194,285609,75121,67.4,29,91,Low,Low,Commercial Farms
+E042,Gir,Meat,52086,163,7611,3442,10,33,214784,60515,116.2,34,75,Medium,Medium,Commercial Farms
+E043,Malabari Goat,Dual Purpose,110087,275,8261,3767,28,183,187059,-16215,-14.7,26,84,Medium,High,Small Farmers
+E044,Crossbred HF,Meat,81110,345,3490,10721,2,83,560133,381607,470.5,16,76,Medium,High,Organic Farms
+E045,Jersey,Dual Purpose,110747,328,3549,11639,4,214,583359,409412,369.7,16,80,Medium,Medium,Commercial Farms
+E046,Crossbred HF,Dual Purpose,91787,165,2624,3293,6,124,532167,437161,476.3,35,95,Medium,Low,Small Farmers
+E047,Crossbred Jersey,Dual Purpose,111117,136,2704,9539,28,306,157789,66162,59.5,12,97,High,Medium,Commercial Farms
+E048,Holstein Friesian,Dairy,90906,199,2983,3480,9,80,281949,170038,187.0,18,71,High,High,Organic Farms
+E049,Malabari Goat,Meat,85781,258,4594,3376,0,287,352280,199606,232.7,13,77,Medium,High,Commercial Farms
+E050,Crossbred Jersey,Meat,89025,262,5682,10234,15,336,411627,237579,266.9,23,94,Medium,Low,Commercial Farms
+E051,Crossbred Jersey,Dual Purpose,76483,270,3734,9553,4,326,414343,261432,341.8,21,91,Low,Medium,Organic Farms
+E052,Crossbred HF,Dairy,42671,323,7081,7979,10,82,386043,175197,410.6,25,81,Medium,Low,Commercial Farms
+E053,Sahiwal,Dual Purpose,68860,269,4204,2479,30,224,262829,111717,162.2,32,93,Low,Low,Organic Farms
+E054,Brown Swiss,Dual Purpose,46962,331,5974,9909,21,243,301407,98995,210.8,21,94,High,Medium,Small Farmers
+E055,Jersey,Dairy,44826,219,7246,6911,0,147,586643,412845,921.0,9,93,Low,Low,Small Farmers
+E056,Jersey,Dairy,81607,109,4711,3660,12,265,209174,109197,133.8,26,88,Medium,Low,Small Farmers
+E057,Crossbred HF,Dual Purpose,82837,219,3158,9041,11,171,533532,406660,490.9,27,91,Low,Low,Commercial Farms
+E058,Kangayam,Dairy,112045,296,8389,10911,8,183,243737,24118,21.5,24,85,Low,Low,Small Farmers
+E059,Ongole,Dairy,69617,310,4932,4419,30,244,344238,167485,240.6,12,75,High,High,Small Farmers
+E060,Kangayam,Dual Purpose,95778,328,5448,10695,14,243,578678,382887,399.8,11,99,Medium,Low,Organic Farms
+E061,Crossbred HF,Meat,40335,206,7072,3524,1,158,202743,39165,97.1,19,75,Medium,High,Commercial Farms
+E062,Crossbred HF,Dual Purpose,85434,165,5757,9243,20,297,585371,446819,523.0,13,99,Low,Medium,Organic Farms
+E063,Crossbred Jersey,Dual Purpose,93921,338,3867,6659,18,209,427508,251075,267.3,9,82,Medium,Low,Small Farmers
+E064,Jersey,Dairy,67871,313,2857,4357,6,111,449319,296433,436.8,25,71,Low,Medium,Small Farmers
+E065,Ongole,Dual Purpose,101260,228,3783,8291,7,150,556702,419795,414.6,19,98,Low,High,Commercial Farms
+E066,Sahiwal,Meat,78453,176,7794,3476,28,210,449635,288391,367.6,29,98,Low,Low,Commercial Farms
+E067,Brown Swiss,Dairy,105420,174,4092,8774,30,202,587702,466314,442.3,22,83,Low,Low,Organic Farms
+E068,Crossbred Jersey,Dual Purpose,109587,98,5128,2376,26,132,568378,468696,427.7,12,78,Low,High,Small Farmers
+E069,Sahiwal,Meat,61687,81,2902,6195,14,175,288668,218084,353.5,15,85,High,High,Commercial Farms
+E070,Brown Swiss,Meat,105440,280,5088,7064,18,132,187949,17629,16.7,31,90,High,High,Organic Farms
+E071,Kangayam,Dairy,119631,106,7901,11696,26,152,561481,416283,348.0,12,97,Medium,Medium,Commercial Farms
+E072,Kangayam,Dual Purpose,42609,303,5802,11795,14,130,309159,117145,274.9,35,71,Low,Low,Small Farmers
+E073,Jersey,Dual Purpose,111889,292,5045,10257,18,298,286838,109461,97.8,18,79,High,Medium,Small Farmers
+E074,Ongole,Dual Purpose,77214,286,7463,7983,7,317,407309,205380,266.0,36,86,High,High,Organic Farms
+E075,Ongole,Meat,82824,151,6387,7968,19,301,383484,243757,294.3,30,76,Low,Medium,Small Farmers
+E076,Ongole,Meat,114353,128,3442,4901,23,189,385312,292387,255.7,10,83,Low,High,Small Farmers
+E077,Crossbred Jersey,Meat,101118,80,7501,7184,8,43,539437,413041,408.5,12,79,High,Medium,Organic Farms
+E078,Ongole,Dairy,41682,241,4443,4213,24,262,457924,312430,749.6,30,71,High,Low,Organic Farms
+E079,Holstein Friesian,Dairy,119850,279,5155,3507,11,41,199197,31995,26.7,28,87,Medium,Low,Organic Farms
+E080,Sahiwal,Meat,96642,251,7668,6242,30,285,328063,138190,143.0,20,91,High,Low,Small Farmers
+E081,Jersey,Meat,69268,103,8209,10046,10,312,322188,176039,254.1,32,98,High,High,Organic Farms
+E082,Kangayam,Meat,88299,224,4160,8102,23,93,593758,453976,514.1,15,79,Medium,High,Organic Farms
+E083,Malabari Goat,Meat,114394,267,5837,2240,15,285,599718,429979,375.9,27,84,Low,Medium,Commercial Farms
+E084,Sahiwal,Dairy,72445,140,8274,8405,16,144,582445,423652,584.8,30,81,High,High,Small Farmers
+E085,Holstein Friesian,Dairy,66875,195,5257,11118,14,345,384459,239082,357.5,8,94,Medium,High,Organic Farms
+E086,Ongole,Dairy,107458,238,8836,9518,21,335,531160,328740,305.9,14,87,Medium,High,Small Farmers
+E087,Kangayam,Dairy,118686,179,6801,11050,22,153,573139,415142,349.8,28,86,Medium,Medium,Organic Farms
+E088,Crossbred Jersey,Meat,73518,246,5489,10834,29,113,401076,234584,319.1,11,79,Low,High,Organic Farms
+E089,Holstein Friesian,Dual Purpose,47694,98,7134,4977,24,251,219007,92652,194.3,15,83,Low,Medium,Commercial Farms
+E090,Crossbred Jersey,Dual Purpose,86213,161,2816,9516,3,50,190734,88661,102.8,30,86,Medium,High,Small Farmers
+E091,Malabari Goat,Meat,112879,325,3464,2215,29,92,278265,115857,102.6,32,85,Medium,Medium,Organic Farms
+E092,Sahiwal,Dual Purpose,75760,144,5264,11071,7,85,317252,190453,251.4,22,82,Medium,High,Commercial Farms
+E093,Holstein Friesian,Dairy,92404,224,8044,3661,5,252,177310,-4639,-5.0,35,83,High,High,Organic Farms
+E094,Gir,Dual Purpose,110027,319,5206,11355,1,83,570142,379880,345.3,26,70,High,High,Organic Farms
+E095,Gir,Meat,78385,209,6418,2151,17,167,418985,263533,336.2,24,80,Medium,High,Small Farmers
+E096,Crossbred Jersey,Meat,51431,89,8658,2625,15,41,275720,136714,265.8,20,83,Low,High,Small Farmers
+E097,Sahiwal,Meat,91163,215,2922,11644,15,42,322807,197624,216.8,21,74,Medium,High,Small Farmers
+E098,Ongole,Dual Purpose,97437,146,7896,4825,30,245,409262,256395,263.1,21,93,Low,Medium,Small Farmers
+E099,Kangayam,Meat,85993,242,2699,6969,18,186,166049,38362,44.6,24,98,High,Low,Small Farmers
+E100,Sahiwal,Dairy,100722,282,6878,2187,2,138,419702,232049,230.4,22,87,High,High,Small Farmers
+E101,Crossbred HF,Dual Purpose,67642,135,4373,10192,22,220,492059,380116,562.0,36,80,Low,Medium,Organic Farms
+E102,Kangayam,Meat,96818,143,3544,5017,29,167,288935,189195,195.4,35,89,Medium,Low,Organic Farms
+E103,Brown Swiss,Meat,41879,211,3595,2850,16,70,215448,92443,220.7,17,93,High,Low,Commercial Farms
+E104,Kangayam,Meat,46108,113,8811,5911,18,34,335693,182805,396.5,29,98,High,High,Organic Farms
+E105,Crossbred HF,Dairy,49489,234,2668,3979,16,310,572370,450965,911.2,29,77,Medium,High,Small Farmers
+E106,Kangayam,Dairy,113433,249,2999,10821,0,221,282231,144537,127.4,23,98,Medium,Low,Commercial Farms
+E107,Crossbred HF,Meat,91753,105,7070,1694,1,79,368935,244076,266.0,19,94,High,High,Commercial Farms
+E108,Crossbred HF,Dairy,70015,138,9000,10263,28,308,506715,338082,482.9,20,83,Low,Low,Small Farmers
+E109,Kangayam,Dual Purpose,107692,230,3679,8102,14,135,308934,172734,160.4,18,73,Medium,Medium,Small Farmers
+E110,Crossbred HF,Dual Purpose,90425,191,4447,4686,13,181,256854,129089,142.8,8,99,High,Low,Small Farmers
+E111,Sahiwal,Meat,62416,161,6813,2244,25,123,534224,391459,627.2,13,76,Medium,Low,Commercial Farms
+E112,Sahiwal,Meat,63333,243,8526,10607,3,71,380838,179224,283.0,33,78,Low,High,Small Farmers
+E113,Brown Swiss,Dual Purpose,74764,248,5235,7989,26,253,165502,4173,5.6,18,71,Low,Low,Small Farmers
+E114,Crossbred Jersey,Meat,112392,330,7577,11059,4,173,175453,-46980,-41.8,13,97,Medium,Medium,Commercial Farms
+E115,Jersey,Dairy,64786,319,8666,8919,0,155,274170,44824,69.2,23,88,High,High,Small Farmers
+E116,Jersey,Meat,113822,320,5593,2483,27,24,413594,227195,199.6,33,83,Low,Medium,Small Farmers
+E117,Holstein Friesian,Dairy,50133,277,4577,7937,11,86,416444,252478,503.6,20,71,High,Medium,Commercial Farms
+E118,Kangayam,Dual Purpose,89283,158,8521,2974,9,177,345875,182979,204.9,20,78,High,Medium,Organic Farms
+E119,Crossbred HF,Meat,50831,257,6626,9525,22,171,428348,245506,483.0,30,91,Medium,Medium,Small Farmers
+E120,Gir,Dual Purpose,44561,300,8049,9672,28,91,564783,349023,783.2,14,80,Low,Medium,Commercial Farms
+E121,Crossbred Jersey,Dual Purpose,66740,225,3215,5019,10,96,204523,78799,118.1,36,84,Low,Low,Commercial Farms
+E122,Gir,Dairy,69084,346,2720,5115,19,123,293897,129852,188.0,16,74,Medium,Low,Small Farmers
+E123,Crossbred Jersey,Meat,102631,316,5228,11881,13,78,554348,364391,355.0,28,97,Medium,Low,Small Farmers
+E124,Holstein Friesian,Meat,55703,238,3598,2539,23,100,404345,271760,487.9,23,79,Low,High,Commercial Farms
+E125,Gir,Dairy,50734,342,6479,3497,11,210,293704,87629,172.7,26,71,High,High,Commercial Farms
+E126,Kangayam,Dual Purpose,60945,267,4115,10119,14,75,501174,344220,564.8,34,99,Low,Low,Commercial Farms
+E127,Kangayam,Dual Purpose,40590,244,7411,7945,19,165,303763,117826,290.3,28,85,Medium,Low,Organic Farms
+E128,Jersey,Dairy,77964,341,6362,8780,4,332,592622,383033,491.3,28,75,Low,Medium,Organic Farms
+E129,Crossbred HF,Dairy,40945,211,8968,11604,15,28,299285,103050,251.7,36,94,Low,Low,Commercial Farms
+E130,Brown Swiss,Dairy,44369,215,4436,6002,26,211,279411,141702,319.4,25,81,High,High,Commercial Farms
+E131,Jersey,Meat,50704,102,5280,9822,6,207,598481,488069,962.6,11,93,Medium,Low,Commercial Farms
+E132,Gir,Dairy,108032,233,6743,9626,2,149,492154,316567,293.0,8,98,Low,Low,Commercial Farms
+E133,Jersey,Meat,90875,198,5107,6957,8,261,348254,207743,228.6,13,82,High,Low,Small Farmers
+E134,Jersey,Dual Purpose,84618,190,7273,11452,7,113,193668,25590,30.2,24,77,High,Medium,Commercial Farms
+E135,Gir,Dairy,97264,331,3053,2256,7,222,501604,341897,351.5,21,92,Low,High,Organic Farms
+E136,Crossbred HF,Dairy,63508,306,5056,3293,24,79,498900,323245,509.0,33,87,Medium,Medium,Commercial Farms
+E137,Gir,Meat,42861,85,3332,10923,7,123,480410,398478,929.7,14,88,Medium,High,Organic Farms
+E138,Ongole,Meat,112052,332,8766,11821,30,153,452783,214590,191.5,20,96,High,Medium,Small Farmers
+E139,Gir,Meat,74810,184,8293,6591,8,280,217300,44033,58.9,26,85,High,Medium,Organic Farms
+E140,Sahiwal,Dairy,62861,333,3453,1776,14,236,508907,344150,547.5,22,74,High,High,Small Farmers
+E141,Ongole,Dairy,77593,251,4928,7302,17,208,518328,360275,464.3,34,88,Medium,Medium,Organic Farms
+E142,Gir,Meat,68524,190,4467,3006,25,227,357351,231391,337.7,29,96,Medium,Low,Small Farmers
+E143,Sahiwal,Meat,80562,140,3982,4791,17,274,418646,314971,391.0,23,90,Low,Medium,Organic Farms
+E144,Holstein Friesian,Dairy,110888,134,3418,5194,1,322,425021,329901,297.5,36,86,Medium,Medium,Small Farmers
+E145,Holstein Friesian,Dual Purpose,53352,228,7324,5949,24,49,228145,51088,95.8,14,84,Medium,Low,Small Farmers
+E146,Sahiwal,Meat,107078,284,5812,11475,23,273,382907,198028,184.9,14,77,Medium,Low,Commercial Farms
+E147,Brown Swiss,Meat,106224,83,5626,2993,9,106,563215,462415,435.3,15,88,High,Medium,Commercial Farms
+E148,Crossbred HF,Meat,84362,138,8523,2308,22,86,539681,384727,456.0,19,91,Medium,Low,Commercial Farms
+E149,Holstein Friesian,Meat,83570,342,8851,5044,26,146,555316,319230,382.0,34,98,Medium,High,Small Farmers
+E150,Crossbred Jersey,Meat,82320,178,4809,10981,29,194,302693,169034,205.3,12,93,Medium,Low,Organic Farms

@@ -1,0 +1,101 @@
+Vaccine_ID,Disease_Name,Species,Vaccine_Name,Dose,Age_First_Dose_Months,Booster_Interval_Months,Route,Season,Storage_Temperature,Estimated_Cost_INR,Mandatory,Protection_Percentage,Remarks
+V001,Goat Pox,Goat,Goat Pox Vaccine,5 mL,3,6,Intramuscular,Winter,2-8°C,448,No,72,Administer under veterinary supervision
+V002,Brucellosis,Cattle,Brucellosis Vaccine,5 mL,6,6,Intramuscular,Pre-Monsoon,2-8°C,368,No,74,Administer under veterinary supervision
+V003,Lumpy Skin Disease,Cattle,Lumpy Skin Disease Vaccine,2 mL,3,6,Subcutaneous,Pre-Monsoon,2-8°C,371,No,96,Administer under veterinary supervision
+V004,Rabies,Cattle,Rabies Vaccine,5 mL,4,12,Subcutaneous,Pre-Monsoon,2-8°C,313,Yes,98,Administer under veterinary supervision
+V005,Enterotoxemia,Goat,Enterotoxemia Vaccine,2 mL,4,6,Subcutaneous,Winter,2-8°C,180,No,96,Administer under veterinary supervision
+V006,PPR,Goat,PPR Vaccine,2 mL,3,12,Subcutaneous,Summer,2-8°C,233,Yes,84,Administer under veterinary supervision
+V007,Foot and Mouth Disease,Cattle,Foot and Mouth Disease Vaccine,2 mL,4,6,Subcutaneous,All Seasons,2-8°C,388,Yes,99,Administer under veterinary supervision
+V008,Goat Pox,Goat,Goat Pox Vaccine,2 mL,3,12,Intramuscular,Summer,2-8°C,238,Yes,99,Administer under veterinary supervision
+V009,Enterotoxemia,Goat,Enterotoxemia Vaccine,2 mL,3,6,Subcutaneous,Summer,2-8°C,143,No,97,Administer under veterinary supervision
+V010,Rabies,Cattle,Rabies Vaccine,2 mL,6,6,Subcutaneous,Pre-Monsoon,2-8°C,500,No,70,Administer under veterinary supervision
+V011,Enterotoxemia,Goat,Enterotoxemia Vaccine,3 mL,3,12,Subcutaneous,All Seasons,2-8°C,137,No,70,Administer under veterinary supervision
+V012,Black Quarter,Cattle,Black Quarter Vaccine,5 mL,6,6,Subcutaneous,All Seasons,2-8°C,377,No,86,Administer under veterinary supervision
+V013,Brucellosis,Cattle,Brucellosis Vaccine,3 mL,4,12,Subcutaneous,Winter,2-8°C,161,Yes,89,Administer under veterinary supervision
+V014,Lumpy Skin Disease,Cattle,Lumpy Skin Disease Vaccine,3 mL,6,12,Subcutaneous,All Seasons,2-8°C,58,No,98,Administer under veterinary supervision
+V015,Goat Pox,Goat,Goat Pox Vaccine,2 mL,4,6,Intramuscular,All Seasons,2-8°C,155,No,95,Administer under veterinary supervision
+V016,PPR,Goat,PPR Vaccine,5 mL,6,12,Intramuscular,All Seasons,2-8°C,296,Yes,86,Administer under veterinary supervision
+V017,Hemorrhagic Septicemia,Cattle,Hemorrhagic Septicemia Vaccine,2 mL,6,6,Subcutaneous,Winter,2-8°C,85,No,84,Administer under veterinary supervision
+V018,Hemorrhagic Septicemia,Cattle,Hemorrhagic Septicemia Vaccine,3 mL,6,12,Intramuscular,Winter,2-8°C,264,No,96,Administer under veterinary supervision
+V019,Enterotoxemia,Goat,Enterotoxemia Vaccine,3 mL,4,12,Intramuscular,Summer,2-8°C,165,Yes,89,Administer under veterinary supervision
+V020,Brucellosis,Cattle,Brucellosis Vaccine,5 mL,6,6,Intramuscular,Winter,2-8°C,421,No,91,Administer under veterinary supervision
+V021,Foot and Mouth Disease,Cattle,Foot and Mouth Disease Vaccine,2 mL,6,6,Intramuscular,Summer,2-8°C,345,No,78,Administer under veterinary supervision
+V022,Lumpy Skin Disease,Cattle,Lumpy Skin Disease Vaccine,2 mL,4,12,Subcutaneous,All Seasons,2-8°C,285,No,75,Administer under veterinary supervision
+V023,Foot and Mouth Disease,Cattle,Foot and Mouth Disease Vaccine,2 mL,6,6,Intramuscular,Winter,2-8°C,417,Yes,70,Administer under veterinary supervision
+V024,Rabies,Cattle,Rabies Vaccine,3 mL,4,12,Subcutaneous,Pre-Monsoon,2-8°C,380,No,96,Administer under veterinary supervision
+V025,Goat Pox,Goat,Goat Pox Vaccine,3 mL,6,6,Subcutaneous,Winter,2-8°C,68,Yes,71,Administer under veterinary supervision
+V026,PPR,Goat,PPR Vaccine,5 mL,6,6,Subcutaneous,Pre-Monsoon,2-8°C,292,No,73,Administer under veterinary supervision
+V027,Goat Pox,Goat,Goat Pox Vaccine,3 mL,4,6,Subcutaneous,Summer,2-8°C,50,Yes,78,Administer under veterinary supervision
+V028,Rabies,Cattle,Rabies Vaccine,5 mL,6,6,Intramuscular,Pre-Monsoon,2-8°C,296,Yes,75,Administer under veterinary supervision
+V029,Rabies,Cattle,Rabies Vaccine,5 mL,4,6,Subcutaneous,All Seasons,2-8°C,252,No,81,Administer under veterinary supervision
+V030,Hemorrhagic Septicemia,Cattle,Hemorrhagic Septicemia Vaccine,5 mL,4,6,Intramuscular,Summer,2-8°C,277,Yes,73,Administer under veterinary supervision
+V031,Hemorrhagic Septicemia,Cattle,Hemorrhagic Septicemia Vaccine,5 mL,6,6,Subcutaneous,Summer,2-8°C,146,No,93,Administer under veterinary supervision
+V032,Black Quarter,Cattle,Black Quarter Vaccine,5 mL,4,12,Subcutaneous,Summer,2-8°C,137,No,73,Administer under veterinary supervision
+V033,PPR,Goat,PPR Vaccine,3 mL,3,12,Intramuscular,All Seasons,2-8°C,122,Yes,74,Administer under veterinary supervision
+V034,Brucellosis,Cattle,Brucellosis Vaccine,2 mL,6,12,Subcutaneous,Summer,2-8°C,207,Yes,97,Administer under veterinary supervision
+V035,Foot and Mouth Disease,Cattle,Foot and Mouth Disease Vaccine,2 mL,3,6,Subcutaneous,All Seasons,2-8°C,114,Yes,96,Administer under veterinary supervision
+V036,Hemorrhagic Septicemia,Cattle,Hemorrhagic Septicemia Vaccine,2 mL,3,12,Intramuscular,Winter,2-8°C,498,Yes,78,Administer under veterinary supervision
+V037,Foot and Mouth Disease,Cattle,Foot and Mouth Disease Vaccine,2 mL,6,12,Intramuscular,Pre-Monsoon,2-8°C,135,Yes,92,Administer under veterinary supervision
+V038,Goat Pox,Goat,Goat Pox Vaccine,2 mL,6,12,Subcutaneous,Summer,2-8°C,249,Yes,96,Administer under veterinary supervision
+V039,Lumpy Skin Disease,Cattle,Lumpy Skin Disease Vaccine,3 mL,4,12,Subcutaneous,All Seasons,2-8°C,350,Yes,84,Administer under veterinary supervision
+V040,Enterotoxemia,Goat,Enterotoxemia Vaccine,2 mL,4,6,Subcutaneous,All Seasons,2-8°C,388,No,81,Administer under veterinary supervision
+V041,Brucellosis,Cattle,Brucellosis Vaccine,5 mL,4,6,Subcutaneous,All Seasons,2-8°C,187,No,83,Administer under veterinary supervision
+V042,PPR,Goat,PPR Vaccine,3 mL,6,12,Intramuscular,Pre-Monsoon,2-8°C,441,Yes,87,Administer under veterinary supervision
+V043,Black Quarter,Cattle,Black Quarter Vaccine,5 mL,3,12,Subcutaneous,All Seasons,2-8°C,102,No,74,Administer under veterinary supervision
+V044,Lumpy Skin Disease,Cattle,Lumpy Skin Disease Vaccine,2 mL,6,6,Intramuscular,Winter,2-8°C,335,Yes,81,Administer under veterinary supervision
+V045,Enterotoxemia,Goat,Enterotoxemia Vaccine,2 mL,4,6,Subcutaneous,Winter,2-8°C,97,Yes,79,Administer under veterinary supervision
+V046,Lumpy Skin Disease,Cattle,Lumpy Skin Disease Vaccine,5 mL,3,6,Subcutaneous,Summer,2-8°C,327,No,74,Administer under veterinary supervision
+V047,Hemorrhagic Septicemia,Cattle,Hemorrhagic Septicemia Vaccine,5 mL,4,12,Subcutaneous,All Seasons,2-8°C,354,Yes,98,Administer under veterinary supervision
+V048,PPR,Goat,PPR Vaccine,5 mL,4,6,Intramuscular,All Seasons,2-8°C,424,Yes,70,Administer under veterinary supervision
+V049,Foot and Mouth Disease,Cattle,Foot and Mouth Disease Vaccine,2 mL,6,12,Subcutaneous,Summer,2-8°C,134,No,75,Administer under veterinary supervision
+V050,Brucellosis,Cattle,Brucellosis Vaccine,2 mL,4,6,Intramuscular,Pre-Monsoon,2-8°C,497,Yes,88,Administer under veterinary supervision
+V051,Lumpy Skin Disease,Cattle,Lumpy Skin Disease Vaccine,5 mL,6,12,Subcutaneous,Pre-Monsoon,2-8°C,291,Yes,98,Administer under veterinary supervision
+V052,PPR,Goat,PPR Vaccine,2 mL,4,6,Subcutaneous,All Seasons,2-8°C,70,No,77,Administer under veterinary supervision
+V053,Rabies,Cattle,Rabies Vaccine,3 mL,4,12,Intramuscular,All Seasons,2-8°C,182,Yes,70,Administer under veterinary supervision
+V054,Enterotoxemia,Goat,Enterotoxemia Vaccine,2 mL,3,12,Intramuscular,Winter,2-8°C,104,No,70,Administer under veterinary supervision
+V055,Goat Pox,Goat,Goat Pox Vaccine,3 mL,3,12,Subcutaneous,Pre-Monsoon,2-8°C,126,No,77,Administer under veterinary supervision
+V056,Enterotoxemia,Goat,Enterotoxemia Vaccine,5 mL,4,12,Subcutaneous,All Seasons,2-8°C,72,No,94,Administer under veterinary supervision
+V057,Black Quarter,Cattle,Black Quarter Vaccine,3 mL,3,6,Intramuscular,Winter,2-8°C,239,No,76,Administer under veterinary supervision
+V058,Goat Pox,Goat,Goat Pox Vaccine,2 mL,3,12,Subcutaneous,Pre-Monsoon,2-8°C,382,Yes,91,Administer under veterinary supervision
+V059,Enterotoxemia,Goat,Enterotoxemia Vaccine,2 mL,3,6,Subcutaneous,Summer,2-8°C,86,Yes,75,Administer under veterinary supervision
+V060,Brucellosis,Cattle,Brucellosis Vaccine,5 mL,4,6,Intramuscular,Winter,2-8°C,215,No,86,Administer under veterinary supervision
+V061,Lumpy Skin Disease,Cattle,Lumpy Skin Disease Vaccine,3 mL,4,12,Intramuscular,Winter,2-8°C,500,Yes,72,Administer under veterinary supervision
+V062,PPR,Goat,PPR Vaccine,3 mL,4,12,Intramuscular,Winter,2-8°C,247,No,79,Administer under veterinary supervision
+V063,Black Quarter,Cattle,Black Quarter Vaccine,5 mL,3,12,Subcutaneous,Pre-Monsoon,2-8°C,483,No,90,Administer under veterinary supervision
+V064,Enterotoxemia,Goat,Enterotoxemia Vaccine,2 mL,6,12,Intramuscular,Pre-Monsoon,2-8°C,466,Yes,94,Administer under veterinary supervision
+V065,Goat Pox,Goat,Goat Pox Vaccine,5 mL,4,12,Subcutaneous,Pre-Monsoon,2-8°C,305,No,89,Administer under veterinary supervision
+V066,Enterotoxemia,Goat,Enterotoxemia Vaccine,2 mL,3,6,Intramuscular,All Seasons,2-8°C,326,No,84,Administer under veterinary supervision
+V067,Hemorrhagic Septicemia,Cattle,Hemorrhagic Septicemia Vaccine,3 mL,6,12,Intramuscular,Summer,2-8°C,438,Yes,81,Administer under veterinary supervision
+V068,PPR,Goat,PPR Vaccine,5 mL,4,12,Intramuscular,All Seasons,2-8°C,107,Yes,99,Administer under veterinary supervision
+V069,Rabies,Cattle,Rabies Vaccine,2 mL,6,12,Intramuscular,Summer,2-8°C,441,No,93,Administer under veterinary supervision
+V070,Lumpy Skin Disease,Cattle,Lumpy Skin Disease Vaccine,3 mL,6,6,Subcutaneous,All Seasons,2-8°C,389,No,72,Administer under veterinary supervision
+V071,Goat Pox,Goat,Goat Pox Vaccine,3 mL,4,12,Intramuscular,Pre-Monsoon,2-8°C,360,Yes,76,Administer under veterinary supervision
+V072,Enterotoxemia,Goat,Enterotoxemia Vaccine,5 mL,6,6,Intramuscular,Winter,2-8°C,243,No,71,Administer under veterinary supervision
+V073,Foot and Mouth Disease,Cattle,Foot and Mouth Disease Vaccine,3 mL,4,12,Subcutaneous,Summer,2-8°C,473,No,86,Administer under veterinary supervision
+V074,Hemorrhagic Septicemia,Cattle,Hemorrhagic Septicemia Vaccine,2 mL,3,6,Subcutaneous,All Seasons,2-8°C,212,No,83,Administer under veterinary supervision
+V075,Black Quarter,Cattle,Black Quarter Vaccine,3 mL,3,12,Subcutaneous,Winter,2-8°C,184,No,95,Administer under veterinary supervision
+V076,Enterotoxemia,Goat,Enterotoxemia Vaccine,3 mL,6,12,Intramuscular,All Seasons,2-8°C,477,No,98,Administer under veterinary supervision
+V077,Black Quarter,Cattle,Black Quarter Vaccine,2 mL,3,12,Intramuscular,Winter,2-8°C,176,No,76,Administer under veterinary supervision
+V078,Enterotoxemia,Goat,Enterotoxemia Vaccine,3 mL,4,12,Subcutaneous,All Seasons,2-8°C,492,Yes,82,Administer under veterinary supervision
+V079,Brucellosis,Cattle,Brucellosis Vaccine,3 mL,4,6,Subcutaneous,Summer,2-8°C,343,Yes,97,Administer under veterinary supervision
+V080,Foot and Mouth Disease,Cattle,Foot and Mouth Disease Vaccine,2 mL,3,12,Subcutaneous,Pre-Monsoon,2-8°C,383,Yes,80,Administer under veterinary supervision
+V081,Foot and Mouth Disease,Cattle,Foot and Mouth Disease Vaccine,2 mL,6,6,Subcutaneous,All Seasons,2-8°C,405,No,87,Administer under veterinary supervision
+V082,Hemorrhagic Septicemia,Cattle,Hemorrhagic Septicemia Vaccine,2 mL,4,12,Subcutaneous,Winter,2-8°C,347,Yes,92,Administer under veterinary supervision
+V083,PPR,Goat,PPR Vaccine,2 mL,6,6,Intramuscular,All Seasons,2-8°C,408,Yes,97,Administer under veterinary supervision
+V084,Foot and Mouth Disease,Cattle,Foot and Mouth Disease Vaccine,3 mL,3,6,Intramuscular,Summer,2-8°C,319,Yes,77,Administer under veterinary supervision
+V085,Brucellosis,Cattle,Brucellosis Vaccine,2 mL,3,12,Intramuscular,Summer,2-8°C,287,Yes,97,Administer under veterinary supervision
+V086,PPR,Goat,PPR Vaccine,5 mL,3,12,Subcutaneous,Pre-Monsoon,2-8°C,272,No,76,Administer under veterinary supervision
+V087,Lumpy Skin Disease,Cattle,Lumpy Skin Disease Vaccine,3 mL,6,12,Intramuscular,Pre-Monsoon,2-8°C,71,Yes,83,Administer under veterinary supervision
+V088,Goat Pox,Goat,Goat Pox Vaccine,5 mL,4,6,Intramuscular,Winter,2-8°C,145,Yes,80,Administer under veterinary supervision
+V089,Hemorrhagic Septicemia,Cattle,Hemorrhagic Septicemia Vaccine,5 mL,6,6,Subcutaneous,Winter,2-8°C,291,Yes,91,Administer under veterinary supervision
+V090,Foot and Mouth Disease,Cattle,Foot and Mouth Disease Vaccine,2 mL,4,6,Intramuscular,Summer,2-8°C,137,Yes,76,Administer under veterinary supervision
+V091,Lumpy Skin Disease,Cattle,Lumpy Skin Disease Vaccine,2 mL,6,12,Subcutaneous,All Seasons,2-8°C,102,Yes,92,Administer under veterinary supervision
+V092,Black Quarter,Cattle,Black Quarter Vaccine,5 mL,6,6,Subcutaneous,Winter,2-8°C,397,Yes,73,Administer under veterinary supervision
+V093,Goat Pox,Goat,Goat Pox Vaccine,5 mL,4,12,Subcutaneous,Summer,2-8°C,73,Yes,88,Administer under veterinary supervision
+V094,Enterotoxemia,Goat,Enterotoxemia Vaccine,2 mL,4,12,Intramuscular,All Seasons,2-8°C,452,No,79,Administer under veterinary supervision
+V095,PPR,Goat,PPR Vaccine,2 mL,6,12,Intramuscular,Summer,2-8°C,277,No,95,Administer under veterinary supervision
+V096,Rabies,Cattle,Rabies Vaccine,2 mL,3,6,Intramuscular,Winter,2-8°C,123,No,94,Administer under veterinary supervision
+V097,Foot and Mouth Disease,Cattle,Foot and Mouth Disease Vaccine,2 mL,3,6,Subcutaneous,Winter,2-8°C,361,Yes,99,Administer under veterinary supervision
+V098,Lumpy Skin Disease,Cattle,Lumpy Skin Disease Vaccine,3 mL,3,6,Subcutaneous,All Seasons,2-8°C,381,No,77,Administer under veterinary supervision
+V099,PPR,Goat,PPR Vaccine,5 mL,3,12,Intramuscular,Winter,2-8°C,429,Yes,95,Administer under veterinary supervision
+V100,Anthrax,Cattle,Anthrax Vaccine,2 mL,3,12,Subcutaneous,All Seasons,2-8°C,272,No,73,Administer under veterinary supervision

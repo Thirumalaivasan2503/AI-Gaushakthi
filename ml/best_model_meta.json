@@ -1,0 +1,59 @@
+{
+  "best_model_name": "Gradient Boosting (XGBoost Equivalent)",
+  "best_accuracy": 0.7933333333333333,
+  "results_summary": {
+    "Random Forest Classifier": {
+      "accuracy": 0.77,
+      "precision": 0.7428,
+      "recall": 0.77,
+      "f1_score": 0.7397,
+      "cv_mean_accuracy": 0.7767
+    },
+    "Extra Trees Classifier": {
+      "accuracy": 0.7333,
+      "precision": 0.7059,
+      "recall": 0.7333,
+      "f1_score": 0.7063,
+      "cv_mean_accuracy": 0.7525
+    },
+    "Gradient Boosting (XGBoost Equivalent)": {
+      "accuracy": 0.7933,
+      "precision": 0.7952,
+      "recall": 0.7933,
+      "f1_score": 0.7918,
+      "cv_mean_accuracy": 0.7958
+    },
+    "Hist Gradient Boosting (LightGBM Equivalent)": {
+      "accuracy": 0.7933,
+      "precision": 0.7682,
+      "recall": 0.7933,
+      "f1_score": 0.78,
+      "cv_mean_accuracy": 0.7983
+    }
+  },
+  "feature_importances": {
+    "farm_size_acres": 0.072,
+    "average_temp_c": 0.0864,
+    "annual_rainfall_mm": 0.0466,
+    "humidity_percent": 0.0142,
+    "feed_budget_monthly": 0.0426,
+    "medical_budget_monthly": 0.0147,
+    "climate_zone_code": 0.0273,
+    "soil_type_code": 0.0015,
+    "water_availability_code": 0.0028,
+    "productivity_goal_code": 0.646,
+    "livestock_count": 0.005,
+    "disease_history_count": 0.0024,
+    "budget_ratio": 0.0161,
+    "thi_heat_index": 0.0224
+  },
+  "breed_labels": {
+    "Kangayam Cattle": 0,
+    "Gir Cow": 1,
+    "Sahiwal Cow": 2,
+    "Ongole Cattle": 3,
+    "Bargur Cattle": 4,
+    "Umblachery Cattle": 5,
+    "Pulikulam Cattle": 6
+  }
+}

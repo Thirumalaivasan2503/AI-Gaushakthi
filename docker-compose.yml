@@ -1,0 +1,61 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: pasumitra_postgres
+    restart: always
+    environment:
+      POSTGRES_DB: agritech_db
+      POSTGRES_USER: pasumitra_admin
+      POSTGRES_PASSWORD: SecurePasuMitraPassword2026!
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./backend/database/schema.sql:/docker-entrypoint-initdb.d/schema.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U pasumitra_admin -d agritech_db"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: pasumitra_fastapi
+    restart: always
+    environment:
+      DATABASE_URL: postgresql://pasumitra_admin:SecurePasuMitraPassword2026!@postgres:5432/agritech_db
+      SECRET_KEY: production_jwt_secret_key_pasumitra_agritech_system_2026
+      ENVIRONMENT: production
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: pasumitra_react
+    restart: always
+    ports:
+      - "3000:3000"
+
+  nginx:
+    image: nginx:alpine
+    container_name: pasumitra_nginx
+    restart: always
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - backend
+      - frontend
+
+volumes:
+  postgres_data:

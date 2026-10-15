@@ -1,0 +1,201 @@
+Breed_ID,Breed_Name,Breed_Type,Origin_State,Species,Milk_Yield_Liters_Day
+B001,Kangayam,Indigenous,Tamil Nadu,Cattle,14.7
+B002,Gir,Indigenous,Gujarat,Cattle,18.6
+B003,Sahiwal,Indigenous,Punjab,Cattle,12.9
+B004,Ongole,Indigenous,Andhra Pradesh,Cattle,5.1
+B005,Hallikar,Indigenous,Karnataka,Cattle,9.2
+B006,Holstein Friesian,Foreign,Netherlands,Cattle,17.5
+B007,Jersey,Foreign,Jersey,Cattle,4.7
+B008,Kangayam,Indigenous,Tamil Nadu,Cattle,14.7
+B009,Gir,Indigenous,Gujarat,Cattle,17.4
+B010,Sahiwal,Indigenous,Punjab,Cattle,6.2
+B011,Ongole,Indigenous,Andhra Pradesh,Cattle,5.6
+B012,Hallikar,Indigenous,Karnataka,Cattle,21.1
+B013,Holstein Friesian,Foreign,Netherlands,Cattle,21.5
+B014,Jersey,Foreign,Jersey,Cattle,13.9
+B015,Kangayam,Indigenous,Tamil Nadu,Cattle,18.5
+B016,Gir,Indigenous,Gujarat,Cattle,16.2
+B017,Sahiwal,Indigenous,Punjab,Cattle,24.7
+B018,Ongole,Indigenous,Andhra Pradesh,Cattle,18.5
+B019,Hallikar,Indigenous,Karnataka,Cattle,7.0
+B020,Holstein Friesian,Foreign,Netherlands,Cattle,5.3
+B021,Jersey,Foreign,Jersey,Cattle,15.3
+B022,Kangayam,Indigenous,Tamil Nadu,Cattle,24.7
+B023,Gir,Indigenous,Gujarat,Cattle,20.4
+B024,Sahiwal,Indigenous,Punjab,Cattle,3.6
+B025,Ongole,Indigenous,Andhra Pradesh,Cattle,6.7
+B026,Hallikar,Indigenous,Karnataka,Cattle,15.3
+B027,Holstein Friesian,Foreign,Netherlands,Cattle,9.2
+B028,Jersey,Foreign,Jersey,Cattle,6.5
+B029,Kangayam,Indigenous,Tamil Nadu,Cattle,8.4
+B030,Gir,Indigenous,Gujarat,Cattle,16.9
+B031,Sahiwal,Indigenous,Punjab,Cattle,11.6
+B032,Ongole,Indigenous,Andhra Pradesh,Cattle,4.6
+B033,Hallikar,Indigenous,Karnataka,Cattle,11.2
+B034,Holstein Friesian,Foreign,Netherlands,Cattle,11.0
+B035,Jersey,Foreign,Jersey,Cattle,6.8
+B036,Kangayam,Indigenous,Tamil Nadu,Cattle,20.9
+B037,Gir,Indigenous,Gujarat,Cattle,8.9
+B038,Sahiwal,Indigenous,Punjab,Cattle,7.4
+B039,Ongole,Indigenous,Andhra Pradesh,Cattle,8.8
+B040,Hallikar,Indigenous,Karnataka,Cattle,4.2
+B041,Holstein Friesian,Foreign,Netherlands,Cattle,15.5
+B042,Jersey,Foreign,Jersey,Cattle,10.4
+B043,Kangayam,Indigenous,Tamil Nadu,Cattle,20.9
+B044,Gir,Indigenous,Gujarat,Cattle,15.4
+B045,Sahiwal,Indigenous,Punjab,Cattle,12.6
+B046,Ongole,Indigenous,Andhra Pradesh,Cattle,10.8
+B047,Hallikar,Indigenous,Karnataka,Cattle,16.8
+B048,Holstein Friesian,Foreign,Netherlands,Cattle,12.5
+B049,Jersey,Foreign,Jersey,Cattle,9.4
+B050,Kangayam,Indigenous,Tamil Nadu,Cattle,24.8
+B051,Gir,Indigenous,Gujarat,Cattle,4.6
+B052,Sahiwal,Indigenous,Punjab,Cattle,15.1
+B053,Ongole,Indigenous,Andhra Pradesh,Cattle,14.3
+B054,Hallikar,Indigenous,Karnataka,Cattle,22.2
+B055,Holstein Friesian,Foreign,Netherlands,Cattle,16.1
+B056,Jersey,Foreign,Jersey,Cattle,21.0
+B057,Kangayam,Indigenous,Tamil Nadu,Cattle,5.2
+B058,Gir,Indigenous,Gujarat,Cattle,10.1
+B059,Sahiwal,Indigenous,Punjab,Cattle,8.3
+B060,Ongole,Indigenous,Andhra Pradesh,Cattle,10.3
+B061,Hallikar,Indigenous,Karnataka,Cattle,17.4
+B062,Holstein Friesian,Foreign,Netherlands,Cattle,11.1
+B063,Jersey,Foreign,Jersey,Cattle,15.4
+B064,Kangayam,Indigenous,Tamil Nadu,Cattle,15.8
+B065,Gir,Indigenous,Gujarat,Cattle,7.6
+B066,Sahiwal,Indigenous,Punjab,Cattle,16.4
+B067,Ongole,Indigenous,Andhra Pradesh,Cattle,14.7
+B068,Hallikar,Indigenous,Karnataka,Cattle,11.0
+B069,Holstein Friesian,Foreign,Netherlands,Cattle,6.5
+B070,Jersey,Foreign,Jersey,Cattle,20.8
+B071,Kangayam,Indigenous,Tamil Nadu,Cattle,18.3
+B072,Gir,Indigenous,Gujarat,Cattle,13.2
+B073,Sahiwal,Indigenous,Punjab,Cattle,16.9
+B074,Ongole,Indigenous,Andhra Pradesh,Cattle,4.7
+B075,Hallikar,Indigenous,Karnataka,Cattle,5.0
+B076,Holstein Friesian,Foreign,Netherlands,Cattle,10.4
+B077,Jersey,Foreign,Jersey,Cattle,3.9
+B078,Kangayam,Indigenous,Tamil Nadu,Cattle,5.9
+B079,Gir,Indigenous,Gujarat,Cattle,25.0
+B080,Sahiwal,Indigenous,Punjab,Cattle,12.0
+B081,Ongole,Indigenous,Andhra Pradesh,Cattle,10.5
+B082,Hallikar,Indigenous,Karnataka,Cattle,11.1
+B083,Holstein Friesian,Foreign,Netherlands,Cattle,13.8
+B084,Jersey,Foreign,Jersey,Cattle,22.1
+B085,Kangayam,Indigenous,Tamil Nadu,Cattle,21.4
+B086,Gir,Indigenous,Gujarat,Cattle,12.7
+B087,Sahiwal,Indigenous,Punjab,Cattle,12.5
+B088,Ongole,Indigenous,Andhra Pradesh,Cattle,6.9
+B089,Hallikar,Indigenous,Karnataka,Cattle,21.4
+B090,Holstein Friesian,Foreign,Netherlands,Cattle,22.9
+B091,Jersey,Foreign,Jersey,Cattle,18.9
+B092,Kangayam,Indigenous,Tamil Nadu,Cattle,11.3
+B093,Gir,Indigenous,Gujarat,Cattle,20.1
+B094,Sahiwal,Indigenous,Punjab,Cattle,17.6
+B095,Ongole,Indigenous,Andhra Pradesh,Cattle,22.3
+B096,Hallikar,Indigenous,Karnataka,Cattle,16.4
+B097,Holstein Friesian,Foreign,Netherlands,Cattle,5.6
+B098,Jersey,Foreign,Jersey,Cattle,21.6
+B099,Kangayam,Indigenous,Tamil Nadu,Cattle,6.4
+B100,Gir,Indigenous,Gujarat,Cattle,6.8
+B101,Sahiwal,Indigenous,Punjab,Cattle,10.8
+B102,Ongole,Indigenous,Andhra Pradesh,Cattle,17.6
+B103,Hallikar,Indigenous,Karnataka,Cattle,17.5
+B104,Holstein Friesian,Foreign,Netherlands,Cattle,13.8
+B105,Jersey,Foreign,Jersey,Cattle,22.7
+B106,Kangayam,Indigenous,Tamil Nadu,Cattle,21.1
+B107,Gir,Indigenous,Gujarat,Cattle,18.1
+B108,Sahiwal,Indigenous,Punjab,Cattle,4.6
+B109,Ongole,Indigenous,Andhra Pradesh,Cattle,17.8
+B110,Hallikar,Indigenous,Karnataka,Cattle,18.3
+B111,Holstein Friesian,Foreign,Netherlands,Cattle,3.8
+B112,Jersey,Foreign,Jersey,Cattle,7.2
+B113,Kangayam,Indigenous,Tamil Nadu,Cattle,16.2
+B114,Gir,Indigenous,Gujarat,Cattle,6.0
+B115,Sahiwal,Indigenous,Punjab,Cattle,16.2
+B116,Ongole,Indigenous,Andhra Pradesh,Cattle,19.8
+B117,Hallikar,Indigenous,Karnataka,Cattle,21.1
+B118,Holstein Friesian,Foreign,Netherlands,Cattle,19.5
+B119,Jersey,Foreign,Jersey,Cattle,6.0
+B120,Kangayam,Indigenous,Tamil Nadu,Cattle,24.7
+B121,Gir,Indigenous,Gujarat,Cattle,10.0
+B122,Sahiwal,Indigenous,Punjab,Cattle,24.2
+B123,Ongole,Indigenous,Andhra Pradesh,Cattle,24.9
+B124,Hallikar,Indigenous,Karnataka,Cattle,23.3
+B125,Holstein Friesian,Foreign,Netherlands,Cattle,20.0
+B126,Jersey,Foreign,Jersey,Cattle,22.8
+B127,Kangayam,Indigenous,Tamil Nadu,Cattle,19.6
+B128,Gir,Indigenous,Gujarat,Cattle,12.9
+B129,Sahiwal,Indigenous,Punjab,Cattle,9.6
+B130,Ongole,Indigenous,Andhra Pradesh,Cattle,15.6
+B131,Hallikar,Indigenous,Karnataka,Cattle,15.9
+B132,Holstein Friesian,Foreign,Netherlands,Cattle,20.8
+B133,Jersey,Foreign,Jersey,Cattle,17.2
+B134,Kangayam,Indigenous,Tamil Nadu,Cattle,14.7
+B135,Gir,Indigenous,Gujarat,Cattle,22.4
+B136,Sahiwal,Indigenous,Punjab,Cattle,6.6
+B137,Ongole,Indigenous,Andhra Pradesh,Cattle,18.1
+B138,Hallikar,Indigenous,Karnataka,Cattle,15.1
+B139,Holstein Friesian,Foreign,Netherlands,Cattle,16.1
+B140,Jersey,Foreign,Jersey,Cattle,13.5
+B141,Kangayam,Indigenous,Tamil Nadu,Cattle,22.4
+B142,Gir,Indigenous,Gujarat,Cattle,13.4
+B143,Sahiwal,Indigenous,Punjab,Cattle,16.1
+B144,Ongole,Indigenous,Andhra Pradesh,Cattle,14.5
+B145,Hallikar,Indigenous,Karnataka,Cattle,21.3
+B146,Holstein Friesian,Foreign,Netherlands,Cattle,6.6
+B147,Jersey,Foreign,Jersey,Cattle,20.6
+B148,Kangayam,Indigenous,Tamil Nadu,Cattle,23.9
+B149,Gir,Indigenous,Gujarat,Cattle,23.4
+B150,Sahiwal,Indigenous,Punjab,Cattle,15.5
+B151,Ongole,Indigenous,Andhra Pradesh,Cattle,6.6
+B152,Hallikar,Indigenous,Karnataka,Cattle,9.8
+B153,Holstein Friesian,Foreign,Netherlands,Cattle,21.3
+B154,Jersey,Foreign,Jersey,Cattle,22.8
+B155,Kangayam,Indigenous,Tamil Nadu,Cattle,18.7
+B156,Gir,Indigenous,Gujarat,Cattle,18.7
+B157,Sahiwal,Indigenous,Punjab,Cattle,6.5
+B158,Ongole,Indigenous,Andhra Pradesh,Cattle,23.9
+B159,Hallikar,Indigenous,Karnataka,Cattle,16.5
+B160,Holstein Friesian,Foreign,Netherlands,Cattle,6.7
+B161,Jersey,Foreign,Jersey,Cattle,3.6
+B162,Kangayam,Indigenous,Tamil Nadu,Cattle,7.2
+B163,Gir,Indigenous,Gujarat,Cattle,24.8
+B164,Sahiwal,Indigenous,Punjab,Cattle,17.6
+B165,Ongole,Indigenous,Andhra Pradesh,Cattle,13.2
+B166,Hallikar,Indigenous,Karnataka,Cattle,6.3
+B167,Holstein Friesian,Foreign,Netherlands,Cattle,3.9
+B168,Jersey,Foreign,Jersey,Cattle,11.9
+B169,Kangayam,Indigenous,Tamil Nadu,Cattle,3.8
+B170,Gir,Indigenous,Gujarat,Cattle,23.4
+B171,Sahiwal,Indigenous,Punjab,Cattle,6.1
+B172,Ongole,Indigenous,Andhra Pradesh,Cattle,18.6
+B173,Hallikar,Indigenous,Karnataka,Cattle,11.3
+B174,Holstein Friesian,Foreign,Netherlands,Cattle,8.3
+B175,Jersey,Foreign,Jersey,Cattle,22.7
+B176,Kangayam,Indigenous,Tamil Nadu,Cattle,7.9
+B177,Gir,Indigenous,Gujarat,Cattle,6.5
+B178,Sahiwal,Indigenous,Punjab,Cattle,20.7
+B179,Ongole,Indigenous,Andhra Pradesh,Cattle,10.8
+B180,Hallikar,Indigenous,Karnataka,Cattle,14.9
+B181,Holstein Friesian,Foreign,Netherlands,Cattle,13.8
+B182,Jersey,Foreign,Jersey,Cattle,19.6
+B183,Kangayam,Indigenous,Tamil Nadu,Cattle,24.5
+B184,Gir,Indigenous,Gujarat,Cattle,23.1
+B185,Sahiwal,Indigenous,Punjab,Cattle,7.2
+B186,Ongole,Indigenous,Andhra Pradesh,Cattle,15.3
+B187,Hallikar,Indigenous,Karnataka,Cattle,6.2
+B188,Holstein Friesian,Foreign,Netherlands,Cattle,18.7
+B189,Jersey,Foreign,Jersey,Cattle,21.5
+B190,Kangayam,Indigenous,Tamil Nadu,Cattle,13.7
+B191,Gir,Indigenous,Gujarat,Cattle,19.0
+B192,Sahiwal,Indigenous,Punjab,Cattle,10.8
+B193,Ongole,Indigenous,Andhra Pradesh,Cattle,4.2
+B194,Hallikar,Indigenous,Karnataka,Cattle,10.3
+B195,Holstein Friesian,Foreign,Netherlands,Cattle,9.9
+B196,Jersey,Foreign,Jersey,Cattle,18.5
+B197,Kangayam,Indigenous,Tamil Nadu,Cattle,18.6
+B198,Gir,Indigenous,Gujarat,Cattle,5.3
+B199,Sahiwal,Indigenous,Punjab,Cattle,21.5
+B200,Ongole,Indigenous,Andhra Pradesh,Cattle,4.2

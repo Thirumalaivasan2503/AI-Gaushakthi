@@ -1,0 +1,101 @@
+Climate_ID,State,District,Climate_Type,Avg_Temperature_C,Avg_Humidity_Percent,Annual_Rainfall_mm,Heat_Index,Suitable_Breeds,Water_Availability,Drought_Risk,Flood_Risk,Sustainability_Score,Recommended_Farming,Remarks
+C001,Tamil Nadu,Coimbatore,Semi-Arid,35,59,674,Low,Jersey; Kangayam; Holstein Friesian,High,Low,High,94,Dairy,Suitable based on historical climate patterns
+C002,Tamil Nadu,Coimbatore,Dry,31,54,1614,Low,Kangayam; Malabari Goat; Gir,Low,Low,Medium,89,Mixed Farming,Suitable based on historical climate patterns
+C003,Tamil Nadu,Coimbatore,Tropical,33,60,1069,Medium,Malabari Goat; Kangayam; Ongole,High,High,High,87,Dairy,Suitable based on historical climate patterns
+C004,Tamil Nadu,Coimbatore,Humid,33,86,340,Low,Malabari Goat; Holstein Friesian; Sahiwal,Medium,Low,Low,90,Dairy,Suitable based on historical climate patterns
+C005,Tamil Nadu,Erode,Tropical,30,78,783,Low,Gir; Sahiwal; Malabari Goat,Low,Medium,Low,87,Mixed Farming,Suitable based on historical climate patterns
+C006,Tamil Nadu,Erode,Humid,33,61,1500,Low,Kangayam; Holstein Friesian; Ongole,Medium,High,High,90,Meat,Suitable based on historical climate patterns
+C007,Tamil Nadu,Erode,Tropical,31,73,1082,Medium,Jersey; Gir; Malabari Goat,Medium,Low,Low,93,Mixed Farming,Suitable based on historical climate patterns
+C008,Tamil Nadu,Erode,Tropical,38,78,1651,Low,Kangayam; Jersey; Malabari Goat,High,Low,High,83,Mixed Farming,Suitable based on historical climate patterns
+C009,Tamil Nadu,Salem,Tropical,39,67,1101,Medium,Ongole; Kangayam; Malabari Goat,Medium,Medium,High,81,Meat,Suitable based on historical climate patterns
+C010,Tamil Nadu,Salem,Humid,37,61,794,High,Ongole; Sahiwal; Holstein Friesian,Low,Low,Low,78,Mixed Farming,Suitable based on historical climate patterns
+C011,Tamil Nadu,Salem,Semi-Arid,34,70,1287,Low,Gir; Kangayam; Ongole,Low,Low,High,74,Dairy,Suitable based on historical climate patterns
+C012,Tamil Nadu,Salem,Humid,32,51,540,Medium,Sahiwal; Holstein Friesian; Gir,Medium,Low,Low,85,Meat,Suitable based on historical climate patterns
+C013,Tamil Nadu,Madurai,Semi-Arid,36,85,965,Medium,Gir; Kangayam; Jersey,High,High,Low,96,Meat,Suitable based on historical climate patterns
+C014,Tamil Nadu,Madurai,Dry,28,58,1121,Medium,Ongole; Jersey; Sahiwal,Medium,Medium,Medium,92,Mixed Farming,Suitable based on historical climate patterns
+C015,Tamil Nadu,Madurai,Humid,33,48,768,Low,Gir; Ongole; Malabari Goat,Medium,High,Medium,80,Mixed Farming,Suitable based on historical climate patterns
+C016,Tamil Nadu,Madurai,Semi-Arid,28,66,1171,Low,Gir; Ongole; Sahiwal,Medium,Low,Medium,89,Mixed Farming,Suitable based on historical climate patterns
+C017,Tamil Nadu,Tiruppur,Tropical,24,82,546,Low,Sahiwal; Ongole; Jersey,High,Medium,Low,85,Mixed Farming,Suitable based on historical climate patterns
+C018,Tamil Nadu,Tiruppur,Humid,35,63,1344,Medium,Gir; Ongole; Holstein Friesian,Medium,High,Low,90,Mixed Farming,Suitable based on historical climate patterns
+C019,Tamil Nadu,Tiruppur,Humid,31,71,451,Low,Jersey; Kangayam; Holstein Friesian,High,Medium,Low,91,Meat,Suitable based on historical climate patterns
+C020,Tamil Nadu,Tiruppur,Semi-Arid,25,66,1162,Medium,Kangayam; Malabari Goat; Jersey,High,Medium,High,84,Meat,Suitable based on historical climate patterns
+C021,Karnataka,Mysuru,Tropical,36,83,334,Medium,Kangayam; Malabari Goat; Sahiwal,Low,Low,High,85,Meat,Suitable based on historical climate patterns
+C022,Karnataka,Mysuru,Semi-Arid,37,68,689,Low,Ongole; Gir; Kangayam,Medium,High,High,96,Mixed Farming,Suitable based on historical climate patterns
+C023,Karnataka,Mysuru,Dry,23,48,935,Medium,Sahiwal; Jersey; Holstein Friesian,Low,Low,Low,72,Meat,Suitable based on historical climate patterns
+C024,Karnataka,Mysuru,Dry,35,65,1458,Medium,Sahiwal; Gir; Ongole,Medium,High,Medium,89,Dairy,Suitable based on historical climate patterns
+C025,Karnataka,Mandya,Tropical,32,47,1621,High,Holstein Friesian; Gir; Ongole,Low,Medium,Medium,70,Meat,Suitable based on historical climate patterns
+C026,Karnataka,Mandya,Dry,34,51,624,High,Malabari Goat; Sahiwal; Holstein Friesian,Low,Medium,Low,76,Meat,Suitable based on historical climate patterns
+C027,Karnataka,Mandya,Humid,26,70,1376,Medium,Holstein Friesian; Sahiwal; Gir,Low,Medium,Low,95,Meat,Suitable based on historical climate patterns
+C028,Karnataka,Mandya,Dry,34,71,1561,High,Sahiwal; Ongole; Malabari Goat,Medium,Low,Low,85,Dairy,Suitable based on historical climate patterns
+C029,Karnataka,Belagavi,Semi-Arid,34,60,1237,Medium,Malabari Goat; Ongole; Gir,Low,Medium,High,85,Meat,Suitable based on historical climate patterns
+C030,Karnataka,Belagavi,Tropical,33,58,470,Low,Ongole; Jersey; Sahiwal,High,Medium,Low,90,Meat,Suitable based on historical climate patterns
+C031,Karnataka,Belagavi,Semi-Arid,25,67,663,Medium,Gir; Holstein Friesian; Kangayam,Low,Medium,Low,99,Mixed Farming,Suitable based on historical climate patterns
+C032,Karnataka,Belagavi,Semi-Arid,30,50,567,Medium,Holstein Friesian; Kangayam; Jersey,Low,Low,Medium,90,Meat,Suitable based on historical climate patterns
+C033,Karnataka,Tumakuru,Humid,35,83,522,High,Kangayam; Gir; Jersey,Medium,Medium,Low,86,Dairy,Suitable based on historical climate patterns
+C034,Karnataka,Tumakuru,Humid,29,54,1431,Medium,Kangayam; Holstein Friesian; Sahiwal,Medium,High,Medium,74,Meat,Suitable based on historical climate patterns
+C035,Karnataka,Tumakuru,Tropical,37,81,1187,Low,Holstein Friesian; Sahiwal; Jersey,Low,High,High,98,Dairy,Suitable based on historical climate patterns
+C036,Karnataka,Tumakuru,Humid,33,80,1116,Medium,Ongole; Sahiwal; Malabari Goat,Low,Low,Medium,90,Meat,Suitable based on historical climate patterns
+C037,Karnataka,Dharwad,Dry,36,69,455,Medium,Jersey; Sahiwal; Ongole,High,High,High,87,Dairy,Suitable based on historical climate patterns
+C038,Karnataka,Dharwad,Dry,33,80,339,Medium,Gir; Holstein Friesian; Sahiwal,Low,Medium,High,72,Mixed Farming,Suitable based on historical climate patterns
+C039,Karnataka,Dharwad,Tropical,24,84,402,Medium,Sahiwal; Kangayam; Holstein Friesian,Medium,Medium,Low,74,Mixed Farming,Suitable based on historical climate patterns
+C040,Karnataka,Dharwad,Dry,28,80,744,High,Malabari Goat; Kangayam; Ongole,Medium,Low,Low,75,Mixed Farming,Suitable based on historical climate patterns
+C041,Kerala,Palakkad,Tropical,37,46,1412,High,Ongole; Malabari Goat; Sahiwal,High,High,High,80,Mixed Farming,Suitable based on historical climate patterns
+C042,Kerala,Palakkad,Humid,38,59,1546,Medium,Kangayam; Malabari Goat; Ongole,High,Medium,Low,99,Mixed Farming,Suitable based on historical climate patterns
+C043,Kerala,Palakkad,Semi-Arid,39,53,743,Low,Holstein Friesian; Jersey; Kangayam,Medium,High,Low,79,Dairy,Suitable based on historical climate patterns
+C044,Kerala,Palakkad,Tropical,35,49,1077,Medium,Sahiwal; Jersey; Holstein Friesian,Medium,High,Medium,90,Mixed Farming,Suitable based on historical climate patterns
+C045,Kerala,Thrissur,Humid,30,51,1337,Medium,Jersey; Ongole; Holstein Friesian,High,High,Low,80,Dairy,Suitable based on historical climate patterns
+C046,Kerala,Thrissur,Tropical,27,49,1749,Medium,Jersey; Sahiwal; Gir,High,Medium,Medium,97,Mixed Farming,Suitable based on historical climate patterns
+C047,Kerala,Thrissur,Semi-Arid,34,77,499,High,Gir; Sahiwal; Malabari Goat,Medium,High,High,98,Meat,Suitable based on historical climate patterns
+C048,Kerala,Thrissur,Dry,30,74,1389,Medium,Gir; Kangayam; Malabari Goat,Low,Medium,Low,76,Meat,Suitable based on historical climate patterns
+C049,Kerala,Kozhikode,Humid,29,77,1191,Medium,Malabari Goat; Ongole; Jersey,High,Medium,Medium,74,Dairy,Suitable based on historical climate patterns
+C050,Kerala,Kozhikode,Semi-Arid,23,47,524,Low,Sahiwal; Malabari Goat; Kangayam,Low,High,Low,72,Meat,Suitable based on historical climate patterns
+C051,Kerala,Kozhikode,Dry,39,54,1392,High,Holstein Friesian; Ongole; Kangayam,Low,Medium,Low,84,Mixed Farming,Suitable based on historical climate patterns
+C052,Kerala,Kozhikode,Tropical,39,61,1477,Medium,Malabari Goat; Gir; Holstein Friesian,High,Low,High,97,Dairy,Suitable based on historical climate patterns
+C053,Kerala,Kannur,Tropical,24,84,743,High,Jersey; Holstein Friesian; Malabari Goat,Medium,Low,Medium,86,Mixed Farming,Suitable based on historical climate patterns
+C054,Kerala,Kannur,Semi-Arid,38,55,575,Medium,Kangayam; Gir; Holstein Friesian,Low,Medium,Low,77,Mixed Farming,Suitable based on historical climate patterns
+C055,Kerala,Kannur,Semi-Arid,39,67,1120,High,Jersey; Malabari Goat; Sahiwal,Low,High,High,96,Mixed Farming,Suitable based on historical climate patterns
+C056,Kerala,Kannur,Dry,27,74,1611,Low,Sahiwal; Jersey; Malabari Goat,Medium,Low,Medium,85,Meat,Suitable based on historical climate patterns
+C057,Kerala,Malappuram,Dry,37,47,877,Low,Malabari Goat; Sahiwal; Kangayam,High,High,Medium,92,Dairy,Suitable based on historical climate patterns
+C058,Kerala,Malappuram,Semi-Arid,29,86,1602,Low,Sahiwal; Ongole; Malabari Goat,Medium,Low,Medium,72,Meat,Suitable based on historical climate patterns
+C059,Kerala,Malappuram,Dry,34,54,694,High,Sahiwal; Jersey; Kangayam,Low,Low,Low,93,Dairy,Suitable based on historical climate patterns
+C060,Kerala,Malappuram,Humid,27,52,1217,Low,Holstein Friesian; Gir; Sahiwal,High,High,High,74,Meat,Suitable based on historical climate patterns
+C061,Andhra Pradesh,Guntur,Dry,26,89,1541,Medium,Malabari Goat; Holstein Friesian; Kangayam,Medium,Low,Low,74,Meat,Suitable based on historical climate patterns
+C062,Andhra Pradesh,Guntur,Dry,28,90,1183,Low,Ongole; Sahiwal; Jersey,High,High,Low,81,Dairy,Suitable based on historical climate patterns
+C063,Andhra Pradesh,Guntur,Humid,30,79,1033,High,Jersey; Malabari Goat; Kangayam,Low,High,Medium,87,Meat,Suitable based on historical climate patterns
+C064,Andhra Pradesh,Guntur,Humid,24,48,317,Medium,Kangayam; Ongole; Gir,Low,Medium,Medium,89,Mixed Farming,Suitable based on historical climate patterns
+C065,Andhra Pradesh,Nellore,Humid,31,88,667,Medium,Gir; Kangayam; Malabari Goat,Medium,Medium,High,95,Meat,Suitable based on historical climate patterns
+C066,Andhra Pradesh,Nellore,Dry,31,79,365,High,Kangayam; Sahiwal; Holstein Friesian,Medium,Low,Low,80,Dairy,Suitable based on historical climate patterns
+C067,Andhra Pradesh,Nellore,Tropical,24,72,583,Medium,Holstein Friesian; Malabari Goat; Gir,Low,Low,Low,87,Meat,Suitable based on historical climate patterns
+C068,Andhra Pradesh,Nellore,Tropical,31,64,1329,High,Gir; Malabari Goat; Sahiwal,Low,Medium,Medium,84,Mixed Farming,Suitable based on historical climate patterns
+C069,Andhra Pradesh,Kurnool,Semi-Arid,34,70,300,Medium,Kangayam; Ongole; Jersey,Medium,High,Medium,94,Dairy,Suitable based on historical climate patterns
+C070,Andhra Pradesh,Kurnool,Semi-Arid,28,63,1505,Medium,Ongole; Gir; Holstein Friesian,High,High,High,76,Meat,Suitable based on historical climate patterns
+C071,Andhra Pradesh,Kurnool,Dry,37,45,815,High,Kangayam; Holstein Friesian; Malabari Goat,Medium,Low,Low,86,Dairy,Suitable based on historical climate patterns
+C072,Andhra Pradesh,Kurnool,Dry,25,80,1474,High,Sahiwal; Malabari Goat; Jersey,Low,Medium,High,89,Mixed Farming,Suitable based on historical climate patterns
+C073,Andhra Pradesh,Prakasam,Humid,39,66,1492,Medium,Sahiwal; Malabari Goat; Gir,Medium,High,Low,92,Mixed Farming,Suitable based on historical climate patterns
+C074,Andhra Pradesh,Prakasam,Semi-Arid,35,75,1766,Medium,Ongole; Malabari Goat; Jersey,Medium,Medium,Low,94,Meat,Suitable based on historical climate patterns
+C075,Andhra Pradesh,Prakasam,Semi-Arid,28,59,615,Medium,Kangayam; Malabari Goat; Gir,Medium,High,High,76,Dairy,Suitable based on historical climate patterns
+C076,Andhra Pradesh,Prakasam,Semi-Arid,24,46,1451,High,Sahiwal; Ongole; Jersey,Medium,High,Medium,73,Mixed Farming,Suitable based on historical climate patterns
+C077,Andhra Pradesh,Anantapur,Tropical,38,66,1513,Medium,Gir; Holstein Friesian; Ongole,Medium,High,Low,95,Meat,Suitable based on historical climate patterns
+C078,Andhra Pradesh,Anantapur,Tropical,39,77,883,Low,Kangayam; Jersey; Gir,High,High,High,77,Meat,Suitable based on historical climate patterns
+C079,Andhra Pradesh,Anantapur,Tropical,36,78,480,Low,Sahiwal; Holstein Friesian; Malabari Goat,Medium,High,Medium,87,Mixed Farming,Suitable based on historical climate patterns
+C080,Andhra Pradesh,Anantapur,Tropical,34,67,1375,Medium,Sahiwal; Gir; Jersey,High,High,Low,94,Meat,Suitable based on historical climate patterns
+C081,Gujarat,Rajkot,Humid,30,85,631,Low,Holstein Friesian; Jersey; Ongole,Low,High,Low,90,Dairy,Suitable based on historical climate patterns
+C082,Gujarat,Rajkot,Semi-Arid,33,58,452,Medium,Ongole; Jersey; Gir,High,High,Low,92,Mixed Farming,Suitable based on historical climate patterns
+C083,Gujarat,Rajkot,Tropical,29,75,1095,Medium,Ongole; Kangayam; Sahiwal,Medium,High,Low,90,Dairy,Suitable based on historical climate patterns
+C084,Gujarat,Rajkot,Tropical,28,89,1136,High,Gir; Kangayam; Sahiwal,High,High,Medium,97,Meat,Suitable based on historical climate patterns
+C085,Gujarat,Junagadh,Humid,27,75,1125,High,Holstein Friesian; Sahiwal; Gir,Medium,Medium,Medium,77,Mixed Farming,Suitable based on historical climate patterns
+C086,Gujarat,Junagadh,Dry,24,54,1270,High,Sahiwal; Ongole; Jersey,High,Low,Medium,96,Mixed Farming,Suitable based on historical climate patterns
+C087,Gujarat,Junagadh,Tropical,28,64,905,Medium,Gir; Jersey; Sahiwal,Low,Low,High,97,Dairy,Suitable based on historical climate patterns
+C088,Gujarat,Junagadh,Dry,26,77,745,Low,Jersey; Gir; Malabari Goat,Low,High,High,78,Mixed Farming,Suitable based on historical climate patterns
+C089,Gujarat,Anand,Dry,29,55,692,Low,Malabari Goat; Gir; Kangayam,High,Medium,Medium,90,Mixed Farming,Suitable based on historical climate patterns
+C090,Gujarat,Anand,Semi-Arid,30,86,655,Low,Jersey; Kangayam; Gir,High,Medium,Medium,93,Mixed Farming,Suitable based on historical climate patterns
+C091,Gujarat,Anand,Humid,33,77,1235,High,Gir; Jersey; Sahiwal,Medium,Low,Medium,71,Mixed Farming,Suitable based on historical climate patterns
+C092,Gujarat,Anand,Tropical,33,68,1326,High,Kangayam; Holstein Friesian; Sahiwal,Medium,Medium,High,79,Meat,Suitable based on historical climate patterns
+C093,Gujarat,Bhavnagar,Dry,25,76,795,High,Gir; Sahiwal; Malabari Goat,Medium,Medium,Low,95,Meat,Suitable based on historical climate patterns
+C094,Gujarat,Bhavnagar,Semi-Arid,27,90,753,Low,Jersey; Holstein Friesian; Kangayam,Low,Low,Low,91,Dairy,Suitable based on historical climate patterns
+C095,Gujarat,Bhavnagar,Dry,25,51,1147,Low,Malabari Goat; Kangayam; Jersey,Medium,Low,Low,85,Dairy,Suitable based on historical climate patterns
+C096,Gujarat,Bhavnagar,Dry,31,66,473,Medium,Jersey; Ongole; Malabari Goat,Medium,High,Medium,94,Dairy,Suitable based on historical climate patterns
+C097,Gujarat,Surat,Dry,33,60,855,High,Jersey; Holstein Friesian; Gir,High,High,High,98,Mixed Farming,Suitable based on historical climate patterns
+C098,Gujarat,Surat,Dry,29,75,1749,Low,Malabari Goat; Kangayam; Holstein Friesian,Low,High,Low,75,Meat,Suitable based on historical climate patterns
+C099,Gujarat,Surat,Tropical,39,48,1330,High,Malabari Goat; Gir; Sahiwal,Low,High,Medium,90,Meat,Suitable based on historical climate patterns
+C100,Gujarat,Surat,Humid,28,64,1261,Low,Sahiwal; Gir; Kangayam,Medium,Low,Medium,85,Dairy,Suitable based on historical climate patterns

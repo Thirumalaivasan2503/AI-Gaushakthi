@@ -1,0 +1,201 @@
+Feed_ID,Feed_Name,Feed_Category,Suitable_Species,Suitable_Breeds,Age_Group,Purpose,Protein_Percentage,Energy_Level,Fiber_Percentage,Minerals,Feeding_Time,Recommended_Quantity_Kg_Day,Suitable_Climate,Cost_Per_Kg_INR,Availability,Organic,Improves,Remarks
+F001,Cotton Seed Cake,Supplement,Cattle,Ongole,Pregnant,Maintenance,25.0,Low,23.5,Vitamins,Morning & Evening,6.9,Tropical,14,Low,No,Milk Yield,Best for dairy animals.
+F002,Hay,Dry,All,Ongole,Young,Weight Gain,26.3,Medium,21.5,Vitamins,Morning & Evening,18.1,Tropical,92,Medium,No,Fertility,Best for dairy animals.
+F003,Mineral Mixture,Supplement,Goat,HF,Pregnant,Calf Development,19.3,High,24.7,Vitamins,Morning,7.0,Humid,11,Medium,Yes,Weight Gain,Store in a dry place.
+F004,Corn Silage,Silage,All,HF,Pregnant,Milk Production,15.9,High,32.9,Phosphorus,Morning,21.7,Dry,81,Low,No,Overall Health,Ideal for indigenous breeds.
+F005,Mineral Mixture,Supplement,Buffalo,Sahiwal,Calf,Pregnancy,25.8,Low,26.8,Calcium + Phosphorus,Morning,19.5,Dry,23,Medium,Yes,Digestion,Store in a dry place.
+F006,Groundnut Cake,Supplement,Cattle,Gir,All,Maintenance,20.9,High,16.8,Calcium,Morning,12.0,Tropical,111,High,No,Weight Gain,Ideal for indigenous breeds.
+F007,Dry Fodder,Dry,Cattle,HF,Adult,Pregnancy,22.5,Low,30.8,Calcium + Phosphorus,Morning,22.1,Dry,69,High,No,Fertility,Ideal for indigenous breeds.
+F008,Hay,Dry,Buffalo,All Breeds,All,Milk Production,14.3,Medium,33.0,Phosphorus,Evening,3.3,Dry,109,Low,Yes,Overall Health,Store in a dry place.
+F009,Dry Fodder,Dry,Cattle,HF,Young,Calf Development,16.2,Low,11.5,Calcium,Morning & Evening,11.4,Humid,114,Low,No,Milk Yield,Store in a dry place.
+F010,Hay,Dry,All,Ongole,Adult,Growth,11.1,Medium,10.4,Phosphorus,Morning & Evening,2.2,Humid,73,Medium,Yes,Immunity,Store in a dry place.
+F011,Cotton Seed Cake,Supplement,All,Gir,All,Maintenance,12.7,Low,17.1,Calcium + Phosphorus,Morning & Evening,19.4,Humid,78,Medium,Yes,Weight Gain,Provide clean drinking water.
+F012,Dry Fodder,Dry,Buffalo,HF,Calf,Calf Development,16.2,High,30.8,Phosphorus,Morning & Evening,4.2,Humid,33,High,No,Fertility,Provide clean drinking water.
+F013,Bajra Fodder,Green,Cattle,Gir,All,Pregnancy,22.5,Low,13.1,Calcium,Morning,14.9,Tropical,51,Medium,Yes,Milk Yield,Best for dairy animals.
+F014,Green Fodder,Green,Buffalo,Ongole,Calf,Maintenance,12.7,Low,9.6,Phosphorus,Evening,16.3,All Climates,76,Low,Yes,Overall Health,Provide clean drinking water.
+F015,Corn Silage,Silage,Goat,Gir,All,Growth,23.9,Medium,17.3,Phosphorus,Morning,12.9,Humid,95,High,No,Immunity,Use with mineral mixture.
+F016,Dry Fodder,Dry,Goat,Gir,Calf,Milk Production,27.5,Medium,34.3,Calcium,Evening,10.4,Tropical,119,Medium,Yes,Fertility,Store in a dry place.
+F017,Molasses,Supplement,Cattle,Gir,Calf,Growth,18.0,High,29.2,Calcium + Phosphorus,Evening,8.9,Dry,49,Medium,Yes,Fertility,Best for dairy animals.
+F018,Corn Silage,Silage,Buffalo,Kangayam,Calf,Pregnancy,26.1,Medium,24.3,Calcium,Morning,1.5,Dry,109,Medium,Yes,Fertility,Use with mineral mixture.
+F019,Dry Fodder,Dry,Buffalo,Gir,Pregnant,Maintenance,14.9,Medium,24.3,Calcium,Morning & Evening,4.3,Humid,105,Medium,Yes,Weight Gain,Store in a dry place.
+F020,Molasses,Supplement,All,Gir,All,Growth,9.3,Medium,21.2,Vitamins,Morning & Evening,7.0,Dry,20,High,No,Milk Yield,Ideal for indigenous breeds.
+F021,Bajra Fodder,Green,Goat,Gir,Adult,Calf Development,8.4,High,23.7,Vitamins,Evening,1.8,All Climates,59,Medium,Yes,Fertility,Ideal for indigenous breeds.
+F022,Rice Bran,Concentrate,All,All Breeds,Pregnant,Pregnancy,15.3,High,31.3,Calcium + Phosphorus,Morning,20.6,All Climates,35,Medium,No,Overall Health,Ideal for indigenous breeds.
+F023,Napier Grass,Green,Buffalo,All Breeds,Adult,Weight Gain,13.5,Medium,32.2,Calcium + Phosphorus,Morning & Evening,11.8,Humid,52,High,No,Overall Health,Best for dairy animals.
+F024,Corn Silage,Silage,Cattle,Gir,Pregnant,Milk Production,10.9,Low,18.2,Vitamins,Evening,23.6,Dry,10,Low,No,Overall Health,Provide clean drinking water.
+F025,Concentrate Mix,Concentrate,Cattle,Sahiwal,Adult,Calf Development,17.6,High,30.3,Calcium + Phosphorus,Morning,2.9,Tropical,65,Medium,No,Overall Health,Best for dairy animals.
+F026,Groundnut Cake,Supplement,Buffalo,Kangayam,Pregnant,Maintenance,20.4,Low,15.1,Phosphorus,Morning & Evening,11.7,All Climates,115,Low,Yes,Digestion,Use with mineral mixture.
+F027,Maize Silage,Silage,Cattle,Jersey,Adult,Growth,19.3,Medium,17.7,Calcium + Phosphorus,Evening,18.1,Dry,36,Medium,No,Fertility,Store in a dry place.
+F028,Rice Bran,Concentrate,Cattle,All Breeds,Young,Milk Production,15.8,High,17.6,Phosphorus,Morning & Evening,16.5,Tropical,82,Low,No,Immunity,Ideal for indigenous breeds.
+F029,Azolla,Green,Goat,HF,Young,Pregnancy,23.3,Medium,33.4,Phosphorus,Evening,15.3,Dry,23,Medium,No,Milk Yield,Ideal for indigenous breeds.
+F030,Cotton Seed Cake,Supplement,Goat,All Breeds,Young,Milk Production,26.0,Medium,28.0,Phosphorus,Evening,8.2,All Climates,20,Low,No,Weight Gain,Store in a dry place.
+F031,Hay,Dry,Goat,Ongole,All,Weight Gain,24.7,High,13.4,Calcium,Morning & Evening,23.2,Humid,103,High,Yes,Overall Health,Store in a dry place.
+F032,Dry Fodder,Dry,Cattle,Gir,Pregnant,Weight Gain,18.8,Medium,14.7,Vitamins,Evening,24.1,All Climates,117,High,No,Digestion,Use with mineral mixture.
+F033,Concentrate Mix,Concentrate,Buffalo,Kangayam,Pregnant,Calf Development,8.2,Low,9.6,Phosphorus,Evening,12.5,Dry,29,Medium,Yes,Milk Yield,Store in a dry place.
+F034,Azolla,Green,All,Kangayam,Adult,Calf Development,17.4,Low,16.0,Calcium + Phosphorus,Morning,16.2,All Climates,102,Low,No,Milk Yield,Use with mineral mixture.
+F035,Maize Silage,Silage,Goat,Gir,Calf,Milk Production,27.3,High,13.9,Calcium,Morning,7.4,Dry,76,Medium,Yes,Weight Gain,Store in a dry place.
+F036,Azolla,Green,Goat,All Breeds,All,Growth,19.5,Low,25.8,Phosphorus,Evening,4.1,All Climates,85,Medium,No,Milk Yield,Store in a dry place.
+F037,Corn Silage,Silage,Buffalo,HF,Adult,Calf Development,17.5,Medium,33.4,Calcium + Phosphorus,Morning & Evening,19.5,Dry,34,High,No,Immunity,Best for dairy animals.
+F038,Bajra Fodder,Green,Goat,Kangayam,Pregnant,Pregnancy,27.9,Medium,32.6,Mineral Mix,Morning,12.9,All Climates,66,Medium,Yes,Weight Gain,Provide clean drinking water.
+F039,Hay,Dry,Cattle,Gir,Calf,Calf Development,16.1,Medium,33.4,Mineral Mix,Morning & Evening,2.1,Dry,50,Medium,Yes,Immunity,Use with mineral mixture.
+F040,Concentrate Mix,Concentrate,Goat,Kangayam,Adult,Maintenance,26.3,High,17.5,Mineral Mix,Morning,12.0,Tropical,83,Low,Yes,Overall Health,Best for dairy animals.
+F041,Napier Grass,Green,Buffalo,All Breeds,Adult,Milk Production,8.3,High,17.4,Calcium,Evening,23.9,Dry,22,Low,Yes,Fertility,Best for dairy animals.
+F042,Corn Silage,Silage,Buffalo,All Breeds,Calf,Weight Gain,12.6,High,20.8,Calcium + Phosphorus,Evening,21.9,Tropical,58,Low,Yes,Immunity,Ideal for indigenous breeds.
+F043,Corn Silage,Silage,Cattle,Kangayam,Young,Growth,11.9,High,8.6,Phosphorus,Evening,1.6,All Climates,107,Low,No,Weight Gain,Best for dairy animals.
+F044,Maize Silage,Silage,Goat,Gir,All,Growth,26.6,Medium,19.2,Calcium,Evening,4.7,Dry,75,High,Yes,Digestion,Best for dairy animals.
+F045,Mineral Mixture,Supplement,All,HF,All,Growth,23.2,High,14.7,Calcium,Evening,13.9,Dry,97,Low,No,Fertility,Use with mineral mixture.
+F046,Mineral Mixture,Supplement,Buffalo,Ongole,Calf,Growth,11.1,Medium,19.8,Phosphorus,Evening,3.2,All Climates,104,Medium,Yes,Immunity,Ideal for indigenous breeds.
+F047,Rice Bran,Concentrate,All,Kangayam,Pregnant,Weight Gain,11.7,Low,31.9,Mineral Mix,Morning,23.3,All Climates,72,Medium,No,Weight Gain,Use with mineral mixture.
+F048,Bajra Fodder,Green,All,Gir,Adult,Milk Production,26.0,Medium,9.0,Calcium + Phosphorus,Morning & Evening,9.9,Tropical,112,Low,Yes,Overall Health,Store in a dry place.
+F049,Groundnut Cake,Supplement,Goat,Sahiwal,Pregnant,Growth,22.1,Low,17.1,Mineral Mix,Evening,9.1,All Climates,109,High,No,Immunity,Provide clean drinking water.
+F050,Concentrate Mix,Concentrate,All,Ongole,Adult,Weight Gain,15.5,Medium,16.9,Vitamins,Morning & Evening,2.3,Humid,12,Low,Yes,Overall Health,Store in a dry place.
+F051,Mineral Mixture,Supplement,Cattle,Kangayam,Calf,Maintenance,8.8,High,20.5,Calcium,Evening,2.0,Humid,119,High,No,Immunity,Ideal for indigenous breeds.
+F052,Rice Bran,Concentrate,All,Gir,Adult,Weight Gain,26.1,Low,9.5,Calcium,Morning & Evening,3.5,Dry,91,Low,No,Immunity,Store in a dry place.
+F053,Azolla,Green,Cattle,Gir,All,Pregnancy,13.0,High,30.8,Vitamins,Evening,12.0,Humid,17,Medium,Yes,Overall Health,Store in a dry place.
+F054,Concentrate Mix,Concentrate,Goat,Gir,Young,Calf Development,17.3,Low,18.6,Vitamins,Morning,21.2,Humid,59,Low,Yes,Weight Gain,Best for dairy animals.
+F055,Bajra Fodder,Green,All,Sahiwal,Adult,Pregnancy,17.7,Low,8.9,Phosphorus,Morning & Evening,5.7,Dry,73,High,Yes,Weight Gain,Best for dairy animals.
+F056,Azolla,Green,Cattle,Ongole,All,Calf Development,14.3,Medium,31.5,Calcium + Phosphorus,Evening,20.0,Humid,48,Medium,Yes,Fertility,Provide clean drinking water.
+F057,Hay,Dry,Cattle,Gir,Calf,Weight Gain,22.8,High,22.9,Mineral Mix,Morning,8.2,Humid,75,High,No,Fertility,Provide clean drinking water.
+F058,Azolla,Green,Goat,Kangayam,All,Growth,22.0,Low,32.8,Calcium,Evening,12.9,All Climates,62,Low,No,Immunity,Provide clean drinking water.
+F059,Groundnut Cake,Supplement,Cattle,Kangayam,Adult,Maintenance,8.5,High,33.9,Mineral Mix,Morning & Evening,12.7,All Climates,100,Medium,Yes,Milk Yield,Best for dairy animals.
+F060,Napier Grass,Green,Buffalo,All Breeds,Young,Pregnancy,21.2,Low,29.1,Calcium,Evening,15.2,All Climates,43,Medium,Yes,Overall Health,Ideal for indigenous breeds.
+F061,Napier Grass,Green,Buffalo,HF,Adult,Weight Gain,26.5,Low,9.9,Mineral Mix,Evening,16.6,Tropical,47,Medium,Yes,Fertility,Use with mineral mixture.
+F062,Mineral Mixture,Supplement,Goat,HF,Adult,Calf Development,27.2,Low,31.7,Mineral Mix,Morning & Evening,10.1,All Climates,98,High,Yes,Overall Health,Store in a dry place.
+F063,Molasses,Supplement,Cattle,HF,Calf,Weight Gain,22.8,Low,24.3,Phosphorus,Morning & Evening,22.9,Tropical,98,Low,Yes,Fertility,Store in a dry place.
+F064,Green Fodder,Green,Goat,Ongole,All,Growth,12.5,High,19.9,Vitamins,Morning,3.6,Humid,106,Medium,No,Digestion,Use with mineral mixture.
+F065,Rice Bran,Concentrate,Cattle,Sahiwal,Adult,Maintenance,11.7,Medium,27.0,Mineral Mix,Evening,13.5,All Climates,13,High,Yes,Immunity,Provide clean drinking water.
+F066,Groundnut Cake,Supplement,All,HF,All,Growth,25.3,Low,20.3,Calcium,Evening,13.0,All Climates,13,High,No,Weight Gain,Use with mineral mixture.
+F067,Green Fodder,Green,Goat,Jersey,All,Milk Production,23.1,High,11.4,Vitamins,Morning & Evening,14.4,All Climates,73,High,Yes,Digestion,Ideal for indigenous breeds.
+F068,Groundnut Cake,Supplement,Goat,All Breeds,Young,Milk Production,19.9,Medium,14.7,Calcium + Phosphorus,Morning,13.0,All Climates,81,Low,No,Weight Gain,Store in a dry place.
+F069,Napier Grass,Green,Cattle,HF,Pregnant,Calf Development,27.9,Low,22.0,Calcium,Morning,4.9,All Climates,14,High,Yes,Milk Yield,Store in a dry place.
+F070,Corn Silage,Silage,Cattle,Sahiwal,All,Weight Gain,15.4,Medium,15.2,Phosphorus,Morning,19.4,Tropical,59,Medium,Yes,Overall Health,Ideal for indigenous breeds.
+F071,Lucerne,Green,Buffalo,HF,All,Growth,8.2,Low,24.5,Calcium + Phosphorus,Morning,14.7,All Climates,84,Medium,Yes,Milk Yield,Use with mineral mixture.
+F072,Mineral Mixture,Supplement,Goat,Jersey,Adult,Weight Gain,24.3,High,26.2,Vitamins,Morning & Evening,4.5,Tropical,47,High,Yes,Overall Health,Provide clean drinking water.
+F073,Mineral Mixture,Supplement,Cattle,Ongole,Pregnant,Weight Gain,23.8,Medium,12.2,Vitamins,Morning & Evening,5.2,Dry,82,High,No,Weight Gain,Use with mineral mixture.
+F074,Cotton Seed Cake,Supplement,Buffalo,Kangayam,Adult,Milk Production,17.9,Medium,34.0,Mineral Mix,Morning & Evening,9.0,Humid,17,Low,Yes,Immunity,Use with mineral mixture.
+F075,Bajra Fodder,Green,Cattle,Kangayam,Pregnant,Weight Gain,10.1,High,11.5,Phosphorus,Evening,11.8,All Climates,46,Medium,No,Milk Yield,Provide clean drinking water.
+F076,Bajra Fodder,Green,Buffalo,HF,Adult,Pregnancy,9.1,Medium,11.1,Calcium + Phosphorus,Evening,6.0,Humid,10,Medium,Yes,Milk Yield,Best for dairy animals.
+F077,Napier Grass,Green,Buffalo,All Breeds,All,Pregnancy,15.0,High,12.4,Calcium + Phosphorus,Evening,20.4,Dry,24,Medium,Yes,Weight Gain,Store in a dry place.
+F078,Concentrate Mix,Concentrate,Goat,Sahiwal,Calf,Milk Production,18.0,Low,33.1,Phosphorus,Morning & Evening,24.4,Tropical,103,High,Yes,Fertility,Best for dairy animals.
+F079,Dry Fodder,Dry,All,All Breeds,Pregnant,Growth,22.2,High,28.2,Phosphorus,Morning & Evening,21.4,Humid,115,High,Yes,Milk Yield,Provide clean drinking water.
+F080,Dry Fodder,Dry,All,HF,Adult,Milk Production,11.5,High,33.7,Calcium + Phosphorus,Morning & Evening,7.9,Dry,93,High,No,Immunity,Provide clean drinking water.
+F081,Azolla,Green,All,Ongole,Calf,Calf Development,12.7,Medium,25.5,Calcium,Morning & Evening,4.6,All Climates,32,Low,No,Overall Health,Store in a dry place.
+F082,Molasses,Supplement,Buffalo,Jersey,Calf,Pregnancy,18.7,Medium,13.7,Phosphorus,Evening,22.0,Dry,25,Low,No,Milk Yield,Use with mineral mixture.
+F083,Groundnut Cake,Supplement,All,Sahiwal,Pregnant,Milk Production,14.1,Medium,30.7,Calcium + Phosphorus,Morning,14.2,Dry,73,Low,No,Immunity,Best for dairy animals.
+F084,Bajra Fodder,Green,Goat,Ongole,Adult,Pregnancy,14.9,High,12.5,Vitamins,Morning & Evening,24.4,Tropical,86,Medium,Yes,Milk Yield,Best for dairy animals.
+F085,Napier Grass,Green,All,Gir,All,Weight Gain,10.1,Low,22.5,Mineral Mix,Morning & Evening,22.5,All Climates,29,Medium,Yes,Weight Gain,Use with mineral mixture.
+F086,Azolla,Green,Buffalo,Ongole,Adult,Pregnancy,17.0,Medium,8.6,Calcium,Evening,7.9,Humid,117,Medium,Yes,Weight Gain,Use with mineral mixture.
+F087,Corn Silage,Silage,All,Jersey,Calf,Pregnancy,13.6,Medium,22.1,Calcium + Phosphorus,Morning & Evening,1.0,Tropical,41,Low,Yes,Immunity,Best for dairy animals.
+F088,Dry Fodder,Dry,Goat,Gir,Pregnant,Weight Gain,15.2,High,26.0,Phosphorus,Morning & Evening,2.4,Humid,35,Medium,Yes,Fertility,Store in a dry place.
+F089,Groundnut Cake,Supplement,All,All Breeds,All,Pregnancy,10.6,High,20.5,Calcium + Phosphorus,Evening,16.9,Tropical,111,High,No,Digestion,Use with mineral mixture.
+F090,Bajra Fodder,Green,Buffalo,Sahiwal,Calf,Weight Gain,9.9,Low,29.4,Phosphorus,Evening,1.0,Tropical,9,Low,No,Overall Health,Use with mineral mixture.
+F091,Mineral Mixture,Supplement,Buffalo,All Breeds,Pregnant,Growth,14.7,Medium,18.7,Mineral Mix,Evening,2.3,Dry,33,Low,No,Immunity,Store in a dry place.
+F092,Green Fodder,Green,All,Gir,Calf,Pregnancy,15.8,Low,17.3,Mineral Mix,Evening,8.6,Humid,81,High,Yes,Weight Gain,Store in a dry place.
+F093,Rice Bran,Concentrate,Buffalo,All Breeds,All,Milk Production,23.3,Medium,10.7,Mineral Mix,Morning,5.6,Dry,81,Low,No,Weight Gain,Provide clean drinking water.
+F094,Green Fodder,Green,Cattle,HF,Young,Growth,14.0,Low,31.8,Phosphorus,Morning & Evening,22.8,All Climates,39,Medium,Yes,Overall Health,Store in a dry place.
+F095,Groundnut Cake,Supplement,All,Jersey,All,Calf Development,11.9,High,18.8,Phosphorus,Evening,5.6,Tropical,11,Low,Yes,Overall Health,Best for dairy animals.
+F096,Mineral Mixture,Supplement,Goat,Jersey,All,Growth,17.3,Low,29.8,Phosphorus,Morning & Evening,21.9,Dry,40,Low,No,Fertility,Store in a dry place.
+F097,Maize Silage,Silage,Goat,Jersey,Calf,Growth,12.5,High,31.9,Mineral Mix,Morning,14.0,All Climates,99,Low,No,Fertility,Store in a dry place.
+F098,Hay,Dry,Buffalo,All Breeds,All,Pregnancy,25.1,Medium,17.0,Phosphorus,Morning,22.5,Tropical,76,Medium,No,Immunity,Use with mineral mixture.
+F099,Rice Bran,Concentrate,Buffalo,Gir,Calf,Maintenance,20.1,High,21.5,Phosphorus,Evening,24.3,Tropical,41,Medium,Yes,Weight Gain,Ideal for indigenous breeds.
+F100,Rice Bran,Concentrate,Cattle,Sahiwal,Adult,Maintenance,26.8,High,19.6,Mineral Mix,Morning & Evening,15.0,Dry,29,Low,Yes,Overall Health,Store in a dry place.
+F101,Napier Grass,Green,Cattle,Sahiwal,Pregnant,Milk Production,21.5,High,19.5,Mineral Mix,Morning,1.0,Dry,100,High,Yes,Immunity,Store in a dry place.
+F102,Lucerne,Green,All,Sahiwal,Pregnant,Maintenance,25.9,Medium,24.1,Phosphorus,Morning,5.2,Dry,61,Low,Yes,Weight Gain,Use with mineral mixture.
+F103,Lucerne,Green,Goat,Ongole,Calf,Pregnancy,26.5,Medium,15.7,Calcium + Phosphorus,Evening,8.6,Humid,108,Medium,Yes,Overall Health,Provide clean drinking water.
+F104,Hay,Dry,Buffalo,HF,Calf,Milk Production,26.9,High,12.1,Calcium + Phosphorus,Morning & Evening,12.8,Humid,108,High,Yes,Weight Gain,Provide clean drinking water.
+F105,Cotton Seed Cake,Supplement,All,Kangayam,Young,Maintenance,14.4,High,34.8,Phosphorus,Morning & Evening,1.8,Tropical,30,Medium,No,Digestion,Use with mineral mixture.
+F106,Groundnut Cake,Supplement,Buffalo,Ongole,Young,Milk Production,19.5,High,28.5,Calcium,Morning & Evening,14.9,All Climates,44,Medium,Yes,Milk Yield,Ideal for indigenous breeds.
+F107,Maize Silage,Silage,Goat,Kangayam,Adult,Weight Gain,22.1,Medium,11.9,Calcium + Phosphorus,Morning & Evening,18.8,Dry,11,Low,No,Milk Yield,Use with mineral mixture.
+F108,Dry Fodder,Dry,All,Ongole,Pregnant,Pregnancy,13.1,Low,23.7,Vitamins,Morning & Evening,15.8,Humid,30,Low,Yes,Immunity,Use with mineral mixture.
+F109,Corn Silage,Silage,Goat,All Breeds,Calf,Growth,26.2,Medium,21.8,Vitamins,Evening,24.8,Tropical,66,High,Yes,Fertility,Best for dairy animals.
+F110,Hay,Dry,All,Sahiwal,Calf,Milk Production,19.0,Low,8.2,Mineral Mix,Morning & Evening,6.9,Dry,39,Medium,Yes,Immunity,Provide clean drinking water.
+F111,Concentrate Mix,Concentrate,Goat,Sahiwal,Adult,Pregnancy,13.6,Low,15.4,Calcium,Evening,18.2,Tropical,28,Low,No,Fertility,Use with mineral mixture.
+F112,Concentrate Mix,Concentrate,Goat,HF,Calf,Milk Production,18.0,Low,24.1,Mineral Mix,Morning & Evening,24.9,Tropical,35,Medium,Yes,Digestion,Best for dairy animals.
+F113,Concentrate Mix,Concentrate,All,All Breeds,Calf,Milk Production,15.0,Medium,24.9,Vitamins,Evening,5.5,Humid,65,Medium,No,Digestion,Ideal for indigenous breeds.
+F114,Mineral Mixture,Supplement,Goat,Gir,Pregnant,Maintenance,17.1,High,8.9,Mineral Mix,Morning,24.2,Tropical,103,Medium,No,Weight Gain,Ideal for indigenous breeds.
+F115,Green Fodder,Green,All,Sahiwal,Young,Weight Gain,11.2,Medium,28.8,Mineral Mix,Morning,4.4,Humid,98,High,Yes,Fertility,Provide clean drinking water.
+F116,Mineral Mixture,Supplement,All,Sahiwal,Adult,Weight Gain,11.8,Low,19.0,Vitamins,Morning,15.6,Dry,84,Low,No,Overall Health,Provide clean drinking water.
+F117,Azolla,Green,Buffalo,Sahiwal,Young,Pregnancy,24.9,Medium,11.5,Mineral Mix,Morning,14.5,Dry,66,Low,Yes,Fertility,Best for dairy animals.
+F118,Bajra Fodder,Green,Goat,Jersey,All,Milk Production,10.7,Low,11.6,Vitamins,Morning & Evening,6.9,Dry,102,High,No,Overall Health,Use with mineral mixture.
+F119,Green Fodder,Green,Buffalo,Sahiwal,Adult,Milk Production,19.9,Low,21.2,Phosphorus,Morning,8.3,Dry,73,High,No,Immunity,Best for dairy animals.
+F120,Maize Silage,Silage,Goat,Ongole,All,Calf Development,15.7,Medium,18.5,Calcium + Phosphorus,Evening,19.1,Tropical,102,High,No,Fertility,Best for dairy animals.
+F121,Concentrate Mix,Concentrate,Goat,Jersey,Calf,Calf Development,18.7,Medium,19.8,Calcium,Morning,18.9,All Climates,91,Medium,Yes,Immunity,Store in a dry place.
+F122,Mineral Mixture,Supplement,Buffalo,All Breeds,Pregnant,Maintenance,8.9,Medium,30.5,Vitamins,Morning & Evening,13.4,Dry,119,High,Yes,Overall Health,Use with mineral mixture.
+F123,Molasses,Supplement,Cattle,Ongole,Young,Maintenance,22.6,Low,10.7,Calcium + Phosphorus,Morning,24.1,Humid,51,Low,No,Milk Yield,Use with mineral mixture.
+F124,Concentrate Mix,Concentrate,Buffalo,Jersey,Young,Calf Development,12.6,Low,17.9,Phosphorus,Evening,8.1,All Climates,60,Low,Yes,Digestion,Store in a dry place.
+F125,Dry Fodder,Dry,Buffalo,Jersey,Young,Weight Gain,26.4,High,14.4,Calcium,Evening,2.8,Humid,16,High,Yes,Immunity,Store in a dry place.
+F126,Maize Silage,Silage,Goat,Kangayam,Young,Calf Development,20.8,High,20.5,Mineral Mix,Evening,18.4,Tropical,104,High,Yes,Milk Yield,Provide clean drinking water.
+F127,Hay,Dry,Buffalo,Jersey,Calf,Growth,17.6,Low,14.0,Calcium,Morning & Evening,12.2,Humid,99,Low,No,Milk Yield,Use with mineral mixture.
+F128,Bajra Fodder,Green,Buffalo,Gir,Young,Weight Gain,25.3,High,32.5,Mineral Mix,Evening,1.6,Dry,8,High,No,Overall Health,Best for dairy animals.
+F129,Azolla,Green,All,Ongole,Pregnant,Weight Gain,15.3,Medium,16.1,Calcium,Morning & Evening,14.5,Dry,120,High,No,Weight Gain,Provide clean drinking water.
+F130,Concentrate Mix,Concentrate,Cattle,HF,Adult,Maintenance,11.1,High,17.6,Calcium,Morning & Evening,9.2,All Climates,102,Medium,Yes,Weight Gain,Store in a dry place.
+F131,Azolla,Green,Cattle,Jersey,Adult,Milk Production,20.7,Medium,21.8,Mineral Mix,Morning,6.1,Humid,82,Medium,No,Digestion,Best for dairy animals.
+F132,Maize Silage,Silage,All,HF,All,Calf Development,21.9,Medium,25.4,Calcium + Phosphorus,Evening,19.9,Tropical,22,Low,Yes,Digestion,Ideal for indigenous breeds.
+F133,Lucerne,Green,Goat,Gir,All,Weight Gain,13.6,High,34.4,Calcium + Phosphorus,Evening,3.6,All Climates,15,High,No,Overall Health,Use with mineral mixture.
+F134,Concentrate Mix,Concentrate,All,Gir,Calf,Growth,23.9,High,17.0,Phosphorus,Morning,12.6,Tropical,111,High,No,Fertility,Ideal for indigenous breeds.
+F135,Green Fodder,Green,All,Kangayam,Young,Milk Production,25.8,Low,32.6,Calcium + Phosphorus,Evening,15.8,Tropical,14,Low,Yes,Overall Health,Provide clean drinking water.
+F136,Napier Grass,Green,All,Gir,Adult,Growth,9.7,Medium,10.1,Mineral Mix,Evening,17.4,Humid,35,Medium,Yes,Milk Yield,Store in a dry place.
+F137,Azolla,Green,All,Jersey,All,Milk Production,23.4,Low,14.6,Mineral Mix,Evening,10.4,Humid,63,Medium,Yes,Milk Yield,Ideal for indigenous breeds.
+F138,Maize Silage,Silage,Goat,Ongole,Calf,Calf Development,11.1,Low,29.0,Calcium + Phosphorus,Morning,15.4,Humid,76,High,No,Milk Yield,Ideal for indigenous breeds.
+F139,Corn Silage,Silage,All,Jersey,Adult,Milk Production,17.5,Medium,24.4,Calcium + Phosphorus,Morning,1.8,Tropical,11,Low,No,Digestion,Provide clean drinking water.
+F140,Groundnut Cake,Supplement,All,Jersey,Adult,Milk Production,22.6,Low,9.6,Mineral Mix,Morning & Evening,11.3,Tropical,117,Medium,Yes,Milk Yield,Provide clean drinking water.
+F141,Groundnut Cake,Supplement,Buffalo,HF,All,Milk Production,17.0,Medium,33.3,Calcium,Morning & Evening,2.6,Humid,78,High,Yes,Overall Health,Best for dairy animals.
+F142,Napier Grass,Green,All,Jersey,Adult,Calf Development,18.0,Low,10.7,Calcium,Morning & Evening,6.3,Tropical,105,High,Yes,Overall Health,Ideal for indigenous breeds.
+F143,Corn Silage,Silage,Cattle,Kangayam,Adult,Maintenance,27.9,Low,33.9,Calcium + Phosphorus,Morning,20.7,Tropical,103,Medium,No,Weight Gain,Provide clean drinking water.
+F144,Groundnut Cake,Supplement,Goat,Ongole,Pregnant,Growth,26.5,Medium,27.1,Mineral Mix,Evening,21.3,All Climates,63,Medium,Yes,Digestion,Use with mineral mixture.
+F145,Concentrate Mix,Concentrate,Goat,HF,Calf,Milk Production,25.0,Low,26.0,Vitamins,Morning & Evening,20.3,Dry,95,High,No,Milk Yield,Ideal for indigenous breeds.
+F146,Lucerne,Green,Buffalo,Gir,All,Milk Production,17.5,High,12.2,Phosphorus,Morning,8.8,Humid,76,Medium,Yes,Fertility,Provide clean drinking water.
+F147,Concentrate Mix,Concentrate,Buffalo,HF,All,Calf Development,16.0,Low,9.4,Vitamins,Evening,23.2,Dry,87,Medium,Yes,Fertility,Provide clean drinking water.
+F148,Concentrate Mix,Concentrate,All,HF,Calf,Milk Production,10.2,Low,12.6,Vitamins,Morning & Evening,23.4,Dry,20,Low,Yes,Immunity,Use with mineral mixture.
+F149,Lucerne,Green,Buffalo,HF,All,Growth,9.5,Low,33.4,Calcium + Phosphorus,Morning & Evening,24.7,Tropical,82,High,No,Milk Yield,Provide clean drinking water.
+F150,Corn Silage,Silage,All,Sahiwal,Adult,Milk Production,9.0,High,10.5,Calcium,Morning,13.2,Tropical,94,High,Yes,Digestion,Ideal for indigenous breeds.
+F151,Bajra Fodder,Green,Goat,HF,Calf,Calf Development,20.1,Low,23.1,Calcium,Morning,24.2,Humid,87,High,Yes,Fertility,Ideal for indigenous breeds.
+F152,Corn Silage,Silage,Goat,Ongole,Young,Growth,22.1,High,9.4,Phosphorus,Morning,9.9,Dry,89,Low,Yes,Digestion,Ideal for indigenous breeds.
+F153,Rice Bran,Concentrate,All,All Breeds,Pregnant,Maintenance,27.1,Low,27.6,Calcium,Evening,5.1,Dry,61,High,No,Overall Health,Best for dairy animals.
+F154,Bajra Fodder,Green,Goat,Kangayam,Pregnant,Weight Gain,17.7,High,32.8,Calcium + Phosphorus,Evening,4.4,All Climates,80,Medium,Yes,Weight Gain,Provide clean drinking water.
+F155,Groundnut Cake,Supplement,Buffalo,Gir,Pregnant,Calf Development,17.1,High,13.7,Calcium + Phosphorus,Evening,4.2,Humid,85,Medium,Yes,Fertility,Store in a dry place.
+F156,Napier Grass,Green,Buffalo,Gir,Pregnant,Growth,10.9,Low,24.6,Vitamins,Morning & Evening,19.7,Humid,42,Low,No,Overall Health,Use with mineral mixture.
+F157,Rice Bran,Concentrate,Buffalo,Kangayam,All,Maintenance,19.9,Medium,18.9,Calcium,Morning,11.4,All Climates,49,Low,Yes,Digestion,Ideal for indigenous breeds.
+F158,Azolla,Green,Buffalo,Sahiwal,Pregnant,Milk Production,13.7,Medium,30.6,Vitamins,Morning & Evening,9.4,Tropical,116,High,No,Milk Yield,Ideal for indigenous breeds.
+F159,Rice Bran,Concentrate,All,Jersey,Pregnant,Milk Production,23.0,Low,8.5,Mineral Mix,Evening,13.1,Tropical,77,Low,Yes,Milk Yield,Store in a dry place.
+F160,Rice Bran,Concentrate,All,Jersey,Adult,Growth,19.0,Medium,34.3,Mineral Mix,Morning,10.7,Dry,59,Low,No,Fertility,Use with mineral mixture.
+F161,Concentrate Mix,Concentrate,Buffalo,All Breeds,Adult,Milk Production,21.5,Medium,22.1,Phosphorus,Morning,13.8,Tropical,120,High,Yes,Milk Yield,Store in a dry place.
+F162,Dry Fodder,Dry,Buffalo,Jersey,All,Calf Development,11.4,High,22.2,Mineral Mix,Morning & Evening,6.3,Dry,54,Medium,Yes,Digestion,Store in a dry place.
+F163,Hay,Dry,Goat,Jersey,Young,Milk Production,10.1,Low,31.1,Calcium,Morning,19.0,Tropical,12,Low,No,Digestion,Ideal for indigenous breeds.
+F164,Rice Bran,Concentrate,Goat,Ongole,All,Weight Gain,19.7,Low,24.8,Calcium + Phosphorus,Morning & Evening,17.6,Humid,114,Medium,Yes,Fertility,Best for dairy animals.
+F165,Rice Bran,Concentrate,Cattle,Ongole,Pregnant,Pregnancy,24.4,Low,19.7,Vitamins,Morning & Evening,17.5,All Climates,84,Low,Yes,Milk Yield,Ideal for indigenous breeds.
+F166,Napier Grass,Green,Cattle,All Breeds,Young,Calf Development,25.5,Medium,13.7,Calcium + Phosphorus,Morning & Evening,10.0,Tropical,91,High,No,Digestion,Best for dairy animals.
+F167,Green Fodder,Green,Goat,Ongole,Calf,Growth,15.0,High,22.2,Mineral Mix,Morning,19.3,Tropical,16,Medium,No,Weight Gain,Provide clean drinking water.
+F168,Lucerne,Green,Cattle,Jersey,Pregnant,Weight Gain,19.1,Low,8.1,Mineral Mix,Morning,5.7,Humid,20,Low,Yes,Milk Yield,Use with mineral mixture.
+F169,Maize Silage,Silage,All,Gir,Calf,Maintenance,8.3,Medium,25.0,Vitamins,Morning,2.0,Tropical,105,Medium,No,Fertility,Provide clean drinking water.
+F170,Corn Silage,Silage,All,HF,Pregnant,Maintenance,9.5,Low,22.1,Calcium + Phosphorus,Morning & Evening,14.1,Dry,51,Low,Yes,Fertility,Best for dairy animals.
+F171,Cotton Seed Cake,Supplement,Buffalo,HF,Calf,Maintenance,19.8,Medium,18.8,Vitamins,Morning,1.6,Humid,90,Low,Yes,Weight Gain,Provide clean drinking water.
+F172,Napier Grass,Green,Buffalo,Kangayam,All,Growth,18.7,Low,22.8,Vitamins,Morning & Evening,23.9,All Climates,79,High,Yes,Weight Gain,Store in a dry place.
+F173,Hay,Dry,All,Kangayam,All,Pregnancy,13.8,Medium,23.8,Vitamins,Evening,5.3,Humid,61,High,Yes,Milk Yield,Store in a dry place.
+F174,Green Fodder,Green,Goat,Jersey,Pregnant,Growth,22.6,Medium,9.8,Calcium + Phosphorus,Evening,3.9,Humid,97,High,No,Immunity,Store in a dry place.
+F175,Azolla,Green,Goat,HF,All,Pregnancy,25.3,Low,9.4,Calcium,Morning & Evening,24.6,Humid,35,Medium,No,Weight Gain,Provide clean drinking water.
+F176,Hay,Dry,Buffalo,Ongole,Calf,Growth,8.9,Medium,11.0,Calcium + Phosphorus,Evening,12.4,Dry,16,High,Yes,Fertility,Store in a dry place.
+F177,Rice Bran,Concentrate,Buffalo,Ongole,Adult,Calf Development,16.4,Medium,34.4,Vitamins,Evening,18.5,Dry,20,Low,Yes,Overall Health,Provide clean drinking water.
+F178,Molasses,Supplement,Buffalo,Ongole,Calf,Growth,16.6,Low,31.7,Calcium,Morning,24.6,All Climates,83,Medium,No,Immunity,Provide clean drinking water.
+F179,Molasses,Supplement,Buffalo,Gir,Calf,Pregnancy,21.4,Medium,20.5,Calcium,Morning & Evening,16.0,Tropical,62,Low,Yes,Fertility,Provide clean drinking water.
+F180,Mineral Mixture,Supplement,Cattle,Ongole,All,Weight Gain,8.2,High,25.1,Vitamins,Morning,23.4,Dry,23,Medium,Yes,Overall Health,Provide clean drinking water.
+F181,Maize Silage,Silage,Goat,All Breeds,Calf,Growth,21.0,Medium,18.5,Vitamins,Evening,15.0,Humid,111,Low,Yes,Immunity,Store in a dry place.
+F182,Dry Fodder,Dry,Cattle,Ongole,Calf,Maintenance,23.0,High,23.4,Calcium,Evening,16.2,Humid,34,Low,No,Milk Yield,Ideal for indigenous breeds.
+F183,Molasses,Supplement,Goat,Ongole,Calf,Milk Production,17.9,High,13.4,Phosphorus,Morning,1.2,All Climates,27,Medium,Yes,Overall Health,Use with mineral mixture.
+F184,Rice Bran,Concentrate,Buffalo,Kangayam,Calf,Milk Production,12.3,Low,17.8,Calcium,Evening,21.7,Dry,52,High,No,Fertility,Store in a dry place.
+F185,Dry Fodder,Dry,Goat,Sahiwal,Young,Milk Production,25.3,Medium,12.4,Phosphorus,Morning & Evening,17.6,Tropical,54,Low,No,Overall Health,Use with mineral mixture.
+F186,Corn Silage,Silage,Goat,Jersey,Calf,Growth,17.1,High,27.6,Calcium,Morning & Evening,14.7,All Climates,54,Low,No,Immunity,Use with mineral mixture.
+F187,Green Fodder,Green,Buffalo,Kangayam,Calf,Calf Development,11.9,High,9.1,Mineral Mix,Morning & Evening,1.6,Dry,97,Medium,Yes,Immunity,Use with mineral mixture.
+F188,Molasses,Supplement,Cattle,Jersey,All,Pregnancy,11.8,Low,34.5,Calcium,Morning & Evening,14.2,All Climates,95,High,Yes,Digestion,Use with mineral mixture.
+F189,Corn Silage,Silage,Buffalo,HF,Calf,Milk Production,21.5,Medium,27.9,Calcium,Morning,1.3,Tropical,48,Low,No,Overall Health,Ideal for indigenous breeds.
+F190,Lucerne,Green,Cattle,Jersey,Pregnant,Maintenance,26.1,Low,23.1,Vitamins,Evening,9.5,Tropical,13,Low,No,Milk Yield,Best for dairy animals.
+F191,Azolla,Green,Buffalo,Ongole,Young,Growth,14.1,Low,23.8,Mineral Mix,Morning,19.6,Humid,12,Low,No,Digestion,Store in a dry place.
+F192,Napier Grass,Green,Cattle,All Breeds,All,Weight Gain,16.2,High,29.0,Phosphorus,Morning,16.8,Dry,110,Medium,Yes,Fertility,Provide clean drinking water.
+F193,Molasses,Supplement,All,HF,All,Milk Production,26.6,Medium,19.4,Vitamins,Morning & Evening,9.4,Tropical,23,High,No,Immunity,Ideal for indigenous breeds.
+F194,Concentrate Mix,Concentrate,Cattle,Jersey,Young,Weight Gain,20.3,High,15.9,Mineral Mix,Evening,18.0,Dry,104,Medium,Yes,Fertility,Use with mineral mixture.
+F195,Corn Silage,Silage,Cattle,HF,All,Weight Gain,22.2,Low,33.0,Phosphorus,Morning & Evening,10.6,Dry,22,Medium,Yes,Weight Gain,Ideal for indigenous breeds.
+F196,Mineral Mixture,Supplement,Goat,Kangayam,Pregnant,Growth,12.0,Medium,28.5,Mineral Mix,Evening,17.0,Dry,11,Low,No,Weight Gain,Ideal for indigenous breeds.
+F197,Lucerne,Green,Cattle,HF,Pregnant,Calf Development,26.7,High,23.0,Calcium,Morning,2.3,Humid,89,Medium,Yes,Overall Health,Store in a dry place.
+F198,Bajra Fodder,Green,Cattle,Sahiwal,Adult,Growth,22.1,High,31.3,Vitamins,Morning & Evening,18.9,Dry,91,Medium,Yes,Milk Yield,Best for dairy animals.
+F199,Corn Silage,Silage,Goat,Kangayam,Young,Growth,26.6,High,19.3,Vitamins,Morning,15.9,Dry,53,Medium,Yes,Weight Gain,Use with mineral mixture.
+F200,Maize Silage,Silage,All,Jersey,Young,Maintenance,16.7,Low,17.1,Calcium,Morning,6.9,All Climates,46,Low,No,Digestion,Store in a dry place.

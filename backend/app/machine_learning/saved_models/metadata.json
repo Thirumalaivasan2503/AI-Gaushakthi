@@ -1,0 +1,55 @@
+{
+  "selected_model_name": "Hist Gradient Boosting (LightGBM Equivalent)",
+  "best_accuracy": 0.7344,
+  "feature_names": [
+    "farmer_age",
+    "climate_zone_code",
+    "average_temp_c",
+    "humidity_percent",
+    "annual_rainfall_mm",
+    "water_availability_code",
+    "soil_type_code",
+    "farm_size_acres",
+    "available_budget_inr",
+    "feed_budget_monthly_inr",
+    "medical_budget_monthly_inr",
+    "livestock_count",
+    "disease_history_count",
+    "vaccination_status_code",
+    "productivity_goal_code",
+    "milk_requirement_liters",
+    "organic_pref_flag",
+    "budget_ratio",
+    "thi_heat_index"
+  ],
+  "evaluations": {
+    "Random Forest Classifier": {
+      "accuracy": 0.725,
+      "precision": 0.685,
+      "recall": 0.725,
+      "f1_score": 0.6912,
+      "cv_mean_5fold": 0.7242
+    },
+    "Extra Trees Classifier": {
+      "accuracy": 0.7094,
+      "precision": 0.6643,
+      "recall": 0.7094,
+      "f1_score": 0.6695,
+      "cv_mean_5fold": 0.6836
+    },
+    "Gradient Boosting (XGBoost Equivalent)": {
+      "accuracy": 0.725,
+      "precision": 0.714,
+      "recall": 0.725,
+      "f1_score": 0.7066,
+      "cv_mean_5fold": 0.7344
+    },
+    "Hist Gradient Boosting (LightGBM Equivalent)": {
+      "accuracy": 0.7344,
+      "precision": 0.7225,
+      "recall": 0.7344,
+      "f1_score": 0.7113,
+      "cv_mean_5fold": 0.7453
+    }
+  }
+}
