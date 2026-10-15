@@ -1,4 +1,4 @@
-# PasuMitra AI: Indigenous Livestock Breed Recommendation & Agronomic Ecosystem
+# AI Gaushakthi: Indigenous Livestock Breed Recommendation & Agronomic Ecosystem
 
 [![CI/CD Pipeline](https://github.com/pasumitra/agritech-system/actions/workflows/ci_cd.yml/badge.svg)](https://github.com/pasumitra/agritech-system/actions)
 [![Python 3.11](https://img.shields.io/badge/Python-3.11-green.svg)](https://www.python.org/)
